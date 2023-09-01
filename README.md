@@ -1,6 +1,8 @@
 # Perov_CGCNN
 This is the repository of code and data for paper "Machine learning-enabled chemical space exploration of all-inorganic perovskites for photovoltaics"
 
+First, unzip "Supporting files.zip" file. Then, there are "Data", "CGCNN_training", "CGCNN_searching", and "Codes_for_figures" directories.
+
 In "Data" directory,	"Exploration results obtained by CGCNN.xlsx" file contains screening results for 41,400 ABX3 perovskite compositions. "Training data for CGCNN.xlsx" file contains DFT calculation results for 3,159 ABX3 perovskite compositions.
 
 "CGCNN_training" directory contains "CIF" directory containing 3,159 ABX3 perovskite structures used for CGCNN training. There are three .csv files: "id_prop_for_bandgap.csv", "id_prop_for_bandtype.csv", and "id_prop_for_decomp.csv". If you want to train CGCNN model for predicting one of the three properties, please rename the corresponding .csv file to "id_prop.csv". For example, rename "id_prop_for_decomp.csv" to "id_prop.csv" if you want to train CGCNN model predicting decomposition energy. All codes for CGCNN are available in GitHub (https://github.com/txie-93/cgcnn). 
