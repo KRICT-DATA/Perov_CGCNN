@@ -1,0 +1,9 @@
+1. Type "sh make_cif.sh". This will create "cif_dir" directory containing CIF files of DFT training dataset. This script requires python package "ASE" (https://databases.fysik.dtu.dk/ase/index.html). Be sure to install ASE first. This will take some time.
+
+2. Type "sh make_id_prop.sh [property]". Replace [property] to one of the properties: decomp, bandgap, and bandtype. This will create "id_prop.csv" file in "cif_dir" directory. "id_prop.csv" file contains values of the designated property for each CIF file. Check whether the "id_prop.csv" file was created, by typing "vi ./cif_dif/id_prop.csv"
+
+3. Type "python main.py --epochs 100000 --train-ratio 0.7 --val-ratio 0.1 --test-ratio 0.2 ./cif_dir" to train regression model for decomp and bandgap. 
+Type "python main.py --epochs 100000 --task classification --train-ratio 0.7 --val-ratio 0.1 --test-ratio 0.2 ./cif_dir" to train classification model for bandtype.
+If you have computer cluster node, submit job to the cluster by typing "sbatch job_submit_example.sh", for example.
+This will create "model_best.pth.tar" and "checkpoint.pth.tar" files. After sufficient epochs, use "model_best.pth.tar" as the final model.
+Be sure to install pre-requistes to run CGCNN codes https://github.com/txie-93/cgcnn 
