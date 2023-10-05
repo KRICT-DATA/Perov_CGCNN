@@ -41,4 +41,4 @@ This directory contains DFT calculation results for selected composition from CG
 This contains codes and data to reproduce figures in the manuscript. 
 
 ## **Authors**
-This codes were primarily written by Jin-Soo Kim and Juhwan Noh who were advised by Dr. Jino Im.
+This codes were primarily written by [Jin-Soo Kim](https://orcid.org/0000-0002-8230-8783) and [Juhwan Noh](https://scholar.google.co.kr/citations?hl=en&user=1FWcaAIAAAAJ) who were advised by Dr. [Jino Im](https://scholar.google.co.kr/citations?hl=en&user=b5Buk0MAAAAJ).
