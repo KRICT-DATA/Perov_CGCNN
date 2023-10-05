@@ -1,0 +1,428 @@
+Summary of calculations
+Site name (A,B,C)... K Cd,Pb,Sn Cl
+Base cif file name... ../0.cif
+Save file name... K_CdPbSn_Cl.pkl
+Fin; combination with repetition...time: 0.0017580986022949219
+Start for  14_1_1 [1/105]
+Fin;generate all combinations 240 ...time: 0.0006351470947265625
+Fin; energy prediction...time: 0.19626331329345703
+Egy stat [-14.83507, -13.434777, -14.279766, 0.2964824]
+Start for  13_2_1 [2/105]
+Fin;generate all combinations 1680 ...time: 0.0036520957946777344
+Fin; energy prediction...time: 0.3904457092285156
+Egy stat [-15.315174, -13.025051, -14.281596, 0.436525]
+Start for  13_1_2 [3/105]
+Fin;generate all combinations 1680 ...time: 0.0039920806884765625
+Fin; energy prediction...time: 0.3895907402038574
+Egy stat [-15.0241585, -12.853708, -14.081613, 0.41179493]
+Start for  12_3_1 [4/105]
+Fin;generate all combinations 7280 ...time: 0.012276649475097656
+Fin; energy prediction...time: 1.0810484886169434
+Egy stat [-16.381573, -12.053568, -14.413155, 0.54217374]
+Start for  12_2_2 [5/105]
+Fin;generate all combinations 10920 ...time: 0.017484664916992188
+Fin; energy prediction...time: 1.5697970390319824
+Egy stat [-16.006212, -11.886173, -14.146139, 0.512836]
+Start for  12_1_3 [6/105]
+Fin;generate all combinations 7280 ...time: 0.0632467269897461
+Fin; energy prediction...time: 1.2132372856140137
+Egy stat [-15.574061, -11.760533, -13.891157, 0.4817973]
+Start for  11_4_1 [7/105]
+Fin;generate all combinations 21840 ...time: 0.07764720916748047
+Fin; energy prediction...time: 2.9790942668914795
+Egy stat [-17.180582, -12.595947, -14.694527, 0.6218398]
+Start for  11_3_2 [8/105]
+Fin;generate all combinations 43680 ...time: 0.11448931694030762
+Fin; energy prediction...time: 5.761470556259155
+Egy stat [-16.80299, -12.358739, -14.366779, 0.5912267]
+Start for  11_2_3 [9/105]
+Fin;generate all combinations 43680 ...time: 0.15022587776184082
+Fin; energy prediction...time: 5.694404363632202
+Egy stat [-16.343075, -12.123578, -14.050469, 0.5589871]
+Start for  11_1_4 [10/105]
+Fin;generate all combinations 21840 ...time: 0.05025625228881836
+Fin; energy prediction...time: 3.214570999145508
+Egy stat [-15.801931, -11.967788, -13.746772, 0.5244422]
+Start for  10_5_1 [11/105]
+Fin;generate all combinations 48048 ...time: 0.176483154296875
+Fin; energy prediction...time: 6.117431879043579
+Egy stat [-18.45583, -13.0057125, -15.138549, 0.6778528]
+Start for  10_4_2 [12/105]
+Fin;generate all combinations 120120 ...time: 0.42932677268981934
+Fin; energy prediction...time: 14.917723894119263
+Egy stat [-18.004581, -12.644947, -14.755627, 0.6480959]
+Start for  10_3_3 [13/105]
+Fin;generate all combinations 160160 ...time: 0.606583833694458
+Fin; energy prediction...time: 19.866519927978516
+Egy stat [-17.534828, -12.403446, -14.383557, 0.61694306]
+Start for  10_2_4 [14/105]
+Fin;generate all combinations 120120 ...time: 0.37874770164489746
+Fin; energy prediction...time: 15.091948747634888
+Egy stat [-17.078667, -12.1417885, -14.023555, 0.5839207]
+Start for  10_1_5 [15/105]
+Fin;generate all combinations 48048 ...time: 0.09853124618530273
+Fin; energy prediction...time: 6.237901449203491
+Egy stat [-16.4023, -11.902648, -13.676758, 0.54848975]
+Start for  9_6_1 [16/105]
+Fin;generate all combinations 80080 ...time: 0.2517848014831543
+Fin; energy prediction...time: 10.349097490310669
+Egy stat [-19.868595, -13.672472, -15.75202, 0.71060884]
+Start for  9_5_2 [17/105]
+Fin;generate all combinations 240240 ...time: 0.6274383068084717
+Fin; energy prediction...time: 30.007136344909668
+Egy stat [-19.300049, -13.25227, -15.318754, 0.68295354]
+Start for  9_4_3 [18/105]
+Fin;generate all combinations 400400 ...time: 1.4298617839813232
+Fin; energy prediction...time: 49.688713788986206
+Egy stat [-18.707958, -12.846635, -14.895806, 0.6541174]
+Start for  9_3_4 [19/105]
+Fin;generate all combinations 400400 ...time: 1.9039111137390137
+Fin; energy prediction...time: 49.487650632858276
+Egy stat [-18.11889, -12.441158, -14.484389, 0.6237728]
+Start for  9_2_5 [20/105]
+Fin;generate all combinations 240240 ...time: 0.9129080772399902
+Fin; energy prediction...time: 29.997995138168335
+Egy stat [-17.489067, -12.162529, -14.085669, 0.5915501]
+Start for  9_1_6 [21/105]
+Fin;generate all combinations 80080 ...time: 0.1708841323852539
+Fin; energy prediction...time: 10.637857675552368
+Egy stat [-16.819984, -11.981559, -13.700733, 0.55701005]
+Start for  8_7_1 [22/105]
+Fin;generate all combinations 102960 ...time: 0.43233728408813477
+Fin; energy prediction...time: 13.004206895828247
+Egy stat [-21.717875, -13.736167, -16.536776, 0.7200427]
+Start for  8_6_2 [23/105]
+Fin;generate all combinations 360360 ...time: 1.3592045307159424
+Fin; energy prediction...time: 44.45448446273804
+Egy stat [-21.022755, -13.26625, -16.057232, 0.69518423]
+Start for  8_5_3 [24/105]
+Fin;generate all combinations 720720 ...time: 2.0325236320495605
+Fin; energy prediction...time: 89.92323327064514
+Egy stat [-20.307621, -12.810638, -15.587581, 0.6692935]
+Start for  8_4_4 [25/105]
+Fin;generate all combinations 900900 ...time: 2.7074384689331055
+Fin; energy prediction...time: 111.97625851631165
+Egy stat [-19.60742, -12.343989, -15.128984, 0.64214116]
+Start for  8_3_5 [26/105]
+Fin;generate all combinations 720720 ...time: 3.9645588397979736
+Fin; energy prediction...time: 88.11184072494507
+Egy stat [-18.917221, -12.078255, -14.682595, 0.61346966]
+Start for  8_2_6 [27/105]
+Fin;generate all combinations 360360 ...time: 1.7957274913787842
+Fin; energy prediction...time: 46.21706819534302
+Egy stat [-18.23507, -11.814049, -14.249517, 0.5829771]
+Start for  8_1_7 [28/105]
+Fin;generate all combinations 102960 ...time: 0.2380506992340088
+Fin; energy prediction...time: 13.492328882217407
+Egy stat [-17.54409, -11.577866, -13.830785, 0.5502924]
+Start for  7_8_1 [29/105]
+Fin;generate all combinations 102960 ...time: 0.18319463729858398
+Fin; energy prediction...time: 13.461054801940918
+Egy stat [-21.859058, -15.133622, -17.490696, 0.7062073]
+Start for  7_7_2 [30/105]
+Fin;generate all combinations 411840 ...time: 1.5829052925109863
+Fin; energy prediction...time: 50.617027044296265
+Egy stat [-21.161938, -14.607023, -16.968122, 0.68456286]
+Start for  7_6_3 [31/105]
+Fin;generate all combinations 960960 ...time: 3.170269250869751
+Fin; energy prediction...time: 117.76518535614014
+Egy stat [-20.47606, -14.053037, -16.455168, 0.6619649]
+Start for  7_5_4 [32/105]
+Fin;generate all combinations 1441440 ...time: 5.188608407974243
+Fin; energy prediction...time: 176.3351182937622
+Egy stat [-19.779552, -13.497993, -15.952929, 0.63824683]
+Start for  7_4_5 [33/105]
+Fin;generate all combinations 1441440 ...time: 7.111985445022583
+Fin; energy prediction...time: 176.15242743492126
+Egy stat [-19.094349, -12.992851, -15.462499, 0.61322415]
+Start for  7_3_6 [34/105]
+Fin;generate all combinations 960960 ...time: 3.8293797969818115
+Fin; energy prediction...time: 122.35182929039001
+Egy stat [-18.428072, -12.722243, -14.984942, 0.58668274]
+Start for  7_2_7 [35/105]
+Fin;generate all combinations 411840 ...time: 0.7721409797668457
+Fin; energy prediction...time: 53.6226704120636
+Egy stat [-17.758135, -12.461858, -14.521285, 0.5583625]
+Start for  7_1_8 [36/105]
+Fin;generate all combinations 102960 ...time: 0.2237687110900879
+Fin; energy prediction...time: 13.864167928695679
+Egy stat [-17.072624, -12.230916, -14.072488, 0.52793765]
+Start for  6_9_1 [37/105]
+Fin;generate all combinations 80080 ...time: 0.1579596996307373
+Fin; energy prediction...time: 10.432080268859863
+Egy stat [-21.997307, -16.517357, -18.608732, 0.66936684]
+Start for  6_8_2 [38/105]
+Fin;generate all combinations 360360 ...time: 1.314995527267456
+Fin; energy prediction...time: 44.70315217971802
+Egy stat [-21.518332, -15.825978, -18.045486, 0.6512657]
+Start for  6_7_3 [39/105]
+Fin;generate all combinations 960960 ...time: 3.5410075187683105
+Fin; energy prediction...time: 117.91684651374817
+Egy stat [-20.839005, -15.188599, -17.491796, 0.6322355]
+Start for  6_6_4 [40/105]
+Fin;generate all combinations 1681680 ...time: 7.936485052108765
+Fin; energy prediction...time: 206.37509775161743
+Egy stat [-20.168747, -14.549765, -16.948664, 0.61214477]
+Start for  6_5_5 [41/105]
+Fin;generate all combinations 2018016 ...time: 9.093687295913696
+Fin; energy prediction...time: 246.18813562393188
+Egy stat [-19.4859, -14.053806, -16.417086, 0.59085435]
+Start for  6_4_6 [42/105]
+Fin;generate all combinations 1681680 ...time: 6.451959609985352
+Fin; energy prediction...time: 206.98728561401367
+Egy stat [-18.814022, -13.560457, -15.898077, 0.56820506]
+Start for  6_3_7 [43/105]
+Fin;generate all combinations 960960 ...time: 4.509385585784912
+Fin; energy prediction...time: 119.70988154411316
+Egy stat [-18.140789, -13.298721, -15.392602, 0.54400796]
+Start for  6_2_8 [44/105]
+Fin;generate all combinations 360360 ...time: 2.1207430362701416
+Fin; energy prediction...time: 46.18816876411438
+Egy stat [-17.464783, -13.043, -14.901588, 0.5180285]
+Start for  6_1_9 [45/105]
+Fin;generate all combinations 80080 ...time: 0.20415878295898438
+Fin; energy prediction...time: 10.982257604598999
+Egy stat [-16.760157, -12.813374, -14.42592, 0.4899697]
+Start for  5_10_1 [46/105]
+Fin;generate all combinations 48048 ...time: 0.2710723876953125
+Fin; energy prediction...time: 6.621747016906738
+Egy stat [-22.42553, -18.169403, -19.883997, 0.6098156]
+Start for  5_9_2 [47/105]
+Fin;generate all combinations 240240 ...time: 1.050497055053711
+Fin; energy prediction...time: 30.167776823043823
+Egy stat [-21.993591, -17.497696, -19.281448, 0.59560305]
+Start for  5_8_3 [48/105]
+Fin;generate all combinations 720720 ...time: 2.943592071533203
+Fin; energy prediction...time: 89.06854677200317
+Egy stat [-21.44955, -16.842604, -18.688667, 0.5804575]
+Start for  5_7_4 [49/105]
+Fin;generate all combinations 1441440 ...time: 5.019379138946533
+Fin; energy prediction...time: 178.61327242851257
+Egy stat [-20.776865, -16.200481, -18.106508, 0.56425816]
+Start for  5_6_5 [50/105]
+Fin;generate all combinations 2018016 ...time: 7.274449586868286
+Fin; energy prediction...time: 255.98625373840332
+Egy stat [-20.125345, -15.594345, -17.53588, 0.5468867]
+Start for  5_5_6 [51/105]
+Fin;generate all combinations 2018016 ...time: 7.211632251739502
+Fin; energy prediction...time: 251.40405797958374
+Egy stat [-19.45828, -15.117016, -16.977694, 0.5282158]
+Start for  5_4_7 [52/105]
+Fin;generate all combinations 1441440 ...time: 6.044414520263672
+Fin; energy prediction...time: 177.60017466545105
+Egy stat [-18.766838, -14.627392, -16.432823, 0.50809914]
+Start for  5_3_8 [53/105]
+Fin;generate all combinations 720720 ...time: 4.342306852340698
+Fin; energy prediction...time: 89.75801849365234
+Egy stat [-18.06584, -14.276801, -15.902158, 0.48636025]
+Start for  5_2_9 [54/105]
+Fin;generate all combinations 240240 ...time: 0.5093388557434082
+Fin; energy prediction...time: 31.217265367507935
+Egy stat [-17.38144, -13.932977, -15.386515, 0.46277854]
+Start for  5_1_10 [55/105]
+Fin;generate all combinations 48048 ...time: 0.13741397857666016
+Fin; energy prediction...time: 6.937150716781616
+Egy stat [-16.691427, -13.650882, -14.886658, 0.4370733]
+Start for  4_11_1 [56/105]
+Fin;generate all combinations 21840 ...time: 0.17012882232666016
+Fin; energy prediction...time: 3.5642082691192627
+Egy stat [-23.306372, -19.518286, -21.30889, 0.5276165]
+Start for  4_10_2 [57/105]
+Fin;generate all combinations 120120 ...time: 0.43158411979675293
+Fin; energy prediction...time: 15.508769273757935
+Egy stat [-22.799377, -18.85765, -20.667364, 0.51768804]
+Start for  4_9_3 [58/105]
+Fin;generate all combinations 400400 ...time: 1.390632152557373
+Fin; energy prediction...time: 49.76835775375366
+Egy stat [-22.217623, -18.221199, -20.036098, 0.506824]
+Start for  4_8_4 [59/105]
+Fin;generate all combinations 900900 ...time: 3.457874298095703
+Fin; energy prediction...time: 110.92489194869995
+Egy stat [-21.636395, -17.56769, -19.41583, 0.49489114]
+Start for  4_7_5 [60/105]
+Fin;generate all combinations 1441440 ...time: 5.818467855453491
+Fin; energy prediction...time: 179.23977613449097
+Egy stat [-20.977055, -17.054657, -18.80734, 0.48176843]
+Start for  4_6_6 [61/105]
+Fin;generate all combinations 1681680 ...time: 6.769812822341919
+Fin; energy prediction...time: 205.48933386802673
+Egy stat [-20.320759, -16.497696, -18.2114, 0.46733817]
+Start for  4_5_7 [62/105]
+Fin;generate all combinations 1441440 ...time: 8.525468349456787
+Fin; energy prediction...time: 178.25352120399475
+Egy stat [-19.611698, -15.994431, -17.628786, 0.45147428]
+Start for  4_4_8 [63/105]
+Fin;generate all combinations 900900 ...time: 4.13795804977417
+Fin; energy prediction...time: 113.00978636741638
+Egy stat [-18.91491, -15.449724, -17.060291, 0.43403187]
+Start for  4_3_9 [64/105]
+Fin;generate all combinations 400400 ...time: 0.800809383392334
+Fin; energy prediction...time: 51.53298091888428
+Egy stat [-18.235031, -15.118477, -16.506674, 0.41483656]
+Start for  4_2_10 [65/105]
+Fin;generate all combinations 120120 ...time: 0.8522031307220459
+Fin; energy prediction...time: 15.985517263412476
+Egy stat [-17.559515, -14.688721, -15.968645, 0.39367038]
+Start for  4_1_11 [66/105]
+Fin;generate all combinations 21840 ...time: 0.06531858444213867
+Fin; energy prediction...time: 3.7028648853302
+Egy stat [-16.865698, -14.316463, -15.446849, 0.3702541]
+Start for  3_12_1 [67/105]
+Fin;generate all combinations 7280 ...time: 0.020426034927368164
+Fin; energy prediction...time: 1.6203994750976562
+Egy stat [-24.095634, -21.757545, -22.87621, 0.4224251]
+Start for  3_11_2 [68/105]
+Fin;generate all combinations 43680 ...time: 0.08161640167236328
+Fin; energy prediction...time: 6.164147853851318
+Egy stat [-23.572691, -21.040386, -22.194927, 0.41724542]
+Start for  3_10_3 [69/105]
+Fin;generate all combinations 160160 ...time: 0.5961780548095703
+Fin; energy prediction...time: 20.410754919052124
+Egy stat [-23.000265, -20.32407, -21.52474, 0.41115743]
+Start for  3_9_4 [70/105]
+Fin;generate all combinations 400400 ...time: 1.8074355125427246
+Fin; energy prediction...time: 49.14814352989197
+Egy stat [-22.35516, -19.672766, -20.86624, 0.4039881]
+Start for  3_8_5 [71/105]
+Fin;generate all combinations 720720 ...time: 2.928452730178833
+Fin; energy prediction...time: 90.59971761703491
+Egy stat [-21.675058, -19.040176, -20.220049, 0.39559045]
+Start for  3_7_6 [72/105]
+Fin;generate all combinations 960960 ...time: 5.8085222244262695
+Fin; energy prediction...time: 118.9991705417633
+Egy stat [-21.016048, -18.443207, -19.58682, 0.38583252]
+Start for  3_6_7 [73/105]
+Fin;generate all combinations 960960 ...time: 5.04598593711853
+Fin; energy prediction...time: 118.71919131278992
+Egy stat [-20.318493, -17.812407, -18.967218, 0.37458566]
+Start for  3_5_8 [74/105]
+Fin;generate all combinations 720720 ...time: 3.084439516067505
+Fin; energy prediction...time: 90.35915040969849
+Egy stat [-19.603888, -17.300283, -18.361902, 0.36171392]
+Start for  3_4_9 [75/105]
+Fin;generate all combinations 400400 ...time: 1.9311761856079102
+Fin; energy prediction...time: 50.68546199798584
+Egy stat [-18.909191, -16.793478, -17.771542, 0.34706306]
+Start for  3_3_10 [76/105]
+Fin;generate all combinations 160160 ...time: 0.3314347267150879
+Fin; energy prediction...time: 20.70590853691101
+Egy stat [-18.241993, -16.318096, -17.196777, 0.33044648]
+Start for  3_2_11 [77/105]
+Fin;generate all combinations 43680 ...time: 0.34591078758239746
+Fin; energy prediction...time: 6.398864030838013
+Egy stat [-17.560398, -15.852871, -16.638191, 0.31162924]
+Start for  3_1_12 [78/105]
+Fin;generate all combinations 7280 ...time: 0.022083044052124023
+Fin; energy prediction...time: 1.660346269607544
+Egy stat [-16.891188, -15.403587, -16.096304, 0.2903041]
+Start for  2_13_1 [79/105]
+Fin;generate all combinations 1680 ...time: 0.006441831588745117
+Fin; energy prediction...time: 0.962172269821167
+Egy stat [-25.161287, -23.976936, -24.580187, 0.29341346]
+Start for  2_12_2 [80/105]
+Fin;generate all combinations 10920 ...time: 0.022676944732666016
+Fin; energy prediction...time: 2.0287320613861084
+Egy stat [-24.610424, -23.142647, -23.857252, 0.29368594]
+Start for  2_11_3 [81/105]
+Fin;generate all combinations 43680 ...time: 0.14852356910705566
+Fin; energy prediction...time: 6.197611570358276
+Egy stat [-24.0363, -22.400288, -23.146578, 0.2931293]
+Start for  2_10_4 [82/105]
+Fin;generate all combinations 120120 ...time: 0.47013139724731445
+Fin; energy prediction...time: 15.945167303085327
+Egy stat [-23.490143, -21.660595, -22.44862, 0.2914832]
+Start for  2_9_5 [83/105]
+Fin;generate all combinations 240240 ...time: 0.9470300674438477
+Fin; energy prediction...time: 30.02296757698059
+Egy stat [-22.76841, -20.960423, -21.76385, 0.28853866]
+Start for  2_8_6 [84/105]
+Fin;generate all combinations 360360 ...time: 1.779083251953125
+Fin; energy prediction...time: 45.193201303482056
+Egy stat [-22.068327, -20.255514, -21.09278, 0.28412145]
+Start for  2_7_7 [85/105]
+Fin;generate all combinations 411840 ...time: 2.286348819732666
+Fin; energy prediction...time: 51.33546590805054
+Egy stat [-21.32565, -19.605244, -20.435942, 0.27807656]
+Start for  2_6_8 [86/105]
+Fin;generate all combinations 360360 ...time: 1.8789663314819336
+Fin; energy prediction...time: 44.91588878631592
+Egy stat [-20.607471, -18.946411, -19.79388, 0.2702545]
+Start for  2_5_9 [87/105]
+Fin;generate all combinations 240240 ...time: 0.9656097888946533
+Fin; energy prediction...time: 30.710944414138794
+Egy stat [-19.896133, -18.402426, -19.167135, 0.2604962]
+Start for  2_4_10 [88/105]
+Fin;generate all combinations 120120 ...time: 0.6415390968322754
+Fin; energy prediction...time: 15.905340909957886
+Egy stat [-19.198631, -17.864908, -18.556246, 0.24861677]
+Start for  2_3_11 [89/105]
+Fin;generate all combinations 43680 ...time: 0.29637980461120605
+Fin; energy prediction...time: 6.201584577560425
+Egy stat [-18.541798, -17.375435, -17.961714, 0.23438545]
+Start for  2_2_12 [90/105]
+Fin;generate all combinations 10920 ...time: 0.12872910499572754
+Fin; energy prediction...time: 2.113825559616089
+Egy stat [-17.88361, -16.887833, -17.384007, 0.21749268]
+Start for  2_1_13 [91/105]
+Fin;generate all combinations 1680 ...time: 0.006080150604248047
+Fin; energy prediction...time: 0.9611301422119141
+Egy stat [-17.193256, -16.440691, -16.823523, 0.19749413]
+Start for  1_14_1 [92/105]
+Fin;generate all combinations 240 ...time: 0.0015299320220947266
+Fin; energy prediction...time: 0.6943507194519043
+Egy stat [-26.660362, -26.220234, -26.417334, 0.13877112]
+Start for  1_13_2 [93/105]
+Fin;generate all combinations 1680 ...time: 0.004107236862182617
+Fin; energy prediction...time: 0.8806319236755371
+Egy stat [-25.994556, -25.37233, -25.649721, 0.1469435]
+Start for  1_12_3 [94/105]
+Fin;generate all combinations 7280 ...time: 0.016378164291381836
+Fin; energy prediction...time: 1.6948444843292236
+Egy stat [-25.33955, -24.563187, -24.895891, 0.15426634]
+Start for  1_11_4 [95/105]
+Fin;generate all combinations 21840 ...time: 0.048491716384887695
+Fin; energy prediction...time: 3.457181930541992
+Egy stat [-24.686132, -23.755817, -24.156147, 0.16025123]
+Start for  1_10_5 [96/105]
+Fin;generate all combinations 48048 ...time: 0.25604987144470215
+Fin; energy prediction...time: 6.728747844696045
+Egy stat [-23.982754, -22.969248, -23.430824, 0.16457589]
+Start for  1_9_6 [97/105]
+Fin;generate all combinations 80080 ...time: 0.41883373260498047
+Fin; energy prediction...time: 10.857433080673218
+Egy stat [-23.256874, -22.14755, -22.720291, 0.16701569]
+Start for  1_8_7 [98/105]
+Fin;generate all combinations 102960 ...time: 0.3939857482910156
+Fin; energy prediction...time: 13.539539098739624
+Egy stat [-22.542282, -21.31762, -22.024935, 0.16739745]
+Start for  1_7_8 [99/105]
+Fin;generate all combinations 102960 ...time: 0.3849294185638428
+Fin; energy prediction...time: 13.684755802154541
+Egy stat [-21.821407, -20.704357, -21.345163, 0.16556726]
+Start for  1_6_9 [100/105]
+Fin;generate all combinations 80080 ...time: 0.3953988552093506
+Fin; energy prediction...time: 10.686584949493408
+Egy stat [-21.119938, -20.097254, -20.681402, 0.16136344]
+Start for  1_5_10 [101/105]
+Fin;generate all combinations 48048 ...time: 0.25920963287353516
+Fin; energy prediction...time: 6.641007423400879
+Egy stat [-20.43851, -19.527084, -20.034071, 0.15458795]
+Start for  1_4_11 [102/105]
+Fin;generate all combinations 21840 ...time: 0.15976619720458984
+Fin; energy prediction...time: 3.397601366043091
+Egy stat [-19.757763, -18.986073, -19.403574, 0.14496614]
+Start for  1_3_12 [103/105]
+Fin;generate all combinations 7280 ...time: 0.017841577529907227
+Fin; energy prediction...time: 1.6745750904083252
+Egy stat [-19.09488, -18.462303, -18.79029, 0.13207437]
+Start for  1_2_13 [104/105]
+Fin;generate all combinations 1680 ...time: 0.004504203796386719
+Fin; energy prediction...time: 0.8775193691253662
+Egy stat [-18.444519, -17.954103, -18.194553, 0.11517525]
+Start for  1_1_14 [105/105]
+Fin;generate all combinations 240 ...time: 0.0012362003326416016
+Fin; energy prediction...time: 0.7197504043579102
+Egy stat [-17.781174, -17.46803, -17.616634, 0.092725135]
+Saving....
+Saved to... K_CdPbSn_Cl.pkl
+Total elapsed time... 5571.418393373489
