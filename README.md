@@ -37,7 +37,7 @@ See README file in the "CGCNN_searching" directory for details.
 ### **DFT_validation_for_selected_compositions** directory
 This directory contains DFT calculation results for selected composition from CGCNN searching. See the paper for criteria of selection.
 
-### **Codes_for_figures directory 
+### **Codes_for_figures** directory 
 This contains codes and data to reproduce figures in the manuscript. 
 
 ## **Authors**
