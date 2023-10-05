@@ -1,0 +1,40 @@
+1. For CGCNN searching when B-site is unary,
+Type:
+cd unary
+python search.py
+
+This will take some time and will create .log and .pkl files. .log files contain log of calculations and .pkl files contain the lowest-energy atomic configuration at each composition as a ASE atoms format.
+"log_files" and "pickle_files" directories contain the .log and .pkl files created by the authors.
+
+2. For CGCNN searching when B-site is binary,
+Type:
+cd binary 
+python search.py
+
+This will submit jobs to supercomputer cluster nodes. .log and .pkl files will be created.
+"job_files", "log_files" and "pickle_files" directories contain the job*.sh, .log, and .pkl files created by the authors.
+.pkl files contain the lowest-energy atomic configuration at each composition as a ASE atoms format.
+
+3. For CGCNN searching when B-site is ternary,
+Type:
+cd ternary 
+python search.py
+
+This will submit jobs to supercomputer cluster nodes. .log and .pkl files will be created.
+"job_files", "log_files" and "pickle_files" directories contain the job*.sh, .log, and .pkl files created by the authors.
+.pkl files contain the lowest-energy atomic configuration at each composition as a ASE atoms format.
+
+4. For CGCNN searching when B-site is quaternary,
+Type:
+cd quaternary 
+python search.py
+
+This will submit jobs to supercomputer cluster nodes. .log and .pkl files will be created.
+"job_files", "log_files" and "pickle_files" directories contain the job*.sh, .log, and .pkl files created by the authors.
+.pkl files contain the lowest-energy atomic configuration at each composition as a ASE atoms format.
+
+5. To predict bandgap and band type for the lowest-energy configuration at each composition,
+Type:
+python get_data.py
+
+This will create "All_data.csv" file containing decomposition enthalpy - T*dS, tau (Bartel's tolerance factor), band type, and bandgap for 41400 composition.
