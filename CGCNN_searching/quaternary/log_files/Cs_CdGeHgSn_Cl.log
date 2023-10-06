@@ -1,0 +1,3192 @@
+Summary of calculations
+Site name (A,B,C)... Cs Cd,Ge,Hg,Sn Cl
+Base cif file name... 0.cif
+Save file name... Cs_CdGeHgSn_Cl.pkl
+Fin; combination with repetition...time: 0.004527568817138672
+Start for  13_1_1_1 [1/455]
+Fin;generate all combinations 3360 ...time: 0.009087800979614258
+Pure GPU Computing time... 1.1394314765930176
+Fin; energy prediction...time: 1.1854920387268066
+Summary of Results...Min/Max/Mean/Std
+-53.28817 -50.243134 -52.345844 0.6145653
+# of configuration with minimum energy... 1
+Start for  12_2_1_1 [2/455]
+Fin;generate all combinations 21840 ...time: 0.055088043212890625
+Pure GPU Computing time... 6.351383686065674
+Fin; energy prediction...time: 6.397763729095459
+Summary of Results...Min/Max/Mean/Std
+-57.202415 -53.347225 -55.28109 0.7354446
+# of configuration with minimum energy... 1
+Start for  12_1_2_1 [3/455]
+Fin;generate all combinations 21840 ...time: 0.09483599662780762
+Pure GPU Computing time... 6.36632776260376
+Fin; energy prediction...time: 6.4140379428863525
+Summary of Results...Min/Max/Mean/Std
+-54.20241 -50.25679 -52.811966 0.70570457
+# of configuration with minimum energy... 1
+Start for  12_1_1_2 [4/455]
+Fin;generate all combinations 21840 ...time: 0.05533242225646973
+Pure GPU Computing time... 6.39686393737793
+Fin; energy prediction...time: 6.445126295089722
+Summary of Results...Min/Max/Mean/Std
+-55.4093 -50.773804 -53.426334 0.8658294
+# of configuration with minimum energy... 1
+Start for  11_3_1_1 [5/455]
+Fin;generate all combinations 87360 ...time: 0.261000394821167
+Pure GPU Computing time... 25.429026126861572
+Fin; energy prediction...time: 25.478325605392456
+Summary of Results...Min/Max/Mean/Std
+-60.765945 -55.53064 -57.94746 0.71883154
+# of configuration with minimum energy... 1
+Start for  11_2_2_1 [6/455]
+Fin;generate all combinations 131040 ...time: 0.44202399253845215
+Pure GPU Computing time... 38.195374727249146
+Fin; energy prediction...time: 38.24618625640869
+Summary of Results...Min/Max/Mean/Std
+-58.18451 -53.35034 -55.82595 0.8121017
+# of configuration with minimum energy... 1
+Start for  11_2_1_2 [7/455]
+Fin;generate all combinations 131040 ...time: 0.406505823135376
+Pure GPU Computing time... 38.02532625198364
+Fin; energy prediction...time: 38.075738191604614
+Summary of Results...Min/Max/Mean/Std
+-59.133392 -52.809597 -56.038902 0.8238023
+# of configuration with minimum energy... 2
+Start for  11_1_3_1 [8/455]
+Fin;generate all combinations 87360 ...time: 0.2793405055999756
+Pure GPU Computing time... 25.30756974220276
+Fin; energy prediction...time: 25.40381383895874
+Summary of Results...Min/Max/Mean/Std
+-55.234562 -50.21287 -53.45275 0.79024434
+# of configuration with minimum energy... 1
+Start for  11_1_2_2 [9/455]
+Fin;generate all combinations 131040 ...time: 0.38501429557800293
+Pure GPU Computing time... 37.973438024520874
+Fin; energy prediction...time: 38.02246046066284
+Summary of Results...Min/Max/Mean/Std
+-56.44037 -50.762913 -54.01885 0.93825626
+# of configuration with minimum energy... 1
+Start for  11_1_1_3 [10/455]
+Fin;generate all combinations 87360 ...time: 0.2942345142364502
+Pure GPU Computing time... 25.2489755153656
+Fin; energy prediction...time: 25.297761917114258
+Summary of Results...Min/Max/Mean/Std
+-57.395454 -50.566868 -54.15902 0.9380015
+# of configuration with minimum energy... 1
+Start for  10_4_1_1 [11/455]
+Fin;generate all combinations 240240 ...time: 0.8119292259216309
+Pure GPU Computing time... 70.26564192771912
+Fin; energy prediction...time: 70.31855797767639
+Summary of Results...Min/Max/Mean/Std
+-62.74019 -58.31089 -60.438576 0.6304396
+# of configuration with minimum energy... 2
+Start for  10_3_2_1 [12/455]
+Fin;generate all combinations 480480 ...time: 1.5142228603363037
+Pure GPU Computing time... 144.90055632591248
+Fin; energy prediction...time: 145.07699489593506
+Summary of Results...Min/Max/Mean/Std
+-61.983776 -55.5824 -58.564068 0.7885261
+# of configuration with minimum energy... 1
+Start for  10_3_1_2 [13/455]
+Fin;generate all combinations 480480 ...time: 1.5264673233032227
+Pure GPU Computing time... 142.69558024406433
+Fin; energy prediction...time: 142.7499294281006
+Summary of Results...Min/Max/Mean/Std
+-60.996433 -55.65179 -58.467957 0.7181249
+# of configuration with minimum energy... 1
+Start for  10_2_3_1 [14/455]
+Fin;generate all combinations 480480 ...time: 1.713073492050171
+Pure GPU Computing time... 140.77981328964233
+Fin; energy prediction...time: 140.83523845672607
+Summary of Results...Min/Max/Mean/Std
+-59.316956 -53.273544 -56.534653 0.87794626
+# of configuration with minimum energy... 2
+Start for  10_2_2_2 [15/455]
+Fin;generate all combinations 720720 ...time: 2.317441463470459
+Pure GPU Computing time... 217.08854341506958
+Fin; energy prediction...time: 217.14700269699097
+Summary of Results...Min/Max/Mean/Std
+-60.444756 -52.86662 -56.703163 0.8916294
+# of configuration with minimum energy... 1
+Start for  10_2_1_3 [16/455]
+Fin;generate all combinations 480480 ...time: 1.4375574588775635
+Pure GPU Computing time... 145.77627110481262
+Fin; energy prediction...time: 145.83130383491516
+Summary of Results...Min/Max/Mean/Std
+-59.017155 -53.26045 -56.540268 0.80785036
+# of configuration with minimum energy... 3
+Start for  10_1_4_1 [17/455]
+Fin;generate all combinations 240240 ...time: 0.9579682350158691
+Pure GPU Computing time... 69.84172534942627
+Fin; energy prediction...time: 69.8939311504364
+Summary of Results...Min/Max/Mean/Std
+-56.29592 -50.578358 -54.25307 0.8543074
+# of configuration with minimum energy... 1
+Start for  10_1_3_2 [18/455]
+Fin;generate all combinations 480480 ...time: 1.4164469242095947
+Pure GPU Computing time... 145.37635469436646
+Fin; energy prediction...time: 145.43340730667114
+Summary of Results...Min/Max/Mean/Std
+-57.541416 -50.706326 -54.76883 0.9961083
+# of configuration with minimum energy... 1
+Start for  10_1_2_3 [19/455]
+Fin;generate all combinations 480480 ...time: 1.6493875980377197
+Pure GPU Computing time... 141.9808259010315
+Fin; energy prediction...time: 142.03754210472107
+Summary of Results...Min/Max/Mean/Std
+-58.733585 -50.61642 -54.866848 1.0040262
+# of configuration with minimum energy... 2
+Start for  10_1_1_4 [20/455]
+Fin;generate all combinations 240240 ...time: 0.7837581634521484
+Pure GPU Computing time... 69.57058930397034
+Fin; energy prediction...time: 69.622811794281
+Summary of Results...Min/Max/Mean/Std
+-57.20219 -50.630745 -54.648613 0.89475024
+# of configuration with minimum energy... 1
+Start for  9_5_1_1 [21/455]
+Fin;generate all combinations 480480 ...time: 1.737363576889038
+Pure GPU Computing time... 145.38791751861572
+Fin; energy prediction...time: 145.44473099708557
+Summary of Results...Min/Max/Mean/Std
+-64.8235 -60.623688 -62.838276 0.5273482
+# of configuration with minimum energy... 4
+Start for  9_4_2_1 [22/455]
+Fin;generate all combinations 1201200 ...time: 3.8399534225463867
+Pure GPU Computing time... 351.978223323822
+Fin; energy prediction...time: 352.04734468460083
+Summary of Results...Min/Max/Mean/Std
+-63.929962 -58.358215 -61.121372 0.6939231
+# of configuration with minimum energy... 1
+Start for  9_4_1_2 [23/455]
+Fin;generate all combinations 1201200 ...time: 4.033982992172241
+Pure GPU Computing time... 354.51197242736816
+Fin; energy prediction...time: 354.5824964046478
+Summary of Results...Min/Max/Mean/Std
+-63.09099 -57.863457 -60.797695 0.60004616
+# of configuration with minimum energy... 2
+Start for  9_3_3_1 [24/455]
+Fin;generate all combinations 1601600 ...time: 5.16405463218689
+Pure GPU Computing time... 479.54607677459717
+Fin; energy prediction...time: 479.6188733577728
+Summary of Results...Min/Max/Mean/Std
+-63.12553 -56.147667 -59.332573 0.8425561
+# of configuration with minimum energy... 2
+Start for  9_3_2_2 [25/455]
+Fin;generate all combinations 2402400 ...time: 7.833791017532349
+Pure GPU Computing time... 727.1131799221039
+Fin; energy prediction...time: 727.2027156352997
+Summary of Results...Min/Max/Mean/Std
+-62.202457 -55.67912 -59.198795 0.7809678
+# of configuration with minimum energy... 1
+Start for  9_3_1_3 [26/455]
+Fin;generate all combinations 1601600 ...time: 5.385235786437988
+Pure GPU Computing time... 464.1779615879059
+Fin; energy prediction...time: 464.25570344924927
+Summary of Results...Min/Max/Mean/Std
+-61.404373 -55.759068 -58.81445 0.67131007
+# of configuration with minimum energy... 1
+Start for  9_2_4_1 [27/455]
+Fin;generate all combinations 1201200 ...time: 3.579962968826294
+Pure GPU Computing time... 362.03577065467834
+Fin; energy prediction...time: 362.100421667099
+Summary of Results...Min/Max/Mean/Std
+-60.690434 -53.67931 -57.392662 0.9242182
+# of configuration with minimum energy... 1
+Start for  9_2_3_2 [28/455]
+Fin;generate all combinations 2402400 ...time: 7.528563737869263
+Pure GPU Computing time... 705.7504062652588
+Fin; energy prediction...time: 705.8363139629364
+Summary of Results...Min/Max/Mean/Std
+-61.58862 -53.439022 -57.513493 0.93998843
+# of configuration with minimum energy... 1
+Start for  9_2_2_3 [29/455]
+Fin;generate all combinations 2402400 ...time: 7.681154012680054
+Pure GPU Computing time... 715.032318353653
+Fin; energy prediction...time: 715.1147122383118
+Summary of Results...Min/Max/Mean/Std
+-60.284203 -53.28165 -57.31458 0.8697656
+# of configuration with minimum energy... 1
+Start for  9_2_1_4 [30/455]
+Fin;generate all combinations 1201200 ...time: 3.76796817779541
+Pure GPU Computing time... 361.24896025657654
+Fin; energy prediction...time: 361.3134694099426
+Summary of Results...Min/Max/Mean/Std
+-59.5649 -53.146736 -56.880978 0.73655844
+# of configuration with minimum energy... 1
+Start for  9_1_5_1 [31/455]
+Fin;generate all combinations 480480 ...time: 1.698396921157837
+Pure GPU Computing time... 144.71112656593323
+Fin; energy prediction...time: 144.76897954940796
+Summary of Results...Min/Max/Mean/Std
+-57.857773 -50.9038 -55.19718 0.89313525
+# of configuration with minimum energy... 1
+Start for  9_1_4_2 [32/455]
+Fin;generate all combinations 1201200 ...time: 3.6315858364105225
+Pure GPU Computing time... 361.56393361091614
+Fin; energy prediction...time: 361.62971782684326
+Summary of Results...Min/Max/Mean/Std
+-58.95564 -51.155937 -55.6622 1.0344193
+# of configuration with minimum energy... 1
+Start for  9_1_3_3 [33/455]
+Fin;generate all combinations 1601600 ...time: 5.439757585525513
+Pure GPU Computing time... 467.76242232322693
+Fin; energy prediction...time: 467.8465917110443
+Summary of Results...Min/Max/Mean/Std
+-59.92999 -51.35478 -55.71496 1.0483752
+# of configuration with minimum energy... 1
+Start for  9_1_2_4 [34/455]
+Fin;generate all combinations 1201200 ...time: 4.021299362182617
+Pure GPU Computing time... 361.5404589176178
+Fin; energy prediction...time: 361.607812166214
+Summary of Results...Min/Max/Mean/Std
+-58.51409 -50.65346 -55.46201 0.9554378
+# of configuration with minimum energy... 1
+Start for  9_1_1_5 [35/455]
+Fin;generate all combinations 480480 ...time: 1.317591667175293
+Pure GPU Computing time... 144.49769139289856
+Fin; energy prediction...time: 144.55498027801514
+Summary of Results...Min/Max/Mean/Std
+-57.742363 -51.17025 -54.990204 0.79397684
+# of configuration with minimum energy... 2
+Start for  8_6_1_1 [36/455]
+Fin;generate all combinations 720720 ...time: 2.533216714859009
+Pure GPU Computing time... 217.09314489364624
+Fin; energy prediction...time: 217.1528775691986
+Summary of Results...Min/Max/Mean/Std
+-67.05783 -63.08455 -65.21934 0.45773444
+# of configuration with minimum energy... 1
+Start for  8_5_2_1 [37/455]
+Fin;generate all combinations 2162160 ...time: 7.034526586532593
+Pure GPU Computing time... 630.9728353023529
+Fin; energy prediction...time: 631.0653231143951
+Summary of Results...Min/Max/Mean/Std
+-66.01434 -61.0889 -63.583157 0.5826039
+# of configuration with minimum energy... 2
+Start for  8_5_1_2 [38/455]
+Fin;generate all combinations 2162160 ...time: 7.3167431354522705
+Pure GPU Computing time... 616.3875019550323
+Fin; energy prediction...time: 616.4800810813904
+Summary of Results...Min/Max/Mean/Std
+-65.11899 -60.553288 -63.101425 0.5143188
+# of configuration with minimum energy... 1
+Start for  8_4_3_1 [39/455]
+Fin;generate all combinations 3603600 ...time: 71.11799597740173
+Pure GPU Computing time... 1076.4122726917267
+Fin; energy prediction...time: 1076.515706062317
+Summary of Results...Min/Max/Mean/Std
+-65.050476 -58.922966 -61.943176 0.73747486
+# of configuration with minimum energy... 1
+Start for  8_4_2_2 [40/455]
+Fin;generate all combinations 5405400 ...time: 18.111539363861084
+Pure GPU Computing time... 1564.5769758224487
+Fin; energy prediction...time: 1564.7183887958527
+Summary of Results...Min/Max/Mean/Std
+-64.27832 -58.49166 -61.591423 0.6557033
+# of configuration with minimum energy... 2
+Start for  8_4_1_3 [41/455]
+Fin;generate all combinations 3603600 ...time: 10.738011598587036
+Pure GPU Computing time... 1015.407838344574
+Fin; energy prediction...time: 1015.5087761878967
+Summary of Results...Min/Max/Mean/Std
+-63.244446 -58.258938 -61.055046 0.5691067
+# of configuration with minimum energy... 1
+Start for  8_3_4_1 [42/455]
+Fin;generate all combinations 3603600 ...time: 12.156962871551514
+Pure GPU Computing time... 1011.2136068344116
+Fin; energy prediction...time: 1011.3138136863708
+Summary of Results...Min/Max/Mean/Std
+-64.24338 -56.54658 -60.239174 0.87556404
+# of configuration with minimum energy... 1
+Start for  8_3_3_2 [43/455]
+Fin;generate all combinations 7207200 ...time: 23.67704439163208
+Pure GPU Computing time... 2018.4183220863342
+Fin; energy prediction...time: 2018.5774025917053
+Summary of Results...Min/Max/Mean/Std
+-63.364876 -56.332783 -60.063446 0.81989837
+# of configuration with minimum energy... 1
+Start for  8_3_2_3 [44/455]
+Fin;generate all combinations 7207200 ...time: 21.504029512405396
+Pure GPU Computing time... 2011.9649000167847
+Fin; energy prediction...time: 2012.124948978424
+Summary of Results...Min/Max/Mean/Std
+-62.648827 -55.95386 -59.651913 0.72682893
+# of configuration with minimum energy... 1
+Start for  8_3_1_4 [45/455]
+Fin;generate all combinations 3603600 ...time: 12.487520694732666
+Pure GPU Computing time... 1008.3561105728149
+Fin; energy prediction...time: 1008.4562785625458
+Summary of Results...Min/Max/Mean/Std
+-61.368458 -55.69486 -59.0723 0.6171986
+# of configuration with minimum energy... 1
+Start for  8_2_5_1 [46/455]
+Fin;generate all combinations 2162160 ...time: 7.676577091217041
+Pure GPU Computing time... 612.8584563732147
+Fin; energy prediction...time: 612.9364547729492
+Summary of Results...Min/Max/Mean/Std
+-62.027813 -54.013107 -58.3849 0.94784725
+# of configuration with minimum energy... 1
+Start for  8_2_4_2 [47/455]
+Fin;generate all combinations 5405400 ...time: 16.8955020904541
+Pure GPU Computing time... 1527.3065135478973
+Fin; energy prediction...time: 1527.437894821167
+Summary of Results...Min/Max/Mean/Std
+-62.76453 -53.89139 -58.456535 0.9668255
+# of configuration with minimum energy... 1
+Start for  8_2_3_3 [48/455]
+Fin;generate all combinations 7207200 ...time: 24.156182289123535
+Pure GPU Computing time... 2042.2712361812592
+Fin; energy prediction...time: 2042.4333188533783
+Summary of Results...Min/Max/Mean/Std
+-61.50264 -54.043045 -58.21739 0.90555
+# of configuration with minimum energy... 2
+Start for  8_2_2_4 [49/455]
+Fin;generate all combinations 5405400 ...time: 17.678167819976807
+Pure GPU Computing time... 1526.5824806690216
+Fin; energy prediction...time: 1526.7091879844666
+Summary of Results...Min/Max/Mean/Std
+-60.827156 -53.408592 -57.757355 0.79141295
+# of configuration with minimum energy... 1
+Start for  8_2_1_5 [50/455]
+Fin;generate all combinations 2162160 ...time: 5.759181976318359
+Pure GPU Computing time... 606.6395499706268
+Fin; energy prediction...time: 606.7193942070007
+Summary of Results...Min/Max/Mean/Std
+-59.541992 -53.59924 -57.14553 0.6559078
+# of configuration with minimum energy... 1
+Start for  8_1_6_1 [51/455]
+Fin;generate all combinations 720720 ...time: 2.6194357872009277
+Pure GPU Computing time... 207.73470330238342
+Fin; energy prediction...time: 207.9544816017151
+Summary of Results...Min/Max/Mean/Std
+-59.461098 -51.18757 -56.26867 0.9060938
+# of configuration with minimum energy... 2
+Start for  8_1_5_2 [52/455]
+Fin;generate all combinations 2162160 ...time: 6.998121738433838
+Pure GPU Computing time... 604.5534794330597
+Fin; energy prediction...time: 604.6343197822571
+Summary of Results...Min/Max/Mean/Std
+-60.340862 -51.56819 -56.684536 1.0517389
+# of configuration with minimum energy... 1
+Start for  8_1_4_3 [53/455]
+Fin;generate all combinations 3603600 ...time: 11.414263725280762
+Pure GPU Computing time... 1020.6824295520782
+Fin; energy prediction...time: 1020.7792348861694
+Summary of Results...Min/Max/Mean/Std
+-61.11003 -52.013096 -56.690598 1.0711036
+# of configuration with minimum energy... 3
+Start for  8_1_3_4 [54/455]
+Fin;generate all combinations 3603600 ...time: 11.785794734954834
+Pure GPU Computing time... 1025.4304859638214
+Fin; energy prediction...time: 1025.5311524868011
+Summary of Results...Min/Max/Mean/Std
+-59.70307 -51.474274 -56.398846 0.988893
+# of configuration with minimum energy... 1
+Start for  8_1_2_5 [55/455]
+Fin;generate all combinations 2162160 ...time: 8.244524717330933
+Pure GPU Computing time... 616.114578962326
+Fin; energy prediction...time: 616.1955282688141
+Summary of Results...Min/Max/Mean/Std
+-59.02078 -51.936497 -55.90094 0.84759927
+# of configuration with minimum energy... 1
+Start for  8_1_1_6 [56/455]
+Fin;generate all combinations 720720 ...time: 2.0858585834503174
+Pure GPU Computing time... 204.71046948432922
+Fin; energy prediction...time: 204.77038741111755
+Summary of Results...Min/Max/Mean/Std
+-57.743046 -51.208385 -55.26726 0.6839352
+# of configuration with minimum energy... 1
+Start for  7_7_1_1 [57/455]
+Fin;generate all combinations 823680 ...time: 2.5684025287628174
+Pure GPU Computing time... 235.3149995803833
+Fin; energy prediction...time: 235.37611508369446
+Summary of Results...Min/Max/Mean/Std
+-69.299545 -65.05322 -67.642395 0.43937868
+# of configuration with minimum energy... 1
+Start for  7_6_2_1 [58/455]
+Fin;generate all combinations 2882880 ...time: 9.645284414291382
+Pure GPU Computing time... 824.2114088535309
+Fin; energy prediction...time: 824.2983238697052
+Summary of Results...Min/Max/Mean/Std
+-68.12873 -63.445896 -66.02349 0.50010806
+# of configuration with minimum energy... 1
+Start for  7_6_1_2 [59/455]
+Fin;generate all combinations 2882880 ...time: 9.905261993408203
+Pure GPU Computing time... 820.6149599552155
+Fin; energy prediction...time: 820.7055957317352
+Summary of Results...Min/Max/Mean/Std
+-67.405975 -62.738132 -65.44017 0.48036554
+# of configuration with minimum energy... 1
+Start for  7_5_3_1 [60/455]
+Fin;generate all combinations 5765760 ...time: 18.27504563331604
+Pure GPU Computing time... 1629.5419685840607
+Fin; energy prediction...time: 1629.6769893169403
+Summary of Results...Min/Max/Mean/Std
+-67.12514 -61.638233 -64.45338 0.6157831
+# of configuration with minimum energy... 1
+Start for  7_5_2_2 [61/455]
+Fin;generate all combinations 8648640 ...time: 27.45987296104431
+Pure GPU Computing time... 2488.3921530246735
+Fin; energy prediction...time: 2488.5806291103363
+Summary of Results...Min/Max/Mean/Std
+-66.24048 -61.084564 -63.955696 0.55839795
+# of configuration with minimum energy... 1
+Start for  7_5_1_3 [62/455]
+Fin;generate all combinations 5765760 ...time: 18.653090238571167
+Pure GPU Computing time... 1642.0325894355774
+Fin; energy prediction...time: 1642.1688532829285
+Summary of Results...Min/Max/Mean/Std
+-65.60905 -60.54754 -63.32358 0.52063966
+# of configuration with minimum energy... 2
+Start for  7_4_4_1 [63/455]
+Fin;generate all combinations 7207200 ...time: 25.30813431739807
+Pure GPU Computing time... 2032.898818731308
+Fin; energy prediction...time: 2033.0602598190308
+Summary of Results...Min/Max/Mean/Std
+-66.0076 -59.444958 -62.89097 0.7584432
+# of configuration with minimum energy... 1
+Start for  7_4_3_2 [64/455]
+Fin;generate all combinations 14414400 ...time: 44.99965286254883
+Pure GPU Computing time... 4097.638628721237
+Fin; energy prediction...time: 4097.92071390152
+Summary of Results...Min/Max/Mean/Std
+-65.41748 -59.198 -62.50578 0.6846906
+# of configuration with minimum energy... 1
+Start for  7_4_2_3 [65/455]
+Fin;generate all combinations 14414400 ...time: 47.2803008556366
+Pure GPU Computing time... 4048.1143658161163
+Fin; energy prediction...time: 4048.396499156952
+Summary of Results...Min/Max/Mean/Std
+-64.38245 -58.6466 -61.953922 0.6140599
+# of configuration with minimum energy... 1
+Start for  7_4_1_4 [66/455]
+Fin;generate all combinations 7207200 ...time: 22.68706488609314
+Pure GPU Computing time... 2027.1286118030548
+Fin; energy prediction...time: 2027.2884948253632
+Summary of Results...Min/Max/Mean/Std
+-63.828434 -58.186687 -61.28438 0.55530953
+# of configuration with minimum energy... 1
+Start for  7_3_5_1 [67/455]
+Fin;generate all combinations 5765760 ...time: 19.195799112319946
+Pure GPU Computing time... 1636.9956195354462
+Fin; energy prediction...time: 1637.129831790924
+Summary of Results...Min/Max/Mean/Std
+-65.11096 -56.899734 -61.269554 0.88606983
+# of configuration with minimum energy... 1
+Start for  7_3_4_2 [68/455]
+Fin;generate all combinations 14414400 ...time: 44.67050909996033
+Pure GPU Computing time... 4064.3126153945923
+Fin; energy prediction...time: 4064.595994234085
+Summary of Results...Min/Max/Mean/Std
+-64.313324 -56.943737 -61.049107 0.8354411
+# of configuration with minimum energy... 1
+Start for  7_3_3_3 [69/455]
+Fin;generate all combinations 19219200 ...time: 63.87579870223999
+Pure GPU Computing time... 5441.016177177429
+Fin; energy prediction...time: 5441.3815796375275
+Summary of Results...Min/Max/Mean/Std
+-63.77347 -56.74345 -60.60539 0.75320107
+# of configuration with minimum energy... 1
+Start for  7_3_2_4 [70/455]
+Fin;generate all combinations 14414400 ...time: 98.81712889671326
+Pure GPU Computing time... 4123.313818216324
+Fin; energy prediction...time: 4123.593760967255
+Summary of Results...Min/Max/Mean/Std
+-62.568054 -56.162243 -60.01034 0.6623154
+# of configuration with minimum energy... 1
+Start for  7_3_1_5 [71/455]
+Fin;generate all combinations 5765760 ...time: 20.530230045318604
+Pure GPU Computing time... 1621.7515661716461
+Fin; energy prediction...time: 1621.8902263641357
+Summary of Results...Min/Max/Mean/Std
+-62.058025 -56.01994 -59.3143 0.5809949
+# of configuration with minimum energy... 1
+Start for  7_2_6_1 [72/455]
+Fin;generate all combinations 2882880 ...time: 10.937041521072388
+Pure GPU Computing time... 812.0611164569855
+Fin; energy prediction...time: 812.1506774425507
+Summary of Results...Min/Max/Mean/Std
+-62.75765 -54.33872 -59.495758 0.948803
+# of configuration with minimum energy... 1
+Start for  7_2_5_2 [73/455]
+Fin;generate all combinations 8648640 ...time: 30.55230402946472
+Pure GPU Computing time... 2445.4428458213806
+Fin; energy prediction...time: 2445.6302995681763
+Summary of Results...Min/Max/Mean/Std
+-63.543144 -54.32773 -59.518612 0.97224593
+# of configuration with minimum energy... 1
+Start for  7_2_4_3 [74/455]
+Fin;generate all combinations 14414400 ...time: 46.47828650474548
+Pure GPU Computing time... 4127.860531568527
+Fin; energy prediction...time: 4128.14247918129
+Summary of Results...Min/Max/Mean/Std
+-62.519238 -54.738907 -59.236595 0.91766876
+# of configuration with minimum energy... 1
+Start for  7_2_3_4 [75/455]
+Fin;generate all combinations 14414400 ...time: 55.83933210372925
+Pure GPU Computing time... 4059.353938102722
+Fin; energy prediction...time: 4059.6292271614075
+Summary of Results...Min/Max/Mean/Std
+-61.98885 -54.239506 -58.745228 0.8158988
+# of configuration with minimum energy... 1
+Start for  7_2_2_5 [76/455]
+Fin;generate all combinations 8648640 ...time: 28.955080032348633
+Pure GPU Computing time... 2439.8087322711945
+Fin; energy prediction...time: 2439.989794254303
+Summary of Results...Min/Max/Mean/Std
+-60.745117 -54.52825 -58.117805 0.70053154
+# of configuration with minimum energy... 1
+Start for  7_2_1_6 [77/455]
+Fin;generate all combinations 2882880 ...time: 11.855738878250122
+Pure GPU Computing time... 813.4399852752686
+Fin; energy prediction...time: 813.5267958641052
+Summary of Results...Min/Max/Mean/Std
+-60.304832 -53.72096 -57.40558 0.5952271
+# of configuration with minimum energy... 1
+Start for  7_1_7_1 [78/455]
+Fin;generate all combinations 823680 ...time: 2.5877487659454346
+Pure GPU Computing time... 231.28828287124634
+Fin; energy prediction...time: 231.34847974777222
+Summary of Results...Min/Max/Mean/Std
+-60.140152 -51.437332 -57.45054 0.8947327
+# of configuration with minimum energy... 1
+Start for  7_1_6_2 [79/455]
+Fin;generate all combinations 2882880 ...time: 9.103411674499512
+Pure GPU Computing time... 821.7206354141235
+Fin; energy prediction...time: 821.8105683326721
+Summary of Results...Min/Max/Mean/Std
+-61.106926 -51.94444 -57.82079 1.0487114
+# of configuration with minimum energy... 1
+Start for  7_1_5_3 [80/455]
+Fin;generate all combinations 5765760 ...time: 27.419346570968628
+Pure GPU Computing time... 1630.273465871811
+Fin; energy prediction...time: 1630.4100923538208
+Summary of Results...Min/Max/Mean/Std
+-61.885517 -52.60203 -57.780518 1.073401
+# of configuration with minimum energy... 1
+Start for  7_1_4_4 [81/455]
+Fin;generate all combinations 7207200 ...time: 46.29491972923279
+Pure GPU Computing time... 2040.688240289688
+Fin; energy prediction...time: 2040.850730895996
+Summary of Results...Min/Max/Mean/Std
+-60.795063 -52.237995 -57.4475 0.99872565
+# of configuration with minimum energy... 1
+Start for  7_1_3_5 [82/455]
+Fin;generate all combinations 5765760 ...time: 18.418086767196655
+Pure GPU Computing time... 1619.5190298557281
+Fin; energy prediction...time: 1619.6520149707794
+Summary of Results...Min/Max/Mean/Std
+-60.218838 -52.734367 -56.91876 0.87040925
+# of configuration with minimum energy... 1
+Start for  7_1_2_6 [83/455]
+Fin;generate all combinations 2882880 ...time: 65.87026286125183
+Pure GPU Computing time... 831.4286234378815
+Fin; energy prediction...time: 831.520899772644
+Summary of Results...Min/Max/Mean/Std
+-58.981354 -52.176193 -56.268936 0.7274602
+# of configuration with minimum energy... 1
+Start for  7_1_1_7 [84/455]
+Fin;generate all combinations 823680 ...time: 3.076270580291748
+Pure GPU Computing time... 241.40376472473145
+Fin; energy prediction...time: 241.46466732025146
+Summary of Results...Min/Max/Mean/Std
+-57.953995 -52.399235 -55.55018 0.59623754
+# of configuration with minimum energy... 1
+Start for  6_8_1_1 [85/455]
+Fin;generate all combinations 720720 ...time: 2.3834593296051025
+Pure GPU Computing time... 212.14527797698975
+Fin; energy prediction...time: 212.2048215866089
+Summary of Results...Min/Max/Mean/Std
+-71.66966 -67.61749 -70.15461 0.44704437
+# of configuration with minimum energy... 1
+Start for  6_7_2_1 [86/455]
+Fin;generate all combinations 2882880 ...time: 9.249629020690918
+Pure GPU Computing time... 848.5996618270874
+Fin; energy prediction...time: 848.6895871162415
+Summary of Results...Min/Max/Mean/Std
+-70.3676 -66.217285 -68.5041 0.46489936
+# of configuration with minimum energy... 2
+Start for  6_7_1_2 [87/455]
+Fin;generate all combinations 2882880 ...time: 9.518835067749023
+Pure GPU Computing time... 833.736564874649
+Fin; energy prediction...time: 833.8256099224091
+Summary of Results...Min/Max/Mean/Std
+-69.618614 -65.09086 -67.86185 0.47846478
+# of configuration with minimum energy... 1
+Start for  6_6_3_1 [88/455]
+Fin;generate all combinations 6726720 ...time: 27.41601538658142
+Pure GPU Computing time... 1899.8200294971466
+Fin; energy prediction...time: 1899.9757344722748
+Summary of Results...Min/Max/Mean/Std
+-69.15785 -64.51317 -66.9388 0.5231043
+# of configuration with minimum energy... 1
+Start for  6_6_2_2 [89/455]
+Fin;generate all combinations 10090080 ...time: 34.15276288986206
+Pure GPU Computing time... 2843.347012758255
+Fin; energy prediction...time: 2843.5598635673523
+Summary of Results...Min/Max/Mean/Std
+-68.44316 -63.659103 -66.35379 0.50847375
+# of configuration with minimum energy... 1
+Start for  6_6_1_3 [90/455]
+Fin;generate all combinations 6726720 ...time: 20.27772808074951
+Pure GPU Computing time... 1927.557962179184
+Fin; energy prediction...time: 1927.7075154781342
+Summary of Results...Min/Max/Mean/Std
+-67.69409 -62.74896 -65.668434 0.50956905
+# of configuration with minimum energy... 1
+Start for  6_5_4_1 [91/455]
+Fin;generate all combinations 10090080 ...time: 33.663880586624146
+Pure GPU Computing time... 2811.7515211105347
+Fin; energy prediction...time: 2811.9623250961304
+Summary of Results...Min/Max/Mean/Std
+-68.09351 -62.21092 -65.43667 0.62655157
+# of configuration with minimum energy... 1
+Start for  6_5_3_2 [92/455]
+Fin;generate all combinations 20180160 ...time: 63.874032974243164
+Pure GPU Computing time... 5659.583176374435
+Fin; energy prediction...time: 5659.968775272369
+Summary of Results...Min/Max/Mean/Std
+-67.29831 -61.861115 -64.91693 0.57718974
+# of configuration with minimum energy... 1
+Start for  6_5_2_3 [93/455]
+Fin;generate all combinations 20180160 ...time: 109.1108717918396
+Pure GPU Computing time... 5700.817326545715
+Fin; energy prediction...time: 5701.2072858810425
+Summary of Results...Min/Max/Mean/Std
+-66.70527 -61.286697 -64.283066 0.5504259
+# of configuration with minimum energy... 1
+Start for  6_5_1_4 [94/455]
+Fin;generate all combinations 10090080 ...time: 35.232250452041626
+Pure GPU Computing time... 2872.894371986389
+Fin; energy prediction...time: 2873.1032679080963
+Summary of Results...Min/Max/Mean/Std
+-65.86356 -60.435772 -63.56582 0.53623104
+# of configuration with minimum energy... 1
+Start for  6_4_5_1 [95/455]
+Fin;generate all combinations 10090080 ...time: 34.740161657333374
+Pure GPU Computing time... 2943.6303329467773
+Fin; energy prediction...time: 2943.8445188999176
+Summary of Results...Min/Max/Mean/Std
+-66.88277 -59.91059 -63.95137 0.7566612
+# of configuration with minimum energy... 1
+Start for  6_4_4_2 [96/455]
+Fin;generate all combinations 25225200 ...time: 81.46167016029358
+Pure GPU Computing time... 7104.567507982254
+Fin; energy prediction...time: 7105.039349317551
+Summary of Results...Min/Max/Mean/Std
+-66.357056 -59.695843 -63.528866 0.68991756
+# of configuration with minimum energy... 1
+Start for  6_4_3_3 [97/455]
+Fin;generate all combinations 33633600 ...time: 103.73362970352173
+Pure GPU Computing time... 9487.518838882446
+Fin; energy prediction...time: 9488.183403491974
+Summary of Results...Min/Max/Mean/Std
+-65.39363 -59.4543 -62.955494 0.630485
+# of configuration with minimum energy... 1
+Start for  6_4_2_4 [98/455]
+Fin;generate all combinations 25225200 ...time: 117.43431401252747
+Pure GPU Computing time... 7122.518187761307
+Fin; energy prediction...time: 7122.992448568344
+Summary of Results...Min/Max/Mean/Std
+-64.95477 -58.93038 -62.28377 0.58599246
+# of configuration with minimum energy... 1
+Start for  6_4_1_5 [99/455]
+Fin;generate all combinations 10090080 ...time: 33.86842370033264
+Pure GPU Computing time... 2837.5800528526306
+Fin; energy prediction...time: 2837.7899448871613
+Summary of Results...Min/Max/Mean/Std
+-64.06418 -58.45774 -61.545578 0.55513644
+# of configuration with minimum energy... 1
+Start for  6_3_6_1 [100/455]
+Fin;generate all combinations 6726720 ...time: 21.331959009170532
+Pure GPU Computing time... 1889.812430381775
+Fin; energy prediction...time: 1889.9661090373993
+Summary of Results...Min/Max/Mean/Std
+-65.92917 -57.222992 -62.40904 0.8747855
+# of configuration with minimum energy... 1
+Start for  6_3_5_2 [101/455]
+Fin;generate all combinations 20180160 ...time: 66.84054327011108
+Pure GPU Computing time... 5705.4578676223755
+Fin; energy prediction...time: 5705.8338124752045
+Summary of Results...Min/Max/Mean/Std
+-65.236755 -57.417274 -62.14295 0.8290566
+# of configuration with minimum energy... 1
+Start for  6_3_4_3 [102/455]
+Fin;generate all combinations 33633600 ...time: 107.33382821083069
+Pure GPU Computing time... 9572.22614479065
+Fin; energy prediction...time: 9572.878735303879
+Summary of Results...Min/Max/Mean/Std
+-64.663414 -57.458134 -61.66335 0.7552358
+# of configuration with minimum energy... 1
+Start for  6_3_3_4 [103/455]
+Fin;generate all combinations 33633600 ...time: 108.73653244972229
+Pure GPU Computing time... 9486.310087919235
+Fin; energy prediction...time: 9486.932429075241
+Summary of Results...Min/Max/Mean/Std
+-63.66468 -57.0021 -61.047203 0.67721194
+# of configuration with minimum energy... 1
+Start for  6_3_2_5 [104/455]
+Fin;generate all combinations 20180160 ...time: 72.19171476364136
+Pure GPU Computing time... 5726.453128576279
+Fin; energy prediction...time: 5726.840396404266
+Summary of Results...Min/Max/Mean/Std
+-63.219692 -56.96993 -60.348312 0.6119091
+# of configuration with minimum energy... 1
+Start for  6_3_1_6 [105/455]
+Fin;generate all combinations 6726720 ...time: 24.237394094467163
+Pure GPU Computing time... 1897.1320352554321
+Fin; energy prediction...time: 1897.2836565971375
+Summary of Results...Min/Max/Mean/Std
+-62.272274 -56.236332 -59.599243 0.56341046
+# of configuration with minimum energy... 1
+Start for  6_2_7_1 [106/455]
+Fin;generate all combinations 2882880 ...time: 11.801971435546875
+Pure GPU Computing time... 819.452386379242
+Fin; energy prediction...time: 819.5412676334381
+Summary of Results...Min/Max/Mean/Std
+-63.68927 -55.91993 -60.70907 0.9289838
+# of configuration with minimum energy... 1
+Start for  6_2_6_2 [107/455]
+Fin;generate all combinations 10090080 ...time: 33.735281229019165
+Pure GPU Computing time... 2867.196046590805
+Fin; energy prediction...time: 2867.4046568870544
+Summary of Results...Min/Max/Mean/Std
+-64.398346 -54.70585 -60.685505 0.95775443
+# of configuration with minimum energy... 1
+Start for  6_2_5_3 [108/455]
+Fin;generate all combinations 20180160 ...time: 68.08078074455261
+Pure GPU Computing time... 5728.574342727661
+Fin; energy prediction...time: 5728.95419549942
+Summary of Results...Min/Max/Mean/Std
+-63.339554 -55.33552 -60.359886 0.9086525
+# of configuration with minimum energy... 1
+Start for  6_2_4_4 [109/455]
+Fin;generate all combinations 25225200 ...time: 80.90448570251465
+Pure GPU Computing time... 7153.043953180313
+Fin; energy prediction...time: 7153.523481845856
+Summary of Results...Min/Max/Mean/Std
+-62.85402 -55.02361 -59.833637 0.815898
+# of configuration with minimum energy... 1
+Start for  6_2_3_5 [110/455]
+Fin;generate all combinations 20180160 ...time: 130.6131558418274
+Pure GPU Computing time... 5652.193399906158
+Fin; energy prediction...time: 5652.577782392502
+Summary of Results...Min/Max/Mean/Std
+-61.878006 -55.419945 -59.18505 0.7141274
+# of configuration with minimum energy... 1
+Start for  6_2_2_6 [111/455]
+Fin;generate all combinations 10090080 ...time: 33.26650023460388
+Pure GPU Computing time... 2848.8000061511993
+Fin; energy prediction...time: 2849.009165287018
+Summary of Results...Min/Max/Mean/Std
+-61.497997 -54.70185 -58.469074 0.6258243
+# of configuration with minimum energy... 1
+Start for  6_2_1_7 [112/455]
+Fin;generate all combinations 2882880 ...time: 8.446789026260376
+Pure GPU Computing time... 818.9766781330109
+Fin; energy prediction...time: 819.0686049461365
+Summary of Results...Min/Max/Mean/Std
+-60.021797 -54.893845 -57.71866 0.5584368
+# of configuration with minimum energy... 1
+Start for  6_1_8_1 [113/455]
+Fin;generate all combinations 720720 ...time: 2.3780500888824463
+Pure GPU Computing time... 205.615131855011
+Fin; energy prediction...time: 205.6763470172882
+Summary of Results...Min/Max/Mean/Std
+-61.00879 -53.81678 -58.725174 0.86209345
+# of configuration with minimum energy... 1
+Start for  6_1_7_2 [114/455]
+Fin;generate all combinations 2882880 ...time: 9.26413607597351
+Pure GPU Computing time... 817.6649687290192
+Fin; energy prediction...time: 817.7550532817841
+Summary of Results...Min/Max/Mean/Std
+-62.013336 -53.61259 -59.05549 1.027471
+# of configuration with minimum energy... 1
+Start for  6_1_6_3 [115/455]
+Fin;generate all combinations 6726720 ...time: 23.78088116645813
+Pure GPU Computing time... 1960.7137198448181
+Fin; energy prediction...time: 1960.8682050704956
+Summary of Results...Min/Max/Mean/Std
+-62.77637 -53.15758 -58.971287 1.0573316
+# of configuration with minimum energy... 1
+Start for  6_1_5_4 [116/455]
+Fin;generate all combinations 10090080 ...time: 34.15815210342407
+Pure GPU Computing time... 2846.4800028800964
+Fin; energy prediction...time: 2846.6878085136414
+Summary of Results...Min/Max/Mean/Std
+-61.65131 -52.949345 -58.59623 0.9881253
+# of configuration with minimum energy... 1
+Start for  6_1_4_5 [117/455]
+Fin;generate all combinations 10090080 ...time: 35.47559332847595
+Pure GPU Computing time... 2845.154247045517
+Fin; energy prediction...time: 2845.3603327274323
+Summary of Results...Min/Max/Mean/Std
+-61.0531 -53.57027 -58.033222 0.86883265
+# of configuration with minimum energy... 1
+Start for  6_1_3_6 [118/455]
+Fin;generate all combinations 6726720 ...time: 23.472642183303833
+Pure GPU Computing time... 1895.819474697113
+Fin; energy prediction...time: 1895.9720313549042
+Summary of Results...Min/Max/Mean/Std
+-60.119606 -53.087227 -57.361958 0.73965454
+# of configuration with minimum energy... 1
+Start for  6_1_2_7 [119/455]
+Fin;generate all combinations 2882880 ...time: 10.94121527671814
+Pure GPU Computing time... 842.1439065933228
+Fin; energy prediction...time: 842.2342300415039
+Summary of Results...Min/Max/Mean/Std
+-59.127014 -53.35056 -56.63819 0.6261264
+# of configuration with minimum energy... 1
+Start for  6_1_1_8 [120/455]
+Fin;generate all combinations 720720 ...time: 2.2175207138061523
+Pure GPU Computing time... 204.56650948524475
+Fin; energy prediction...time: 204.62835025787354
+Summary of Results...Min/Max/Mean/Std
+-57.816116 -52.592785 -55.895405 0.5378716
+# of configuration with minimum energy... 1
+Start for  5_9_1_1 [121/455]
+Fin;generate all combinations 480480 ...time: 1.3954920768737793
+Pure GPU Computing time... 136.10334086418152
+Fin; energy prediction...time: 136.1620671749115
+Summary of Results...Min/Max/Mean/Std
+-74.27579 -70.81375 -72.78944 0.44462743
+# of configuration with minimum energy... 1
+Start for  5_8_2_1 [122/455]
+Fin;generate all combinations 2162160 ...time: 7.105923652648926
+Pure GPU Computing time... 616.4117193222046
+Fin; energy prediction...time: 616.4894187450409
+Summary of Results...Min/Max/Mean/Std
+-72.72306 -68.81762 -71.073044 0.45650578
+# of configuration with minimum energy... 1
+Start for  5_8_1_2 [123/455]
+Fin;generate all combinations 2162160 ...time: 7.4519877433776855
+Pure GPU Computing time... 617.4054474830627
+Fin; energy prediction...time: 617.483648777008
+Summary of Results...Min/Max/Mean/Std
+-72.12 -67.79255 -70.400665 0.4741968
+# of configuration with minimum energy... 1
+Start for  5_7_3_1 [124/455]
+Fin;generate all combinations 5765760 ...time: 19.652525901794434
+Pure GPU Computing time... 1632.1034336090088
+Fin; energy prediction...time: 1632.2407608032227
+Summary of Results...Min/Max/Mean/Std
+-71.38615 -67.27391 -69.46237 0.47920907
+# of configuration with minimum energy... 1
+Start for  5_7_2_2 [125/455]
+Fin;generate all combinations 8648640 ...time: 28.666879415512085
+Pure GPU Computing time... 2442.670888185501
+Fin; energy prediction...time: 2442.859918117523
+Summary of Results...Min/Max/Mean/Std
+-70.68113 -66.3875 -68.83445 0.49022916
+# of configuration with minimum energy... 1
+Start for  5_7_1_3 [126/455]
+Fin;generate all combinations 5765760 ...time: 19.926700353622437
+Pure GPU Computing time... 1627.7104444503784
+Fin; energy prediction...time: 1627.8481068611145
+Summary of Results...Min/Max/Mean/Std
+-69.9867 -65.42577 -68.12445 0.5027769
+# of configuration with minimum energy... 1
+Start for  5_6_4_1 [127/455]
+Fin;generate all combinations 10090080 ...time: 33.22012734413147
+Pure GPU Computing time... 2857.3882842063904
+Fin; energy prediction...time: 2857.596113681793
+Summary of Results...Min/Max/Mean/Std
+-70.08454 -65.23742 -67.95358 0.52817744
+# of configuration with minimum energy... 1
+Start for  5_6_3_2 [128/455]
+Fin;generate all combinations 20180160 ...time: 68.36935186386108
+Pure GPU Computing time... 5717.965958595276
+Fin; energy prediction...time: 5718.3523099422455
+Summary of Results...Min/Max/Mean/Std
+-69.544754 -64.86066 -67.360306 0.5180296
+# of configuration with minimum energy... 1
+Start for  5_6_2_3 [129/455]
+Fin;generate all combinations 20180160 ...time: 62.200748682022095
+Pure GPU Computing time... 5687.418182373047
+Fin; energy prediction...time: 5687.8083436489105
+Summary of Results...Min/Max/Mean/Std
+-68.76305 -63.978046 -66.68859 0.5229177
+# of configuration with minimum energy... 1
+Start for  5_6_1_4 [130/455]
+Fin;generate all combinations 10090080 ...time: 36.122923135757446
+Pure GPU Computing time... 2850.6582193374634
+Fin; energy prediction...time: 2850.8669912815094
+Summary of Results...Min/Max/Mean/Std
+-67.97837 -63.08574 -65.95193 0.52723616
+# of configuration with minimum energy... 1
+Start for  5_5_5_1 [131/455]
+Fin;generate all combinations 12108096 ...time: 41.34539556503296
+Pure GPU Computing time... 3417.643081188202
+Fin; energy prediction...time: 3417.88383603096
+Summary of Results...Min/Max/Mean/Std
+-68.9702 -62.818394 -66.5206 0.6159685
+# of configuration with minimum energy... 2
+Start for  5_5_4_2 [132/455]
+Fin;generate all combinations 30270240 ...time: 103.83812308311462
+Pure GPU Computing time... 8550.673111915588
+Fin; energy prediction...time: 8551.271957159042
+Summary of Results...Min/Max/Mean/Std
+-68.32666 -62.72524 -65.97392 0.5755158
+# of configuration with minimum energy... 1
+Start for  5_5_3_3 [133/455]
+Fin;generate all combinations 40360320 ...time: 131.75864553451538
+Pure GPU Computing time... 11406.193018913269
+Fin; energy prediction...time: 11406.938836097717
+Summary of Results...Min/Max/Mean/Std
+-67.779755 -62.336815 -65.331665 0.55738425
+# of configuration with minimum energy... 1
+Start for  5_5_2_4 [134/455]
+Fin;generate all combinations 30270240 ...time: 110.50287985801697
+Pure GPU Computing time... 8560.415124177933
+Fin; energy prediction...time: 8560.972059726715
+Summary of Results...Min/Max/Mean/Std
+-66.931755 -61.62129 -64.6271 0.5505286
+# of configuration with minimum energy... 1
+Start for  5_5_1_5 [135/455]
+Fin;generate all combinations 12108096 ...time: 34.52801871299744
+Pure GPU Computing time... 3434.326632499695
+Fin; energy prediction...time: 3434.571713209152
+Summary of Results...Min/Max/Mean/Std
+-66.07613 -60.88826 -63.874783 0.5448375
+# of configuration with minimum energy... 1
+Start for  5_4_6_1 [136/455]
+Fin;generate all combinations 10090080 ...time: 33.8406343460083
+Pure GPU Computing time... 2844.0100903511047
+Fin; energy prediction...time: 2844.2181055545807
+Summary of Results...Min/Max/Mean/Std
+-67.80217 -61.36457 -65.110664 0.73342144
+# of configuration with minimum energy... 2
+Start for  5_4_5_2 [137/455]
+Fin;generate all combinations 30270240 ...time: 105.63077807426453
+Pure GPU Computing time... 8595.571519374847
+Fin; energy prediction...time: 8596.141146421432
+Summary of Results...Min/Max/Mean/Std
+-67.29465 -60.159237 -64.64882 0.6741546
+# of configuration with minimum energy... 1
+Start for  5_4_4_3 [138/455]
+Fin;generate all combinations 50450400 ...time: 169.76659393310547
+Pure GPU Computing time... 14307.26611828804
+Fin; energy prediction...time: 14308.196333885193
+Summary of Results...Min/Max/Mean/Std
+-66.425354 -60.343956 -64.04931 0.6251265
+# of configuration with minimum energy... 1
+Start for  5_4_3_4 [139/455]
+Fin;generate all combinations 50450400 ...time: 157.273921251297
+Pure GPU Computing time... 14352.557714223862
+Fin; energy prediction...time: 14353.609741449356
+Summary of Results...Min/Max/Mean/Std
+-66.02343 -59.79134 -63.368866 0.5914605
+# of configuration with minimum energy... 1
+Start for  5_4_2_5 [140/455]
+Fin;generate all combinations 30270240 ...time: 116.07840013504028
+Pure GPU Computing time... 8594.38777756691
+Fin; energy prediction...time: 8594.952828168869
+Summary of Results...Min/Max/Mean/Std
+-65.11839 -59.421894 -62.642384 0.5698411
+# of configuration with minimum energy... 1
+Start for  5_4_1_6 [141/455]
+Fin;generate all combinations 10090080 ...time: 29.236849069595337
+Pure GPU Computing time... 2859.2268896102905
+Fin; energy prediction...time: 2859.438802242279
+Summary of Results...Min/Max/Mean/Std
+-64.24797 -58.761555 -61.88416 0.5529639
+# of configuration with minimum energy... 1
+Start for  5_3_7_1 [142/455]
+Fin;generate all combinations 5765760 ...time: 16.949318170547485
+Pure GPU Computing time... 1628.3313767910004
+Fin; energy prediction...time: 1628.4696173667908
+Summary of Results...Min/Max/Mean/Std
+-66.90756 -59.386475 -63.64256 0.8440057
+# of configuration with minimum energy... 1
+Start for  5_3_6_2 [143/455]
+Fin;generate all combinations 20180160 ...time: 69.30925273895264
+Pure GPU Computing time... 5710.167211294174
+Fin; energy prediction...time: 5710.55552816391
+Summary of Results...Min/Max/Mean/Std
+-66.33838 -58.981422 -63.33199 0.8029715
+# of configuration with minimum energy... 1
+Start for  5_3_5_3 [144/455]
+Fin;generate all combinations 40360320 ...time: 143.0525906085968
+Pure GPU Computing time... 11420.65647983551
+Fin; energy prediction...time: 11421.406917572021
+Summary of Results...Min/Max/Mean/Std
+-65.613434 -58.22295 -62.81457 0.7367969
+# of configuration with minimum energy... 1
+Start for  5_3_4_4 [145/455]
+Fin;generate all combinations 50450400 ...time: 167.55159902572632
+Pure GPU Computing time... 14170.525830507278
+Fin; energy prediction...time: 14171.567760944366
+Summary of Results...Min/Max/Mean/Std
+-64.65744 -57.788166 -62.172848 0.669708
+# of configuration with minimum energy... 1
+Start for  5_3_3_5 [146/455]
+Fin;generate all combinations 40360320 ...time: 131.99341869354248
+Pure GPU Computing time... 11412.840770483017
+Fin; energy prediction...time: 11413.597128152847
+Summary of Results...Min/Max/Mean/Std
+-64.26344 -57.867954 -61.464848 0.61631215
+# of configuration with minimum energy... 1
+Start for  5_3_2_6 [147/455]
+Fin;generate all combinations 20180160 ...time: 75.43810224533081
+Pure GPU Computing time... 5726.908474445343
+Fin; energy prediction...time: 5727.299279928207
+Summary of Results...Min/Max/Mean/Std
+-63.35639 -57.23271 -60.726112 0.57807654
+# of configuration with minimum energy... 1
+Start for  5_3_1_7 [148/455]
+Fin;generate all combinations 5765760 ...time: 17.007163286209106
+Pure GPU Computing time... 1654.7962007522583
+Fin; energy prediction...time: 1654.9344465732574
+Summary of Results...Min/Max/Mean/Std
+-62.431248 -57.03655 -59.971413 0.54899263
+# of configuration with minimum energy... 1
+Start for  5_2_8_1 [149/455]
+Fin;generate all combinations 2162160 ...time: 9.27536916732788
+Pure GPU Computing time... 614.2521126270294
+Fin; energy prediction...time: 614.3319442272186
+Summary of Results...Min/Max/Mean/Std
+-64.62707 -58.19709 -62.008236 0.8918601
+# of configuration with minimum energy... 1
+Start for  5_2_7_2 [150/455]
+Fin;generate all combinations 8648640 ...time: 28.572800397872925
+Pure GPU Computing time... 2473.545053958893
+Fin; energy prediction...time: 2473.729647874832
+Summary of Results...Min/Max/Mean/Std
+-65.39781 -56.820847 -61.94287 0.9260336
+# of configuration with minimum energy... 1
+Start for  5_2_6_3 [151/455]
+Fin;generate all combinations 20180160 ...time: 71.97245478630066
+Pure GPU Computing time... 5720.4846658706665
+Fin; energy prediction...time: 5720.85989356041
+Summary of Results...Min/Max/Mean/Std
+-64.44882 -57.026073 -61.574806 0.8813622
+# of configuration with minimum energy... 1
+Start for  5_2_5_4 [152/455]
+Fin;generate all combinations 30270240 ...time: 107.33589005470276
+Pure GPU Computing time... 8563.749500274658
+Fin; energy prediction...time: 8564.34481549263
+Summary of Results...Min/Max/Mean/Std
+-63.807293 -55.73053 -61.011692 0.79593056
+# of configuration with minimum energy... 1
+Start for  5_2_4_5 [153/455]
+Fin;generate all combinations 30270240 ...time: 101.03501725196838
+Pure GPU Computing time... 8646.143863916397
+Fin; energy prediction...time: 8646.689551830292
+Summary of Results...Min/Max/Mean/Std
+-62.86219 -56.284256 -60.337654 0.7050671
+# of configuration with minimum energy... 1
+Start for  5_2_3_6 [154/455]
+Fin;generate all combinations 20180160 ...time: 70.11067795753479
+Pure GPU Computing time... 5708.923798322678
+Fin; energy prediction...time: 5709.312608242035
+Summary of Results...Min/Max/Mean/Std
+-62.507946 -55.632748 -59.61202 0.62918264
+# of configuration with minimum energy... 1
+Start for  5_2_2_7 [155/455]
+Fin;generate all combinations 8648640 ...time: 29.015145301818848
+Pure GPU Computing time... 2428.14776968956
+Fin; energy prediction...time: 2428.331439256668
+Summary of Results...Min/Max/Mean/Std
+-61.167877 -55.91813 -58.87031 0.5727492
+# of configuration with minimum energy... 1
+Start for  5_2_1_8 [156/455]
+Fin;generate all combinations 2162160 ...time: 6.643205165863037
+Pure GPU Computing time... 610.4134519100189
+Fin; energy prediction...time: 610.49489569664
+Summary of Results...Min/Max/Mean/Std
+-60.111435 -54.88029 -58.12816 0.53028816
+# of configuration with minimum energy... 1
+Start for  5_1_9_1 [157/455]
+Fin;generate all combinations 480480 ...time: 1.6547164916992188
+Pure GPU Computing time... 136.25717663764954
+Fin; energy prediction...time: 136.45825624465942
+Summary of Results...Min/Max/Mean/Std
+-61.92345 -56.08394 -60.074593 0.81258035
+# of configuration with minimum energy... 1
+Start for  5_1_8_2 [158/455]
+Fin;generate all combinations 2162160 ...time: 7.784498691558838
+Pure GPU Computing time... 608.5771961212158
+Fin; energy prediction...time: 608.6563081741333
+Summary of Results...Min/Max/Mean/Std
+-62.96322 -55.906704 -60.372875 0.9914607
+# of configuration with minimum energy... 1
+Start for  5_1_7_3 [159/455]
+Fin;generate all combinations 5765760 ...time: 20.778237342834473
+Pure GPU Computing time... 1645.3706119060516
+Fin; energy prediction...time: 1645.507840871811
+Summary of Results...Min/Max/Mean/Std
+-63.77243 -55.249393 -60.249077 1.0258307
+# of configuration with minimum energy... 1
+Start for  5_1_6_4 [160/455]
+Fin;generate all combinations 10090080 ...time: 61.93312931060791
+Pure GPU Computing time... 2851.680629014969
+Fin; energy prediction...time: 2851.8919677734375
+Summary of Results...Min/Max/Mean/Std
+-62.55353 -54.55574 -59.83307 0.9603418
+# of configuration with minimum energy... 1
+Start for  5_1_5_5 [161/455]
+Fin;generate all combinations 12108096 ...time: 44.425318002700806
+Pure GPU Computing time... 3372.0098528862
+Fin; energy prediction...time: 3372.2503707408905
+Summary of Results...Min/Max/Mean/Std
+-62.02472 -54.38935 -59.233994 0.8477341
+# of configuration with minimum energy... 1
+Start for  5_1_4_6 [162/455]
+Fin;generate all combinations 10090080 ...time: 35.54305863380432
+Pure GPU Computing time... 2832.1341574192047
+Fin; energy prediction...time: 2832.340900659561
+Summary of Results...Min/Max/Mean/Std
+-61.041306 -54.00539 -58.537254 0.72911566
+# of configuration with minimum energy... 1
+Start for  5_1_3_7 [163/455]
+Fin;generate all combinations 5765760 ...time: 21.614898920059204
+Pure GPU Computing time... 1654.532885313034
+Fin; energy prediction...time: 1654.670476436615
+Summary of Results...Min/Max/Mean/Std
+-60.230988 -54.338238 -57.802864 0.6282823
+# of configuration with minimum energy... 1
+Start for  5_1_2_8 [164/455]
+Fin;generate all combinations 2162160 ...time: 6.320096015930176
+Pure GPU Computing time... 608.4773116111755
+Fin; energy prediction...time: 608.5558068752289
+Summary of Results...Min/Max/Mean/Std
+-58.986908 -53.606403 -57.067104 0.5517605
+# of configuration with minimum energy... 1
+Start for  5_1_1_9 [165/455]
+Fin;generate all combinations 480480 ...time: 1.5308349132537842
+Pure GPU Computing time... 136.41015577316284
+Fin; energy prediction...time: 136.46791815757751
+Summary of Results...Min/Max/Mean/Std
+-57.96999 -53.71095 -56.3455 0.49434865
+# of configuration with minimum energy... 1
+Start for  4_10_1_1 [166/455]
+Fin;generate all combinations 240240 ...time: 0.7410216331481934
+Pure GPU Computing time... 68.09722709655762
+Fin; energy prediction...time: 68.15165042877197
+Summary of Results...Min/Max/Mean/Std
+-76.92243 -74.0903 -75.566475 0.41301477
+# of configuration with minimum energy... 2
+Start for  4_9_2_1 [167/455]
+Fin;generate all combinations 1201200 ...time: 3.677769660949707
+Pure GPU Computing time... 340.5065577030182
+Fin; energy prediction...time: 340.57447814941406
+Summary of Results...Min/Max/Mean/Std
+-75.31042 -72.03124 -73.76426 0.44116196
+# of configuration with minimum energy... 1
+Start for  4_9_1_2 [168/455]
+Fin;generate all combinations 1201200 ...time: 4.419038772583008
+Pure GPU Computing time... 342.26117062568665
+Fin; energy prediction...time: 342.32687187194824
+Summary of Results...Min/Max/Mean/Std
+-74.5174 -71.051254 -73.0771 0.447104
+# of configuration with minimum energy... 1
+Start for  4_8_3_1 [169/455]
+Fin;generate all combinations 3603600 ...time: 12.026899337768555
+Pure GPU Computing time... 1020.7703680992126
+Fin; energy prediction...time: 1020.8740093708038
+Summary of Results...Min/Max/Mean/Std
+-73.90282 -69.95851 -72.07341 0.4648102
+# of configuration with minimum energy... 1
+Start for  4_8_2_2 [170/455]
+Fin;generate all combinations 5405400 ...time: 17.880398511886597
+Pure GPU Computing time... 1527.1957063674927
+Fin; energy prediction...time: 1527.3247928619385
+Summary of Results...Min/Max/Mean/Std
+-73.185196 -69.10985 -71.432335 0.47236001
+# of configuration with minimum energy... 1
+Start for  4_8_1_3 [171/455]
+Fin;generate all combinations 3603600 ...time: 12.299479961395264
+Pure GPU Computing time... 1016.1504724025726
+Fin; energy prediction...time: 1016.2536704540253
+Summary of Results...Min/Max/Mean/Std
+-72.51759 -68.25144 -70.71277 0.4786546
+# of configuration with minimum energy... 1
+Start for  4_7_4_1 [172/455]
+Fin;generate all combinations 7207200 ...time: 26.034560203552246
+Pure GPU Computing time... 2040.9841494560242
+Fin; energy prediction...time: 2041.1483476161957
+Summary of Results...Min/Max/Mean/Std
+-72.43037 -68.25467 -70.5064 0.4852413
+# of configuration with minimum energy... 1
+Start for  4_7_3_2 [173/455]
+Fin;generate all combinations 14414400 ...time: 48.666444063186646
+Pure GPU Computing time... 4076.015545606613
+Fin; energy prediction...time: 4076.296493291855
+Summary of Results...Min/Max/Mean/Std
+-71.80372 -67.52689 -69.885735 0.49276677
+# of configuration with minimum energy... 1
+Start for  4_7_2_3 [174/455]
+Fin;generate all combinations 14414400 ...time: 43.70103430747986
+Pure GPU Computing time... 4075.954808950424
+Fin; energy prediction...time: 4076.2374138832092
+Summary of Results...Min/Max/Mean/Std
+-71.075 -66.69766 -69.2057 0.5019016
+# of configuration with minimum energy... 1
+Start for  4_7_1_4 [175/455]
+Fin;generate all combinations 7207200 ...time: 25.975600481033325
+Pure GPU Computing time... 2041.136696100235
+Fin; energy prediction...time: 2041.2966842651367
+Summary of Results...Min/Max/Mean/Std
+-70.41843 -65.88139 -68.46473 0.5054553
+# of configuration with minimum energy... 1
+Start for  4_6_5_1 [176/455]
+Fin;generate all combinations 10090080 ...time: 34.48915481567383
+Pure GPU Computing time... 2883.0844814777374
+Fin; energy prediction...time: 2883.291731119156
+Summary of Results...Min/Max/Mean/Std
+-71.08182 -66.615295 -69.05661 0.5179767
+# of configuration with minimum energy... 1
+Start for  4_6_4_2 [177/455]
+Fin;generate all combinations 25225200 ...time: 84.91186094284058
+Pure GPU Computing time... 7124.481573581696
+Fin; energy prediction...time: 7124.942612886429
+Summary of Results...Min/Max/Mean/Std
+-70.59955 -65.544876 -68.44911 0.515242
+# of configuration with minimum energy... 1
+Start for  4_6_3_3 [178/455]
+Fin;generate all combinations 33633600 ...time: 106.906973361969
+Pure GPU Computing time... 9465.64032292366
+Fin; energy prediction...time: 9466.264824151993
+Summary of Results...Min/Max/Mean/Std
+-69.854515 -65.18271 -67.784225 0.5221119
+# of configuration with minimum energy... 1
+Start for  4_6_2_4 [179/455]
+Fin;generate all combinations 25225200 ...time: 88.67005038261414
+Pure GPU Computing time... 7091.959475040436
+Fin; energy prediction...time: 7092.438480377197
+Summary of Results...Min/Max/Mean/Std
+-69.08397 -64.2928 -67.076256 0.52683353
+# of configuration with minimum energy... 1
+Start for  4_6_1_5 [180/455]
+Fin;generate all combinations 10090080 ...time: 28.54298710823059
+Pure GPU Computing time... 2844.68568611145
+Fin; energy prediction...time: 2844.898562192917
+Summary of Results...Min/Max/Mean/Std
+-68.55327 -63.51643 -66.32441 0.5255013
+# of configuration with minimum energy... 1
+Start for  4_5_6_1 [181/455]
+Fin;generate all combinations 10090080 ...time: 35.767696142196655
+Pure GPU Computing time... 2847.7294483184814
+Fin; energy prediction...time: 2847.944797039032
+Summary of Results...Min/Max/Mean/Std
+-70.0728 -64.63419 -67.692535 0.58605725
+# of configuration with minimum energy... 2
+Start for  4_5_5_2 [182/455]
+Fin;generate all combinations 30270240 ...time: 100.81566572189331
+Pure GPU Computing time... 8545.685323238373
+Fin; energy prediction...time: 8546.268693447113
+Summary of Results...Min/Max/Mean/Std
+-69.36588 -64.01323 -67.11545 0.557774
+# of configuration with minimum energy... 1
+Start for  4_5_4_3 [183/455]
+Fin;generate all combinations 50450400 ...time: 166.04768919944763
+Pure GPU Computing time... 14224.0368309021
+Fin; energy prediction...time: 14225.040575027466
+Summary of Results...Min/Max/Mean/Std
+-68.83101 -63.261257 -66.459496 0.54956377
+# of configuration with minimum energy... 1
+Start for  4_5_3_4 [184/455]
+Fin;generate all combinations 50450400 ...time: 168.6980495452881
+Pure GPU Computing time... 14115.747411489487
+Fin; energy prediction...time: 14116.788753271103
+Summary of Results...Min/Max/Mean/Std
+-68.051926 -62.553524 -65.76127 0.5478184
+# of configuration with minimum energy... 1
+Start for  4_5_2_5 [185/455]
+Fin;generate all combinations 30270240 ...time: 106.42252707481384
+Pure GPU Computing time... 8550.406237840652
+Fin; energy prediction...time: 8550.960157632828
+Summary of Results...Min/Max/Mean/Std
+-67.3167 -62.061337 -65.036 0.5445344
+# of configuration with minimum energy... 1
+Start for  4_5_1_6 [186/455]
+Fin;generate all combinations 10090080 ...time: 29.26073908805847
+Pure GPU Computing time... 2844.736121892929
+Fin; energy prediction...time: 2844.94517660141
+Summary of Results...Min/Max/Mean/Std
+-66.73076 -61.296734 -64.28298 0.53671205
+# of configuration with minimum energy... 1
+Start for  4_4_7_1 [187/455]
+Fin;generate all combinations 7207200 ...time: 26.590249061584473
+Pure GPU Computing time... 2032.7361977100372
+Fin; energy prediction...time: 2032.897352218628
+Summary of Results...Min/Max/Mean/Std
+-68.844604 -63.241 -66.35476 0.69124246
+# of configuration with minimum energy... 2
+Start for  4_4_6_2 [188/455]
+Fin;generate all combinations 25225200 ...time: 84.19499969482422
+Pure GPU Computing time... 7107.751667976379
+Fin; energy prediction...time: 7108.227359294891
+Summary of Results...Min/Max/Mean/Std
+-68.376755 -61.91969 -65.85326 0.64046884
+# of configuration with minimum energy... 1
+Start for  4_4_5_3 [189/455]
+Fin;generate all combinations 50450400 ...time: 175.2399616241455
+Pure GPU Computing time... 14261.68749499321
+Fin; energy prediction...time: 14262.616617441177
+Summary of Results...Min/Max/Mean/Std
+-67.54764 -61.991856 -65.22438 0.60344505
+# of configuration with minimum energy... 1
+Start for  4_4_4_4 [190/455]
+Fin;generate all combinations 63063000 ...time: 225.90288257598877
+Pure GPU Computing time... 17656.66227030754
+Fin; energy prediction...time: 17657.948002576828
+Summary of Results...Min/Max/Mean/Std
+-67.163925 -60.594044 -64.53045 0.5807853
+# of configuration with minimum energy... 1
+Start for  4_4_3_5 [191/455]
+Fin;generate all combinations 50450400 ...time: 170.5867154598236
+Pure GPU Computing time... 14197.027013778687
+Fin; energy prediction...time: 14198.014701128006
+Summary of Results...Min/Max/Mean/Std
+-66.25001 -60.772583 -63.809216 0.56595933
+# of configuration with minimum energy... 1
+Start for  4_4_2_6 [192/455]
+Fin;generate all combinations 25225200 ...time: 84.02777242660522
+Pure GPU Computing time... 7130.306747436523
+Fin; energy prediction...time: 7130.778699398041
+Summary of Results...Min/Max/Mean/Std
+-65.44503 -59.870003 -63.076374 0.5524521
+# of configuration with minimum energy... 1
+Start for  4_4_1_7 [193/455]
+Fin;generate all combinations 7207200 ...time: 26.621527194976807
+Pure GPU Computing time... 2037.0740673542023
+Fin; energy prediction...time: 2037.2356398105621
+Summary of Results...Min/Max/Mean/Std
+-64.89014 -59.14884 -62.331688 0.53683317
+# of configuration with minimum energy... 1
+Start for  4_3_8_1 [194/455]
+Fin;generate all combinations 3603600 ...time: 10.975342035293579
+Pure GPU Computing time... 1019.1451115608215
+Fin; energy prediction...time: 1019.2502982616425
+Summary of Results...Min/Max/Mean/Std
+-67.97241 -61.346172 -64.954666 0.797565
+# of configuration with minimum energy... 1
+Start for  4_3_7_2 [195/455]
+Fin;generate all combinations 14414400 ...time: 47.07018256187439
+Pure GPU Computing time... 4122.100656032562
+Fin; energy prediction...time: 4122.376400947571
+Summary of Results...Min/Max/Mean/Std
+-67.37286 -60.895576 -64.60282 0.7603002
+# of configuration with minimum energy... 1
+Start for  4_3_6_3 [196/455]
+Fin;generate all combinations 33633600 ...time: 120.79636454582214
+Pure GPU Computing time... 9637.23617196083
+Fin; energy prediction...time: 9637.938978433609
+Summary of Results...Min/Max/Mean/Std
+-66.69941 -60.16883 -64.04718 0.7016654
+# of configuration with minimum energy... 1
+Start for  4_3_5_4 [197/455]
+Fin;generate all combinations 50450400 ...time: 168.21281576156616
+Pure GPU Computing time... 14325.67695569992
+Fin; energy prediction...time: 14326.651684761047
+Summary of Results...Min/Max/Mean/Std
+-65.731255 -59.448532 -63.376705 0.64587563
+# of configuration with minimum energy... 1
+Start for  4_3_4_5 [198/455]
+Fin;generate all combinations 50450400 ...time: 171.43891954421997
+Pure GPU Computing time... 14312.722488164902
+Fin; energy prediction...time: 14313.648567914963
+Summary of Results...Min/Max/Mean/Std
+-65.36354 -59.152287 -62.65505 0.603821
+# of configuration with minimum energy... 1
+Start for  4_3_3_6 [199/455]
+Fin;generate all combinations 33633600 ...time: 116.35391783714294
+Pure GPU Computing time... 9494.391502380371
+Fin; energy prediction...time: 9495.01681470871
+Summary of Results...Min/Max/Mean/Std
+-64.49376 -58.43939 -61.920395 0.5732904
+# of configuration with minimum energy... 1
+Start for  4_3_2_7 [200/455]
+Fin;generate all combinations 14414400 ...time: 55.16468787193298
+Pure GPU Computing time... 4116.893821716309
+Fin; energy prediction...time: 4117.168286085129
+Summary of Results...Min/Max/Mean/Std
+-63.617775 -58.18172 -61.18943 0.548025
+# of configuration with minimum energy... 1
+Start for  4_3_1_8 [201/455]
+Fin;generate all combinations 3603600 ...time: 11.334475040435791
+Pure GPU Computing time... 1027.166351556778
+Fin; energy prediction...time: 1027.2720782756805
+Summary of Results...Min/Max/Mean/Std
+-62.627445 -57.203117 -60.46168 0.5234442
+# of configuration with minimum energy... 1
+Start for  4_2_9_1 [202/455]
+Fin;generate all combinations 1201200 ...time: 3.8382139205932617
+Pure GPU Computing time... 346.0981721878052
+Fin; energy prediction...time: 346.16551899909973
+Summary of Results...Min/Max/Mean/Std
+-65.747986 -60.415123 -63.376423 0.8425398
+# of configuration with minimum energy... 2
+Start for  4_2_8_2 [203/455]
+Fin;generate all combinations 5405400 ...time: 18.181949615478516
+Pure GPU Computing time... 1544.0197024345398
+Fin; energy prediction...time: 1544.1480386257172
+Summary of Results...Min/Max/Mean/Std
+-66.47984 -58.925247 -63.275948 0.88103664
+# of configuration with minimum energy... 1
+Start for  4_2_7_3 [204/455]
+Fin;generate all combinations 14414400 ...time: 52.55947303771973
+Pure GPU Computing time... 4170.840048313141
+Fin; energy prediction...time: 4171.116002082825
+Summary of Results...Min/Max/Mean/Std
+-65.600525 -58.97102 -62.868404 0.8392954
+# of configuration with minimum energy... 1
+Start for  4_2_6_4 [205/455]
+Fin;generate all combinations 25225200 ...time: 88.56450414657593
+Pure GPU Computing time... 7245.78120136261
+Fin; energy prediction...time: 7246.255464076996
+Summary of Results...Min/Max/Mean/Std
+-64.910965 -57.60439 -62.26832 0.76019657
+# of configuration with minimum energy... 1
+Start for  4_2_5_5 [206/455]
+Fin;generate all combinations 30270240 ...time: 104.801677942276
+Pure GPU Computing time... 8603.530327558517
+Fin; energy prediction...time: 8604.095816135406
+Summary of Results...Min/Max/Mean/Std
+-63.89021 -57.90035 -61.566006 0.67974293
+# of configuration with minimum energy... 1
+Start for  4_2_4_6 [207/455]
+Fin;generate all combinations 25225200 ...time: 92.01832675933838
+Pure GPU Computing time... 7170.799477100372
+Fin; energy prediction...time: 7171.270615339279
+Summary of Results...Min/Max/Mean/Std
+-63.589188 -56.856438 -60.825996 0.6151997
+# of configuration with minimum energy... 1
+Start for  4_2_3_7 [208/455]
+Fin;generate all combinations 14414400 ...time: 52.89306879043579
+Pure GPU Computing time... 4149.908429384232
+Fin; energy prediction...time: 4150.189549922943
+Summary of Results...Min/Max/Mean/Std
+-62.299133 -56.95401 -60.087296 0.56706274
+# of configuration with minimum energy... 1
+Start for  4_2_2_8 [209/455]
+Fin;generate all combinations 5405400 ...time: 19.2840473651886
+Pure GPU Computing time... 1569.50581741333
+Fin; energy prediction...time: 1569.6360154151917
+Summary of Results...Min/Max/Mean/Std
+-61.376663 -55.913326 -59.366726 0.5287319
+# of configuration with minimum energy... 1
+Start for  4_2_1_9 [210/455]
+Fin;generate all combinations 1201200 ...time: 3.865739107131958
+Pure GPU Computing time... 347.3802273273468
+Fin; energy prediction...time: 347.44754934310913
+Summary of Results...Min/Max/Mean/Std
+-60.404907 -55.99098 -58.66409 0.4940761
+# of configuration with minimum energy... 1
+Start for  4_1_10_1 [211/455]
+Fin;generate all combinations 240240 ...time: 0.8807539939880371
+Pure GPU Computing time... 67.83956909179688
+Fin; energy prediction...time: 67.89333391189575
+Summary of Results...Min/Max/Mean/Std
+-63.16883 -58.252663 -61.480602 0.75218123
+# of configuration with minimum energy... 1
+Start for  4_1_9_2 [212/455]
+Fin;generate all combinations 1201200 ...time: 3.3956024646759033
+Pure GPU Computing time... 343.46579146385193
+Fin; energy prediction...time: 343.53312039375305
+Summary of Results...Min/Max/Mean/Std
+-64.14522 -58.100502 -61.756783 0.94549745
+# of configuration with minimum energy... 1
+Start for  4_1_8_3 [213/455]
+Fin;generate all combinations 3603600 ...time: 11.732131958007812
+Pure GPU Computing time... 1027.8208332061768
+Fin; energy prediction...time: 1027.9209752082825
+Summary of Results...Min/Max/Mean/Std
+-64.84204 -57.209244 -61.599987 0.982848
+# of configuration with minimum energy... 1
+Start for  4_1_7_4 [214/455]
+Fin;generate all combinations 7207200 ...time: 26.09479308128357
+Pure GPU Computing time... 2063.7229030132294
+Fin; energy prediction...time: 2063.885376930237
+Summary of Results...Min/Max/Mean/Std
+-63.67781 -56.52226 -61.146076 0.9190599
+# of configuration with minimum energy... 1
+Start for  4_1_6_5 [215/455]
+Fin;generate all combinations 10090080 ...time: 36.60659670829773
+Pure GPU Computing time... 2851.552687883377
+Fin; energy prediction...time: 2851.758791446686
+Summary of Results...Min/Max/Mean/Std
+-63.150467 -56.2376 -60.510822 0.8115194
+# of configuration with minimum energy... 1
+Start for  4_1_5_6 [216/455]
+Fin;generate all combinations 10090080 ...time: 36.93056297302246
+Pure GPU Computing time... 2879.964527606964
+Fin; energy prediction...time: 2880.172573328018
+Summary of Results...Min/Max/Mean/Std
+-62.086727 -55.553795 -59.78575 0.7023552
+# of configuration with minimum energy... 1
+Start for  4_1_4_7 [217/455]
+Fin;generate all combinations 7207200 ...time: 26.293530225753784
+Pure GPU Computing time... 2065.5208616256714
+Fin; energy prediction...time: 2065.681116580963
+Summary of Results...Min/Max/Mean/Std
+-61.42765 -55.616673 -59.036087 0.612757
+# of configuration with minimum energy... 1
+Start for  4_1_3_8 [218/455]
+Fin;generate all combinations 3603600 ...time: 12.466524124145508
+Pure GPU Computing time... 1019.1529278755188
+Fin; energy prediction...time: 1019.2544450759888
+Summary of Results...Min/Max/Mean/Std
+-60.135876 -54.628025 -58.30183 0.5451326
+# of configuration with minimum energy... 1
+Start for  4_1_2_9 [219/455]
+Fin;generate all combinations 1201200 ...time: 3.588287353515625
+Pure GPU Computing time... 340.12454056739807
+Fin; energy prediction...time: 340.192045211792
+Summary of Results...Min/Max/Mean/Std
+-59.28251 -54.72503 -57.599915 0.49237195
+# of configuration with minimum energy... 1
+Start for  4_1_1_10 [220/455]
+Fin;generate all combinations 240240 ...time: 0.7944765090942383
+Pure GPU Computing time... 68.72937035560608
+Fin; energy prediction...time: 68.7836332321167
+Summary of Results...Min/Max/Mean/Std
+-58.31626 -54.77874 -56.929947 0.446571
+# of configuration with minimum energy... 1
+Start for  3_11_1_1 [221/455]
+Fin;generate all combinations 87360 ...time: 0.29146456718444824
+Pure GPU Computing time... 24.943125247955322
+Fin; energy prediction...time: 24.99597954750061
+Summary of Results...Min/Max/Mean/Std
+-79.66144 -77.353035 -78.49242 0.35172257
+# of configuration with minimum energy... 1
+Start for  3_10_2_1 [222/455]
+Fin;generate all combinations 480480 ...time: 1.613450050354004
+Pure GPU Computing time... 137.07126545906067
+Fin; energy prediction...time: 137.2736587524414
+Summary of Results...Min/Max/Mean/Std
+-77.928276 -75.31463 -76.59752 0.40002662
+# of configuration with minimum energy... 1
+Start for  3_10_1_2 [223/455]
+Fin;generate all combinations 480480 ...time: 1.7118804454803467
+Pure GPU Computing time... 136.74875807762146
+Fin; energy prediction...time: 136.80511283874512
+Summary of Results...Min/Max/Mean/Std
+-77.35781 -74.35941 -75.89876 0.39550272
+# of configuration with minimum energy... 1
+Start for  3_9_3_1 [224/455]
+Fin;generate all combinations 1601600 ...time: 5.85608696937561
+Pure GPU Computing time... 454.3154697418213
+Fin; energy prediction...time: 454.38792181015015
+Summary of Results...Min/Max/Mean/Std
+-76.55605 -73.25307 -74.806656 0.4458172
+# of configuration with minimum energy... 1
+Start for  3_9_2_2 [225/455]
+Fin;generate all combinations 2402400 ...time: 7.678232192993164
+Pure GPU Computing time... 681.205582857132
+Fin; energy prediction...time: 681.2863223552704
+Summary of Results...Min/Max/Mean/Std
+-75.70361 -72.46237 -74.16789 0.43552235
+# of configuration with minimum energy... 1
+Start for  3_9_1_3 [226/455]
+Fin;generate all combinations 1601600 ...time: 6.266239166259766
+Pure GPU Computing time... 455.9611768722534
+Fin; energy prediction...time: 456.0328803062439
+Summary of Results...Min/Max/Mean/Std
+-75.12473 -71.64406 -73.44187 0.43414688
+# of configuration with minimum energy... 1
+Start for  3_8_4_1 [227/455]
+Fin;generate all combinations 3603600 ...time: 12.2902991771698
+Pure GPU Computing time... 1026.8980870246887
+Fin; energy prediction...time: 1027.0016386508942
+Summary of Results...Min/Max/Mean/Std
+-74.92507 -71.273796 -73.14563 0.47652814
+# of configuration with minimum energy... 1
+Start for  3_8_3_2 [228/455]
+Fin;generate all combinations 7207200 ...time: 23.266074895858765
+Pure GPU Computing time... 2045.2294380664825
+Fin; energy prediction...time: 2045.3921158313751
+Summary of Results...Min/Max/Mean/Std
+-74.36391 -70.5337 -72.5287 0.47013533
+# of configuration with minimum energy... 1
+Start for  3_8_2_3 [229/455]
+Fin;generate all combinations 7207200 ...time: 24.077325344085693
+Pure GPU Computing time... 2055.647608280182
+Fin; energy prediction...time: 2055.80770611763
+Summary of Results...Min/Max/Mean/Std
+-73.55749 -69.794304 -71.85575 0.46748254
+# of configuration with minimum energy... 1
+Start for  3_8_1_4 [230/455]
+Fin;generate all combinations 3603600 ...time: 11.310665369033813
+Pure GPU Computing time... 1032.2460296154022
+Fin; energy prediction...time: 1032.3498129844666
+Summary of Results...Min/Max/Mean/Std
+-72.98319 -68.950516 -71.11328 0.46646878
+# of configuration with minimum energy... 1
+Start for  3_7_5_1 [231/455]
+Fin;generate all combinations 5765760 ...time: 19.650695323944092
+Pure GPU Computing time... 1644.6879460811615
+Fin; energy prediction...time: 1644.8232321739197
+Summary of Results...Min/Max/Mean/Std
+-73.5342 -69.609344 -71.62555 0.48751023
+# of configuration with minimum energy... 1
+Start for  3_7_4_2 [232/455]
+Fin;generate all combinations 14414400 ...time: 48.38154125213623
+Pure GPU Computing time... 4097.723283290863
+Fin; energy prediction...time: 4097.999292612076
+Summary of Results...Min/Max/Mean/Std
+-73.00168 -68.894135 -71.00582 0.49363527
+# of configuration with minimum energy... 1
+Start for  3_7_3_3 [233/455]
+Fin;generate all combinations 19219200 ...time: 60.87930679321289
+Pure GPU Computing time... 5481.82576584816
+Fin; energy prediction...time: 5482.195737361908
+Summary of Results...Min/Max/Mean/Std
+-72.28216 -68.120445 -70.349174 0.49538812
+# of configuration with minimum energy... 1
+Start for  3_7_2_4 [234/455]
+Fin;generate all combinations 14414400 ...time: 50.710572481155396
+Pure GPU Computing time... 4083.653584241867
+Fin; energy prediction...time: 4083.9292027950287
+Summary of Results...Min/Max/Mean/Std
+-71.63968 -67.28458 -69.65296 0.49416932
+# of configuration with minimum energy... 1
+Start for  3_7_1_5 [235/455]
+Fin;generate all combinations 5765760 ...time: 19.923802137374878
+Pure GPU Computing time... 1638.3380262851715
+Fin; energy prediction...time: 1638.4742758274078
+Summary of Results...Min/Max/Mean/Std
+-70.91092 -66.54791 -68.90424 0.49130985
+# of configuration with minimum energy... 1
+Start for  3_6_6_1 [236/455]
+Fin;generate all combinations 6726720 ...time: 20.609148263931274
+Pure GPU Computing time... 1907.8123426437378
+Fin; energy prediction...time: 1907.9651246070862
+Summary of Results...Min/Max/Mean/Std
+-72.182205 -68.07518 -70.23605 0.4964029
+# of configuration with minimum energy... 1
+Start for  3_6_5_2 [237/455]
+Fin;generate all combinations 20180160 ...time: 66.47041916847229
+Pure GPU Computing time... 5714.494256019592
+Fin; energy prediction...time: 5714.870310783386
+Summary of Results...Min/Max/Mean/Std
+-71.66171 -66.991516 -69.610245 0.50657696
+# of configuration with minimum energy... 1
+Start for  3_6_4_3 [238/455]
+Fin;generate all combinations 33633600 ...time: 115.08287286758423
+Pure GPU Computing time... 9513.080044746399
+Fin; energy prediction...time: 9513.708426952362
+Summary of Results...Min/Max/Mean/Std
+-71.112854 -66.60297 -68.945946 0.5162771
+# of configuration with minimum energy... 1
+Start for  3_6_3_4 [239/455]
+Fin;generate all combinations 33633600 ...time: 104.73316717147827
+Pure GPU Computing time... 9497.093540668488
+Fin; energy prediction...time: 9497.724037647247
+Summary of Results...Min/Max/Mean/Std
+-70.1821 -65.35202 -68.260376 0.5177429
+# of configuration with minimum energy... 1
+Start for  3_6_2_5 [240/455]
+Fin;generate all combinations 20180160 ...time: 70.99366331100464
+Pure GPU Computing time... 5691.357127428055
+Fin; energy prediction...time: 5691.728825807571
+Summary of Results...Min/Max/Mean/Std
+-69.73874 -65.05733 -67.55132 0.51382333
+# of configuration with minimum energy... 1
+Start for  3_6_1_6 [241/455]
+Fin;generate all combinations 6726720 ...time: 19.733537673950195
+Pure GPU Computing time... 1924.1991438865662
+Fin; energy prediction...time: 1924.353993654251
+Summary of Results...Min/Max/Mean/Std
+-69.100555 -64.23349 -66.806206 0.5072463
+# of configuration with minimum energy... 1
+Start for  3_5_7_1 [242/455]
+Fin;generate all combinations 5765760 ...time: 18.526490688323975
+Pure GPU Computing time... 1638.534430027008
+Fin; energy prediction...time: 1638.6703860759735
+Summary of Results...Min/Max/Mean/Std
+-71.145 -66.26582 -68.9397 0.5399558
+# of configuration with minimum energy... 1
+Start for  3_5_6_2 [243/455]
+Fin;generate all combinations 20180160 ...time: 69.35596799850464
+Pure GPU Computing time... 5726.5487422943115
+Fin; energy prediction...time: 5726.933369636536
+Summary of Results...Min/Max/Mean/Std
+-70.49609 -65.625175 -68.33078 0.5288644
+# of configuration with minimum energy... 1
+Start for  3_5_5_3 [244/455]
+Fin;generate all combinations 40360320 ...time: 141.7007875442505
+Pure GPU Computing time... 11431.883619785309
+Fin; energy prediction...time: 11432.617453575134
+Summary of Results...Min/Max/Mean/Std
+-69.89593 -64.97045 -67.65675 0.53444165
+# of configuration with minimum energy... 1
+Start for  3_5_4_4 [245/455]
+Fin;generate all combinations 50450400 ...time: 165.8385169506073
+Pure GPU Computing time... 14303.946573734283
+Fin; energy prediction...time: 14304.887011289597
+Summary of Results...Min/Max/Mean/Std
+-69.28491 -64.19765 -66.95892 0.53803355
+# of configuration with minimum energy... 1
+Start for  3_5_3_5 [246/455]
+Fin;generate all combinations 40360320 ...time: 150.5752296447754
+Pure GPU Computing time... 11464.523849964142
+Fin; energy prediction...time: 11465.275559425354
+Summary of Results...Min/Max/Mean/Std
+-68.44715 -63.542057 -66.25453 0.53389245
+# of configuration with minimum energy... 1
+Start for  3_5_2_6 [247/455]
+Fin;generate all combinations 20180160 ...time: 65.57117438316345
+Pure GPU Computing time... 5776.986274957657
+Fin; energy prediction...time: 5777.363512516022
+Summary of Results...Min/Max/Mean/Std
+-67.94598 -62.78295 -65.54249 0.52446145
+# of configuration with minimum energy... 1
+Start for  3_5_1_7 [248/455]
+Fin;generate all combinations 5765760 ...time: 17.328438997268677
+Pure GPU Computing time... 1646.8621942996979
+Fin; energy prediction...time: 1646.9979326725006
+Summary of Results...Min/Max/Mean/Std
+-67.31836 -62.049393 -64.810074 0.51251864
+# of configuration with minimum energy... 1
+Start for  3_4_8_1 [249/455]
+Fin;generate all combinations 3603600 ...time: 10.89096975326538
+Pure GPU Computing time... 1018.0151784420013
+Fin; energy prediction...time: 1018.1193664073944
+Summary of Results...Min/Max/Mean/Std
+-69.8751 -65.01367 -67.6697 0.63413745
+# of configuration with minimum energy... 1
+Start for  3_4_7_2 [250/455]
+Fin;generate all combinations 14414400 ...time: 47.15212607383728
+Pure GPU Computing time... 4057.748478412628
+Fin; energy prediction...time: 4060.6242458820343
+Summary of Results...Min/Max/Mean/Std
+-69.48432 -63.639732 -67.13024 0.5927326
+# of configuration with minimum energy... 1
+Start for  3_4_6_3 [251/455]
+Fin;generate all combinations 33633600 ...time: 117.7710645198822
+Pure GPU Computing time... 9502.400671720505
+Fin; energy prediction...time: 9503.031631469727
+Summary of Results...Min/Max/Mean/Std
+-68.60933 -63.725853 -66.47061 0.57095724
+# of configuration with minimum energy... 1
+Start for  3_4_5_4 [252/455]
+Fin;generate all combinations 50450400 ...time: 179.99880838394165
+Pure GPU Computing time... 14228.687328100204
+Fin; energy prediction...time: 14229.617623806
+Summary of Results...Min/Max/Mean/Std
+-68.22485 -62.231762 -65.75902 0.56196105
+# of configuration with minimum energy... 1
+Start for  3_4_4_5 [253/455]
+Fin;generate all combinations 50450400 ...time: 179.22151160240173
+Pure GPU Computing time... 14302.102035999298
+Fin; energy prediction...time: 14303.092564821243
+Summary of Results...Min/Max/Mean/Std
+-67.48988 -62.33619 -65.0375 0.5538228
+# of configuration with minimum energy... 1
+Start for  3_4_3_6 [254/455]
+Fin;generate all combinations 33633600 ...time: 107.01246094703674
+Pure GPU Computing time... 9519.429635286331
+Fin; energy prediction...time: 9520.042619466782
+Summary of Results...Min/Max/Mean/Std
+-66.59651 -61.21217 -64.32411 0.5407923
+# of configuration with minimum energy... 1
+Start for  3_4_2_7 [255/455]
+Fin;generate all combinations 14414400 ...time: 48.5952353477478
+Pure GPU Computing time... 4102.708425521851
+Fin; energy prediction...time: 4102.983198881149
+Summary of Results...Min/Max/Mean/Std
+-66.06526 -60.694336 -63.61819 0.52385056
+# of configuration with minimum energy... 1
+Start for  3_4_1_8 [256/455]
+Fin;generate all combinations 3603600 ...time: 10.752867460250854
+Pure GPU Computing time... 1018.3315896987915
+Fin; energy prediction...time: 1018.4345424175262
+Summary of Results...Min/Max/Mean/Std
+-65.260574 -59.904213 -62.907043 0.5050563
+# of configuration with minimum energy... 1
+Start for  3_3_9_1 [257/455]
+Fin;generate all combinations 1601600 ...time: 6.922747850418091
+Pure GPU Computing time... 454.13639402389526
+Fin; energy prediction...time: 454.2081959247589
+Summary of Results...Min/Max/Mean/Std
+-69.183716 -63.216686 -66.32971 0.7412104
+# of configuration with minimum energy... 1
+Start for  3_3_8_2 [258/455]
+Fin;generate all combinations 7207200 ...time: 25.739593029022217
+Pure GPU Computing time... 2033.0064544677734
+Fin; energy prediction...time: 2033.16668009758
+Summary of Results...Min/Max/Mean/Std
+-68.36421 -62.658707 -65.94198 0.70544946
+# of configuration with minimum energy... 1
+Start for  3_3_7_3 [259/455]
+Fin;generate all combinations 19219200 ...time: 70.02779960632324
+Pure GPU Computing time... 5429.137248754501
+Fin; energy prediction...time: 5429.493182182312
+Summary of Results...Min/Max/Mean/Std
+-67.85833 -61.96693 -65.34978 0.6541935
+# of configuration with minimum energy... 1
+Start for  3_3_6_4 [260/455]
+Fin;generate all combinations 33633600 ...time: 117.53460264205933
+Pure GPU Computing time... 9556.953356742859
+Fin; energy prediction...time: 9557.586913585663
+Summary of Results...Min/Max/Mean/Std
+-66.82408 -61.287613 -64.64929 0.61157525
+# of configuration with minimum energy... 1
+Start for  3_3_5_5 [261/455]
+Fin;generate all combinations 40360320 ...time: 150.92915630340576
+Pure GPU Computing time... 11378.24860405922
+Fin; energy prediction...time: 11378.99860405922
+Summary of Results...Min/Max/Mean/Std
+-66.54628 -60.765053 -63.909863 0.58268
+# of configuration with minimum energy... 1
+Start for  3_3_4_6 [262/455]
+Fin;generate all combinations 33633600 ...time: 112.88519954681396
+Pure GPU Computing time... 9499.031170606613
+Fin; energy prediction...time: 9499.6290102005
+Summary of Results...Min/Max/Mean/Std
+-65.69888 -60.006104 -63.174057 0.55958754
+# of configuration with minimum energy... 1
+Start for  3_3_3_7 [263/455]
+Fin;generate all combinations 19219200 ...time: 72.19268703460693
+Pure GPU Computing time... 5462.74246430397
+Fin; energy prediction...time: 5463.09500670433
+Summary of Results...Min/Max/Mean/Std
+-64.776665 -59.485626 -62.46098 0.5355524
+# of configuration with minimum energy... 1
+Start for  3_3_2_8 [264/455]
+Fin;generate all combinations 7207200 ...time: 21.338300228118896
+Pure GPU Computing time... 2059.3259360790253
+Fin; energy prediction...time: 2059.484790802002
+Summary of Results...Min/Max/Mean/Std
+-63.867077 -58.45206 -61.770004 0.5095784
+# of configuration with minimum energy... 1
+Start for  3_3_1_9 [265/455]
+Fin;generate all combinations 1601600 ...time: 5.010802268981934
+Pure GPU Computing time... 450.0092041492462
+Fin; energy prediction...time: 450.0824649333954
+Summary of Results...Min/Max/Mean/Std
+-62.981285 -58.649357 -61.088226 0.4825783
+# of configuration with minimum energy... 2
+Start for  3_2_10_1 [266/455]
+Fin;generate all combinations 480480 ...time: 1.642094612121582
+Pure GPU Computing time... 135.06719875335693
+Fin; energy prediction...time: 135.12510561943054
+Summary of Results...Min/Max/Mean/Std
+-66.9164 -62.482384 -64.79656 0.7881005
+# of configuration with minimum energy... 1
+Start for  3_2_9_2 [267/455]
+Fin;generate all combinations 2402400 ...time: 8.209267139434814
+Pure GPU Computing time... 676.6367218494415
+Fin; energy prediction...time: 676.7190029621124
+Summary of Results...Min/Max/Mean/Std
+-67.71774 -60.830723 -64.66986 0.8283092
+# of configuration with minimum energy... 1
+Start for  3_2_8_3 [268/455]
+Fin;generate all combinations 7207200 ...time: 26.499165058135986
+Pure GPU Computing time... 2025.3189988136292
+Fin; energy prediction...time: 2025.4774885177612
+Summary of Results...Min/Max/Mean/Std
+-66.72746 -60.779297 -64.22817 0.78700095
+# of configuration with minimum energy... 1
+Start for  3_2_7_4 [269/455]
+Fin;generate all combinations 14414400 ...time: 51.366950273513794
+Pure GPU Computing time... 4065.6704235076904
+Fin; energy prediction...time: 4065.948072910309
+Summary of Results...Min/Max/Mean/Std
+-66.155914 -59.429066 -63.592705 0.7132823
+# of configuration with minimum energy... 1
+Start for  3_2_6_5 [270/455]
+Fin;generate all combinations 20180160 ...time: 73.0773754119873
+Pure GPU Computing time... 5670.418729305267
+Fin; energy prediction...time: 5670.7867114543915
+Summary of Results...Min/Max/Mean/Std
+-65.00372 -59.46787 -62.86074 0.64416003
+# of configuration with minimum energy... 1
+Start for  3_2_5_6 [271/455]
+Fin;generate all combinations 20180160 ...time: 72.93870830535889
+Pure GPU Computing time... 5743.596576690674
+Fin; energy prediction...time: 5743.980758190155
+Summary of Results...Min/Max/Mean/Std
+-64.73998 -58.354675 -62.102646 0.5922343
+# of configuration with minimum energy... 1
+Start for  3_2_4_7 [272/455]
+Fin;generate all combinations 14414400 ...time: 50.67129111289978
+Pure GPU Computing time... 4117.370890855789
+Fin; energy prediction...time: 4117.651155948639
+Summary of Results...Min/Max/Mean/Std
+-63.568115 -58.21251 -61.36166 0.5520718
+# of configuration with minimum energy... 1
+Start for  3_2_3_8 [273/455]
+Fin;generate all combinations 7207200 ...time: 27.741312980651855
+Pure GPU Computing time... 2040.446444272995
+Fin; energy prediction...time: 2040.605708360672
+Summary of Results...Min/Max/Mean/Std
+-62.56535 -57.14332 -60.65734 0.5154965
+# of configuration with minimum energy... 1
+Start for  3_2_2_9 [274/455]
+Fin;generate all combinations 2402400 ...time: 9.038405418395996
+Pure GPU Computing time... 695.6341700553894
+Fin; energy prediction...time: 695.7209725379944
+Summary of Results...Min/Max/Mean/Std
+-61.762184 -57.222633 -59.98932 0.47926107
+# of configuration with minimum energy... 1
+Start for  3_2_1_10 [275/455]
+Fin;generate all combinations 480480 ...time: 1.5784850120544434
+Pure GPU Computing time... 136.22525811195374
+Fin; energy prediction...time: 136.28365111351013
+Summary of Results...Min/Max/Mean/Std
+-60.787834 -57.39401 -59.34441 0.44284236
+# of configuration with minimum energy... 1
+Start for  3_1_11_1 [276/455]
+Fin;generate all combinations 87360 ...time: 0.3304610252380371
+Pure GPU Computing time... 24.650126218795776
+Fin; energy prediction...time: 24.70285987854004
+Summary of Results...Min/Max/Mean/Std
+-64.25064 -60.253098 -62.92511 0.6889633
+# of configuration with minimum energy... 1
+Start for  3_1_10_2 [277/455]
+Fin;generate all combinations 480480 ...time: 1.4708828926086426
+Pure GPU Computing time... 136.34928631782532
+Fin; energy prediction...time: 136.40446305274963
+Summary of Results...Min/Max/Mean/Std
+-65.30602 -60.172398 -63.19116 0.8959598
+# of configuration with minimum energy... 1
+Start for  3_1_9_3 [278/455]
+Fin;generate all combinations 1601600 ...time: 5.643441677093506
+Pure GPU Computing time... 469.57905435562134
+Fin; energy prediction...time: 469.6503949165344
+Summary of Results...Min/Max/Mean/Std
+-66.08943 -59.10918 -63.00991 0.933604
+# of configuration with minimum energy... 1
+Start for  3_1_8_4 [279/455]
+Fin;generate all combinations 3603600 ...time: 29.399468898773193
+Pure GPU Computing time... 1020.9531435966492
+Fin; energy prediction...time: 1021.0571186542511
+Summary of Results...Min/Max/Mean/Std
+-64.86801 -58.444878 -62.523083 0.8688011
+# of configuration with minimum energy... 1
+Start for  3_1_7_5 [280/455]
+Fin;generate all combinations 5765760 ...time: 21.14880681037903
+Pure GPU Computing time... 1647.5930922031403
+Fin; energy prediction...time: 1647.7298238277435
+Summary of Results...Min/Max/Mean/Std
+-64.35516 -57.85388 -61.85324 0.76483375
+# of configuration with minimum energy... 1
+Start for  3_1_6_6 [281/455]
+Fin;generate all combinations 6726720 ...time: 26.54840922355652
+Pure GPU Computing time... 1911.98503780365
+Fin; energy prediction...time: 1912.136307477951
+Summary of Results...Min/Max/Mean/Std
+-63.1995 -57.09731 -61.09857 0.6653947
+# of configuration with minimum energy... 1
+Start for  3_1_5_7 [282/455]
+Fin;generate all combinations 5765760 ...time: 22.81562852859497
+Pure GPU Computing time... 1626.219643354416
+Fin; energy prediction...time: 1626.3545649051666
+Summary of Results...Min/Max/Mean/Std
+-62.69012 -56.86211 -60.330326 0.58796495
+# of configuration with minimum energy... 1
+Start for  3_1_4_8 [283/455]
+Fin;generate all combinations 3603600 ...time: 13.8365638256073
+Pure GPU Computing time... 1028.4803850650787
+Fin; energy prediction...time: 1028.580729007721
+Summary of Results...Min/Max/Mean/Std
+-61.54445 -55.825825 -59.592556 0.52891815
+# of configuration with minimum energy... 1
+Start for  3_1_3_9 [284/455]
+Fin;generate all combinations 1601600 ...time: 4.7746477127075195
+Pure GPU Computing time... 453.9638433456421
+Fin; energy prediction...time: 454.0369391441345
+Summary of Results...Min/Max/Mean/Std
+-60.528835 -55.938927 -58.90502 0.47852862
+# of configuration with minimum energy... 1
+Start for  3_1_2_10 [285/455]
+Fin;generate all combinations 480480 ...time: 1.7752821445465088
+Pure GPU Computing time... 137.06704545021057
+Fin; energy prediction...time: 137.1247546672821
+Summary of Results...Min/Max/Mean/Std
+-59.718727 -55.992416 -58.26749 0.43108475
+# of configuration with minimum energy... 1
+Start for  3_1_1_11 [286/455]
+Fin;generate all combinations 87360 ...time: 0.28351736068725586
+Pure GPU Computing time... 24.93886947631836
+Fin; energy prediction...time: 24.992377758026123
+Summary of Results...Min/Max/Mean/Std
+-58.837578 -56.170494 -57.666557 0.3843347
+# of configuration with minimum energy... 1
+Start for  2_12_1_1 [287/455]
+Fin;generate all combinations 21840 ...time: 0.07689762115478516
+Pure GPU Computing time... 6.238335847854614
+Fin; energy prediction...time: 6.289698600769043
+Summary of Results...Min/Max/Mean/Std
+-82.62184 -80.870224 -81.56244 0.27441528
+# of configuration with minimum energy... 1
+Start for  2_11_2_1 [288/455]
+Fin;generate all combinations 131040 ...time: 0.40520310401916504
+Pure GPU Computing time... 37.36365032196045
+Fin; energy prediction...time: 37.4732027053833
+Summary of Results...Min/Max/Mean/Std
+-80.752716 -78.54756 -79.579155 0.3347511
+# of configuration with minimum energy... 1
+Start for  2_11_1_2 [289/455]
+Fin;generate all combinations 131040 ...time: 0.441558837890625
+Pure GPU Computing time... 37.255879163742065
+Fin; energy prediction...time: 37.30734324455261
+Summary of Results...Min/Max/Mean/Std
+-79.992424 -77.72033 -78.86179 0.33191565
+# of configuration with minimum energy... 1
+Start for  2_10_3_1 [290/455]
+Fin;generate all combinations 480480 ...time: 1.8658742904663086
+Pure GPU Computing time... 136.7740077972412
+Fin; energy prediction...time: 136.82936453819275
+Summary of Results...Min/Max/Mean/Std
+-79.24336 -76.39685 -77.68234 0.40368164
+# of configuration with minimum energy... 1
+Start for  2_10_2_2 [291/455]
+Fin;generate all combinations 720720 ...time: 2.4873204231262207
+Pure GPU Computing time... 205.9075403213501
+Fin; energy prediction...time: 205.96835112571716
+Summary of Results...Min/Max/Mean/Std
+-78.41448 -75.6478 -77.048355 0.38033193
+# of configuration with minimum energy... 1
+Start for  2_10_1_3 [292/455]
+Fin;generate all combinations 480480 ...time: 1.7939026355743408
+Pure GPU Computing time... 137.3577857017517
+Fin; energy prediction...time: 137.41595935821533
+Summary of Results...Min/Max/Mean/Std
+-77.60252 -74.935425 -76.30885 0.38015306
+# of configuration with minimum energy... 1
+Start for  2_9_4_1 [293/455]
+Fin;generate all combinations 1201200 ...time: 4.172230005264282
+Pure GPU Computing time... 343.12046241760254
+Fin; energy prediction...time: 343.18837809562683
+Summary of Results...Min/Max/Mean/Std
+-77.56735 -74.33559 -75.90709 0.46489066
+# of configuration with minimum energy... 1
+Start for  2_9_3_2 [294/455]
+Fin;generate all combinations 2402400 ...time: 7.723801851272583
+Pure GPU Computing time... 682.528678894043
+Fin; energy prediction...time: 682.6111147403717
+Summary of Results...Min/Max/Mean/Std
+-76.875305 -73.61766 -75.30997 0.43123758
+# of configuration with minimum energy... 1
+Start for  2_9_2_3 [295/455]
+Fin;generate all combinations 2402400 ...time: 8.016322374343872
+Pure GPU Computing time... 679.4068608283997
+Fin; energy prediction...time: 679.4908471107483
+Summary of Results...Min/Max/Mean/Std
+-76.24716 -73.011986 -74.64642 0.41894317
+# of configuration with minimum energy... 1
+Start for  2_9_1_4 [296/455]
+Fin;generate all combinations 1201200 ...time: 4.474492311477661
+Pure GPU Computing time... 342.4051296710968
+Fin; energy prediction...time: 342.4715983867645
+Summary of Results...Min/Max/Mean/Std
+-75.34901 -71.825775 -73.895386 0.41967228
+# of configuration with minimum energy... 1
+Start for  2_8_5_1 [297/455]
+Fin;generate all combinations 2162160 ...time: 7.518478870391846
+Pure GPU Computing time... 614.6277759075165
+Fin; energy prediction...time: 614.707489490509
+Summary of Results...Min/Max/Mean/Std
+-75.988556 -72.291 -74.27979 0.49710345
+# of configuration with minimum energy... 1
+Start for  2_8_4_2 [298/455]
+Fin;generate all combinations 5405400 ...time: 17.520044565200806
+Pure GPU Computing time... 1527.3588349819183
+Fin; energy prediction...time: 1527.4876081943512
+Summary of Results...Min/Max/Mean/Std
+-75.58886 -71.666985 -73.680466 0.4765796
+# of configuration with minimum energy... 2
+Start for  2_8_3_3 [299/455]
+Fin;generate all combinations 7207200 ...time: 24.339679718017578
+Pure GPU Computing time... 2074.1891469955444
+Fin; energy prediction...time: 2074.347161769867
+Summary of Results...Min/Max/Mean/Std
+-74.690926 -71.13848 -73.04771 0.45798904
+# of configuration with minimum energy... 1
+Start for  2_8_2_4 [300/455]
+Fin;generate all combinations 5405400 ...time: 17.67946481704712
+Pure GPU Computing time... 1532.9275407791138
+Fin; energy prediction...time: 1533.0609645843506
+Summary of Results...Min/Max/Mean/Std
+-74.23207 -70.07416 -72.36552 0.4504779
+# of configuration with minimum energy... 1
+Start for  2_8_1_5 [301/455]
+Fin;generate all combinations 2162160 ...time: 7.285663604736328
+Pure GPU Computing time... 613.0894801616669
+Fin; energy prediction...time: 613.1690263748169
+Summary of Results...Min/Max/Mean/Std
+-73.27936 -69.34473 -71.61303 0.45040813
+# of configuration with minimum energy... 1
+Start for  2_7_6_1 [302/455]
+Fin;generate all combinations 2882880 ...time: 10.870542049407959
+Pure GPU Computing time... 820.6240034103394
+Fin; energy prediction...time: 820.7141058444977
+Summary of Results...Min/Max/Mean/Std
+-74.62098 -70.775024 -72.809395 0.49178058
+# of configuration with minimum energy... 1
+Start for  2_7_5_2 [303/455]
+Fin;generate all combinations 8648640 ...time: 27.948486804962158
+Pure GPU Computing time... 2453.5776720046997
+Fin; energy prediction...time: 2453.7633934020996
+Summary of Results...Min/Max/Mean/Std
+-74.036545 -70.13937 -72.18541 0.5008367
+# of configuration with minimum energy... 1
+Start for  2_7_4_3 [304/455]
+Fin;generate all combinations 14414400 ...time: 45.77701807022095
+Pure GPU Computing time... 4142.5743708610535
+Fin; energy prediction...time: 4142.84952878952
+Summary of Results...Min/Max/Mean/Std
+-73.50586 -69.4961 -71.545586 0.49355036
+# of configuration with minimum energy... 1
+Start for  2_7_3_4 [305/455]
+Fin;generate all combinations 14414400 ...time: 51.14545035362244
+Pure GPU Computing time... 4103.771066427231
+Fin; energy prediction...time: 4104.049200296402
+Summary of Results...Min/Max/Mean/Std
+-72.67502 -68.70503 -70.88804 0.48136228
+# of configuration with minimum energy... 1
+Start for  2_7_2_5 [306/455]
+Fin;generate all combinations 8648640 ...time: 27.02120065689087
+Pure GPU Computing time... 2480.604892015457
+Fin; energy prediction...time: 2480.7898540496826
+Summary of Results...Min/Max/Mean/Std
+-72.13835 -68.03602 -70.197365 0.47428143
+# of configuration with minimum energy... 1
+Start for  2_7_1_6 [307/455]
+Fin;generate all combinations 2882880 ...time: 8.48734188079834
+Pure GPU Computing time... 827.447746515274
+Fin; energy prediction...time: 827.5396773815155
+Summary of Results...Min/Max/Mean/Std
+-71.47091 -67.04453 -69.45302 0.47169343
+# of configuration with minimum energy... 1
+Start for  2_6_7_1 [308/455]
+Fin;generate all combinations 2882880 ...time: 10.67301321029663
+Pure GPU Computing time... 815.6695058345795
+Fin; energy prediction...time: 815.7616758346558
+Summary of Results...Min/Max/Mean/Std
+-73.26163 -69.206116 -71.48066 0.46911907
+# of configuration with minimum energy... 1
+Start for  2_6_6_2 [309/455]
+Fin;generate all combinations 10090080 ...time: 35.983888149261475
+Pure GPU Computing time... 2869.1449766159058
+Fin; energy prediction...time: 2869.3508791923523
+Summary of Results...Min/Max/Mean/Std
+-72.76973 -68.09251 -70.83336 0.4993196
+# of configuration with minimum energy... 2
+Start for  2_6_5_3 [310/455]
+Fin;generate all combinations 20180160 ...time: 66.46429371833801
+Pure GPU Computing time... 5671.256130456924
+Fin; energy prediction...time: 5671.627594470978
+Summary of Results...Min/Max/Mean/Std
+-72.13008 -67.968376 -70.164955 0.5146246
+# of configuration with minimum energy... 1
+Start for  2_6_4_4 [311/455]
+Fin;generate all combinations 25225200 ...time: 84.57268238067627
+Pure GPU Computing time... 7143.543829679489
+Fin; energy prediction...time: 7144.0239136219025
+Summary of Results...Min/Max/Mean/Std
+-71.37869 -66.8439 -69.49523 0.51077825
+# of configuration with minimum energy... 1
+Start for  2_6_3_5 [312/455]
+Fin;generate all combinations 20180160 ...time: 74.70561814308167
+Pure GPU Computing time... 5717.574266195297
+Fin; energy prediction...time: 5717.960988998413
+Summary of Results...Min/Max/Mean/Std
+-70.762505 -66.529564 -68.82323 0.49894974
+# of configuration with minimum energy... 1
+Start for  2_6_2_6 [313/455]
+Fin;generate all combinations 10090080 ...time: 27.82004690170288
+Pure GPU Computing time... 2882.8735942840576
+Fin; energy prediction...time: 2883.0809121131897
+Summary of Results...Min/Max/Mean/Std
+-70.311844 -65.57539 -68.13385 0.48912585
+# of configuration with minimum energy... 1
+Start for  2_6_1_7 [314/455]
+Fin;generate all combinations 2882880 ...time: 10.996185779571533
+Pure GPU Computing time... 818.8091304302216
+Fin; energy prediction...time: 818.9024560451508
+Summary of Results...Min/Max/Mean/Std
+-69.61883 -64.866325 -67.406555 0.48231658
+# of configuration with minimum energy... 1
+Start for  2_5_8_1 [315/455]
+Fin;generate all combinations 2162160 ...time: 8.11286187171936
+Pure GPU Computing time... 612.1912457942963
+Fin; energy prediction...time: 612.2697803974152
+Summary of Results...Min/Max/Mean/Std
+-72.23497 -67.34898 -70.24941 0.482624
+# of configuration with minimum energy... 1
+Start for  2_5_7_2 [316/455]
+Fin;generate all combinations 8648640 ...time: 29.85930824279785
+Pure GPU Computing time... 2449.8208153247833
+Fin; energy prediction...time: 2450.0048677921295
+Summary of Results...Min/Max/Mean/Std
+-71.61837 -66.891655 -69.60876 0.49505952
+# of configuration with minimum energy... 1
+Start for  2_5_6_3 [317/455]
+Fin;generate all combinations 20180160 ...time: 72.7606930732727
+Pure GPU Computing time... 5702.277193784714
+Fin; energy prediction...time: 5702.650191068649
+Summary of Results...Min/Max/Mean/Std
+-70.97099 -66.51375 -68.914085 0.5200095
+# of configuration with minimum energy... 1
+Start for  2_5_5_4 [318/455]
+Fin;generate all combinations 30270240 ...time: 108.08403015136719
+Pure GPU Computing time... 8630.073239564896
+Fin; energy prediction...time: 8630.637701511383
+Summary of Results...Min/Max/Mean/Std
+-70.331635 -65.775665 -68.21177 0.53089726
+# of configuration with minimum energy... 1
+Start for  2_5_4_5 [319/455]
+Fin;generate all combinations 30270240 ...time: 99.51380181312561
+Pure GPU Computing time... 8591.811957359314
+Fin; energy prediction...time: 8592.410915613174
+Summary of Results...Min/Max/Mean/Std
+-69.541245 -64.98515 -67.52235 0.5238711
+# of configuration with minimum energy... 1
+Start for  2_5_3_6 [320/455]
+Fin;generate all combinations 20180160 ...time: 70.47758841514587
+Pure GPU Computing time... 5731.098129034042
+Fin; energy prediction...time: 5731.4787673950195
+Summary of Results...Min/Max/Mean/Std
+-68.98848 -64.25784 -66.84544 0.50827134
+# of configuration with minimum energy... 1
+Start for  2_5_2_7 [321/455]
+Fin;generate all combinations 8648640 ...time: 28.949795484542847
+Pure GPU Computing time... 2453.8198330402374
+Fin; energy prediction...time: 2454.0021147727966
+Summary of Results...Min/Max/Mean/Std
+-68.511696 -63.58827 -66.16655 0.4932781
+# of configuration with minimum energy... 1
+Start for  2_5_1_8 [322/455]
+Fin;generate all combinations 2162160 ...time: 8.720923900604248
+Pure GPU Computing time... 617.9994442462921
+Fin; energy prediction...time: 618.0796849727631
+Summary of Results...Min/Max/Mean/Std
+-67.89491 -62.72023 -65.46471 0.48059046
+# of configuration with minimum energy... 1
+Start for  2_4_9_1 [323/455]
+Fin;generate all combinations 1201200 ...time: 4.324692964553833
+Pure GPU Computing time... 343.2986822128296
+Fin; energy prediction...time: 343.3678500652313
+Summary of Results...Min/Max/Mean/Std
+-71.0699 -66.80815 -69.041245 0.5684781
+# of configuration with minimum energy... 1
+Start for  2_4_8_2 [324/455]
+Fin;generate all combinations 5405400 ...time: 19.261913299560547
+Pure GPU Computing time... 1530.9496793746948
+Fin; energy prediction...time: 1531.0803542137146
+Summary of Results...Min/Max/Mean/Std
+-70.56285 -64.94683 -68.46764 0.5364373
+# of configuration with minimum energy... 1
+Start for  2_4_7_3 [325/455]
+Fin;generate all combinations 14414400 ...time: 51.611446142196655
+Pure GPU Computing time... 4086.7282609939575
+Fin; energy prediction...time: 4087.005151748657
+Summary of Results...Min/Max/Mean/Std
+-69.76688 -65.10448 -67.77726 0.5342253
+# of configuration with minimum energy... 1
+Start for  2_4_6_4 [326/455]
+Fin;generate all combinations 25225200 ...time: 93.32541370391846
+Pure GPU Computing time... 7115.450944662094
+Fin; energy prediction...time: 7115.958371162415
+Summary of Results...Min/Max/Mean/Std
+-69.295715 -63.76492 -67.045456 0.54326177
+# of configuration with minimum energy... 1
+Start for  2_4_5_5 [327/455]
+Fin;generate all combinations 30270240 ...time: 109.12313294410706
+Pure GPU Computing time... 8585.082491397858
+Fin; energy prediction...time: 8585.652483224869
+Summary of Results...Min/Max/Mean/Std
+-68.62827 -63.80306 -66.319016 0.54335195
+# of configuration with minimum energy... 1
+Start for  2_4_4_6 [328/455]
+Fin;generate all combinations 25225200 ...time: 87.94173121452332
+Pure GPU Computing time... 7154.319184541702
+Fin; energy prediction...time: 7154.805137872696
+Summary of Results...Min/Max/Mean/Std
+-67.77969 -62.804977 -65.61944 0.52894896
+# of configuration with minimum energy... 1
+Start for  2_4_3_7 [329/455]
+Fin;generate all combinations 14414400 ...time: 46.5589964389801
+Pure GPU Computing time... 4064.8225758075714
+Fin; energy prediction...time: 4065.100788116455
+Summary of Results...Min/Max/Mean/Std
+-67.141556 -62.191555 -64.94687 0.5067233
+# of configuration with minimum energy... 1
+Start for  2_4_2_8 [330/455]
+Fin;generate all combinations 5405400 ...time: 18.92813205718994
+Pure GPU Computing time... 1527.9455165863037
+Fin; energy prediction...time: 1528.0769429206848
+Summary of Results...Min/Max/Mean/Std
+-66.539345 -61.29813 -64.287 0.4846127
+# of configuration with minimum energy... 1
+Start for  2_4_1_9 [331/455]
+Fin;generate all combinations 1201200 ...time: 3.8371312618255615
+Pure GPU Computing time... 342.9379231929779
+Fin; energy prediction...time: 343.00895285606384
+Summary of Results...Min/Max/Mean/Std
+-65.598946 -61.418705 -63.618576 0.4644495
+# of configuration with minimum energy... 1
+Start for  2_3_10_1 [332/455]
+Fin;generate all combinations 480480 ...time: 1.5553958415985107
+Pure GPU Computing time... 137.66681671142578
+Fin; energy prediction...time: 137.88464498519897
+Summary of Results...Min/Max/Mean/Std
+-70.408585 -64.95879 -67.75214 0.683335
+# of configuration with minimum energy... 1
+Start for  2_3_9_2 [333/455]
+Fin;generate all combinations 2402400 ...time: 9.28767466545105
+Pure GPU Computing time... 683.6773073673248
+Fin; energy prediction...time: 683.7610094547272
+Summary of Results...Min/Max/Mean/Std
+-69.571335 -64.50402 -67.33588 0.6448599
+# of configuration with minimum energy... 1
+Start for  2_3_8_3 [334/455]
+Fin;generate all combinations 7207200 ...time: 26.964555263519287
+Pure GPU Computing time... 2032.6403710842133
+Fin; energy prediction...time: 2032.7973279953003
+Summary of Results...Min/Max/Mean/Std
+-69.009125 -63.303154 -66.71093 0.6000853
+# of configuration with minimum energy... 1
+Start for  2_3_7_4 [335/455]
+Fin;generate all combinations 14414400 ...time: 50.514644145965576
+Pure GPU Computing time... 4100.129192113876
+Fin; energy prediction...time: 4100.402911186218
+Summary of Results...Min/Max/Mean/Std
+-68.070694 -62.790157 -65.980484 0.57344615
+# of configuration with minimum energy... 1
+Start for  2_3_6_5 [336/455]
+Fin;generate all combinations 20180160 ...time: 72.54399967193604
+Pure GPU Computing time... 5759.164733409882
+Fin; energy prediction...time: 5759.532303571701
+Summary of Results...Min/Max/Mean/Std
+-67.63774 -62.35083 -65.22078 0.5612557
+# of configuration with minimum energy... 1
+Start for  2_3_5_6 [337/455]
+Fin;generate all combinations 20180160 ...time: 74.57285356521606
+Pure GPU Computing time... 5722.546246767044
+Fin; energy prediction...time: 5722.921653032303
+Summary of Results...Min/Max/Mean/Std
+-66.82575 -61.457024 -64.47961 0.54697907
+# of configuration with minimum energy... 1
+Start for  2_3_4_7 [338/455]
+Fin;generate all combinations 14414400 ...time: 51.85901737213135
+Pure GPU Computing time... 4093.4393565654755
+Fin; energy prediction...time: 4093.715914964676
+Summary of Results...Min/Max/Mean/Std
+-65.90483 -60.73035 -63.77889 0.5225513
+# of configuration with minimum energy... 1
+Start for  2_3_3_8 [339/455]
+Fin;generate all combinations 7207200 ...time: 24.20280408859253
+Pure GPU Computing time... 2048.7668392658234
+Fin; energy prediction...time: 2048.9274582862854
+Summary of Results...Min/Max/Mean/Std
+-65.03268 -59.887875 -63.11942 0.491653
+# of configuration with minimum energy... 1
+Start for  2_3_2_9 [340/455]
+Fin;generate all combinations 2402400 ...time: 9.066344022750854
+Pure GPU Computing time... 679.782112121582
+Fin; energy prediction...time: 679.8650133609772
+Summary of Results...Min/Max/Mean/Std
+-64.33713 -60.03946 -62.486633 0.4607896
+# of configuration with minimum energy... 1
+Start for  2_3_1_10 [341/455]
+Fin;generate all combinations 480480 ...time: 1.6109614372253418
+Pure GPU Computing time... 136.5368504524231
+Fin; energy prediction...time: 136.59507060050964
+Summary of Results...Min/Max/Mean/Std
+-63.397224 -60.002144 -61.859085 0.43160596
+# of configuration with minimum energy... 1
+Start for  2_2_11_1 [342/455]
+Fin;generate all combinations 131040 ...time: 0.46846580505371094
+Pure GPU Computing time... 37.162259578704834
+Fin; energy prediction...time: 37.21534013748169
+Summary of Results...Min/Max/Mean/Std
+-68.09781 -64.418915 -66.25188 0.7379894
+# of configuration with minimum energy... 1
+Start for  2_2_10_2 [343/455]
+Fin;generate all combinations 720720 ...time: 2.1669201850891113
+Pure GPU Computing time... 205.00204300880432
+Fin; energy prediction...time: 205.0617871284485
+Summary of Results...Min/Max/Mean/Std
+-68.980095 -62.61837 -66.10989 0.7754704
+# of configuration with minimum energy... 1
+Start for  2_2_9_3 [344/455]
+Fin;generate all combinations 2402400 ...time: 8.831603765487671
+Pure GPU Computing time... 679.3043887615204
+Fin; energy prediction...time: 679.3862993717194
+Summary of Results...Min/Max/Mean/Std
+-67.95154 -62.672115 -65.64115 0.7306725
+# of configuration with minimum energy... 1
+Start for  2_2_8_4 [345/455]
+Fin;generate all combinations 5405400 ...time: 20.248305797576904
+Pure GPU Computing time... 1534.2067701816559
+Fin; energy prediction...time: 1534.3394272327423
+Summary of Results...Min/Max/Mean/Std
+-67.27947 -60.919014 -64.97393 0.66086245
+# of configuration with minimum energy... 1
+Start for  2_2_7_5 [346/455]
+Fin;generate all combinations 8648640 ...time: 33.07045340538025
+Pure GPU Computing time... 2458.170886516571
+Fin; energy prediction...time: 2458.354695081711
+Summary of Results...Min/Max/Mean/Std
+-66.2995 -61.011253 -64.212494 0.6049121
+# of configuration with minimum energy... 1
+Start for  2_2_6_6 [347/455]
+Fin;generate all combinations 10090080 ...time: 38.53645896911621
+Pure GPU Computing time... 2865.303152322769
+Fin; energy prediction...time: 2865.5105090141296
+Summary of Results...Min/Max/Mean/Std
+-65.85891 -59.892094 -63.433872 0.56867796
+# of configuration with minimum energy... 1
+Start for  2_2_5_7 [348/455]
+Fin;generate all combinations 8648640 ...time: 30.998826026916504
+Pure GPU Computing time... 2448.532427072525
+Fin; energy prediction...time: 2448.7203125953674
+Summary of Results...Min/Max/Mean/Std
+-64.79396 -59.437916 -62.686623 0.53790027
+# of configuration with minimum energy... 1
+Start for  2_2_4_8 [349/455]
+Fin;generate all combinations 5405400 ...time: 20.910786390304565
+Pure GPU Computing time... 1556.2231135368347
+Fin; energy prediction...time: 1556.3541224002838
+Summary of Results...Min/Max/Mean/Std
+-63.710835 -58.321617 -61.993282 0.50170386
+# of configuration with minimum energy... 1
+Start for  2_2_3_9 [350/455]
+Fin;generate all combinations 2402400 ...time: 7.290460109710693
+Pure GPU Computing time... 703.3841700553894
+Fin; energy prediction...time: 703.4697782993317
+Summary of Results...Min/Max/Mean/Std
+-63.037487 -58.634197 -61.354786 0.46061558
+# of configuration with minimum energy... 1
+Start for  2_2_2_10 [351/455]
+Fin;generate all combinations 720720 ...time: 2.6521081924438477
+Pure GPU Computing time... 209.2976975440979
+Fin; energy prediction...time: 209.35814309120178
+Summary of Results...Min/Max/Mean/Std
+-62.19064 -58.63215 -60.756737 0.41960734
+# of configuration with minimum energy... 1
+Start for  2_2_1_11 [352/455]
+Fin;generate all combinations 131040 ...time: 0.6415369510650635
+Pure GPU Computing time... 38.31258010864258
+Fin; energy prediction...time: 38.36566376686096
+Summary of Results...Min/Max/Mean/Std
+-61.325165 -58.719997 -60.177174 0.37991175
+# of configuration with minimum energy... 1
+Start for  2_1_12_1 [353/455]
+Fin;generate all combinations 21840 ...time: 0.08716797828674316
+Pure GPU Computing time... 6.248875617980957
+Fin; energy prediction...time: 6.29836630821228
+Summary of Results...Min/Max/Mean/Std
+-65.418 -62.11258 -64.390434 0.6336335
+# of configuration with minimum energy... 1
+Start for  2_1_11_2 [354/455]
+Fin;generate all combinations 131040 ...time: 0.46995019912719727
+Pure GPU Computing time... 38.815558195114136
+Fin; energy prediction...time: 38.86626362800598
+Summary of Results...Min/Max/Mean/Std
+-66.47739 -62.142452 -64.66009 0.8509209
+# of configuration with minimum energy... 1
+Start for  2_1_10_3 [355/455]
+Fin;generate all combinations 480480 ...time: 1.9863555431365967
+Pure GPU Computing time... 138.57387828826904
+Fin; energy prediction...time: 138.63059377670288
+Summary of Results...Min/Max/Mean/Std
+-67.32611 -60.949356 -64.464874 0.8848832
+# of configuration with minimum energy... 1
+Start for  2_1_9_4 [356/455]
+Fin;generate all combinations 1201200 ...time: 4.877391576766968
+Pure GPU Computing time... 357.3110451698303
+Fin; energy prediction...time: 357.37660098075867
+Summary of Results...Min/Max/Mean/Std
+-66.10449 -60.360256 -63.952103 0.8153885
+# of configuration with minimum energy... 1
+Start for  2_1_8_5 [357/455]
+Fin;generate all combinations 2162160 ...time: 8.356501579284668
+Pure GPU Computing time... 631.9127459526062
+Fin; energy prediction...time: 631.9897818565369
+Summary of Results...Min/Max/Mean/Std
+-65.55154 -59.319527 -63.251125 0.7131994
+# of configuration with minimum energy... 1
+Start for  2_1_7_6 [358/455]
+Fin;generate all combinations 2882880 ...time: 11.583260297775269
+Pure GPU Computing time... 824.6345582008362
+Fin; energy prediction...time: 824.7272922992706
+Summary of Results...Min/Max/Mean/Std
+-64.567635 -58.6283 -62.467194 0.624728
+# of configuration with minimum energy... 1
+Start for  2_1_6_7 [359/455]
+Fin;generate all combinations 2882880 ...time: 10.468358993530273
+Pure GPU Computing time... 820.0535752773285
+Fin; energy prediction...time: 820.1422209739685
+Summary of Results...Min/Max/Mean/Std
+-63.925068 -58.054565 -61.6779 0.5623423
+# of configuration with minimum energy... 1
+Start for  2_1_5_8 [360/455]
+Fin;generate all combinations 2162160 ...time: 9.017122030258179
+Pure GPU Computing time... 617.2048125267029
+Fin; energy prediction...time: 617.2827634811401
+Summary of Results...Min/Max/Mean/Std
+-62.873573 -56.988308 -60.932728 0.51349413
+# of configuration with minimum energy... 1
+Start for  2_1_4_9 [361/455]
+Fin;generate all combinations 1201200 ...time: 3.67175030708313
+Pure GPU Computing time... 346.54516339302063
+Fin; energy prediction...time: 346.61464262008667
+Summary of Results...Min/Max/Mean/Std
+-61.73154 -57.10259 -60.254677 0.46435982
+# of configuration with minimum energy... 1
+Start for  2_1_3_10 [362/455]
+Fin;generate all combinations 480480 ...time: 2.1509783267974854
+Pure GPU Computing time... 138.22997856140137
+Fin; energy prediction...time: 138.2889437675476
+Summary of Results...Min/Max/Mean/Std
+-60.98035 -57.38593 -59.644775 0.41208255
+# of configuration with minimum energy... 1
+Start for  2_1_2_11 [363/455]
+Fin;generate all combinations 131040 ...time: 0.4045722484588623
+Pure GPU Computing time... 37.784910440444946
+Fin; energy prediction...time: 37.83785152435303
+Summary of Results...Min/Max/Mean/Std
+-60.210384 -57.49358 -59.088657 0.35994473
+# of configuration with minimum energy... 1
+Start for  2_1_1_12 [364/455]
+Fin;generate all combinations 21840 ...time: 0.07137513160705566
+Pure GPU Computing time... 6.2756736278533936
+Fin; energy prediction...time: 6.325854539871216
+Summary of Results...Min/Max/Mean/Std
+-59.45907 -57.39526 -58.56377 0.30847913
+# of configuration with minimum energy... 1
+Start for  1_13_1_1 [365/455]
+Fin;generate all combinations 3360 ...time: 0.01321101188659668
+Pure GPU Computing time... 0.9546287059783936
+Fin; energy prediction...time: 1.003499984741211
+Summary of Results...Min/Max/Mean/Std
+-85.33093 -84.359566 -84.76217 0.20641442
+# of configuration with minimum energy... 1
+Start for  1_12_2_1 [366/455]
+Fin;generate all combinations 21840 ...time: 0.0600132942199707
+Pure GPU Computing time... 6.2649500370025635
+Fin; energy prediction...time: 6.3154497146606445
+Summary of Results...Min/Max/Mean/Std
+-83.6021 -81.90248 -82.70364 0.26614887
+# of configuration with minimum energy... 1
+Start for  1_12_1_2 [367/455]
+Fin;generate all combinations 21840 ...time: 0.0617825984954834
+Pure GPU Computing time... 6.265113592147827
+Fin; energy prediction...time: 6.316806793212891
+Summary of Results...Min/Max/Mean/Std
+-82.75869 -81.12574 -81.95278 0.27669138
+# of configuration with minimum energy... 1
+Start for  1_11_3_1 [368/455]
+Fin;generate all combinations 87360 ...time: 0.22946834564208984
+Pure GPU Computing time... 25.0657000541687
+Fin; energy prediction...time: 25.11818766593933
+Summary of Results...Min/Max/Mean/Std
+-81.86039 -79.62708 -80.706825 0.34356153
+# of configuration with minimum energy... 1
+Start for  1_11_2_2 [369/455]
+Fin;generate all combinations 131040 ...time: 0.477130651473999
+Pure GPU Computing time... 37.46838164329529
+Fin; energy prediction...time: 37.52016735076904
+Summary of Results...Min/Max/Mean/Std
+-81.052414 -78.75894 -80.06902 0.32473558
+# of configuration with minimum energy... 1
+Start for  1_11_1_3 [370/455]
+Fin;generate all combinations 87360 ...time: 0.324080228805542
+Pure GPU Computing time... 24.95947766304016
+Fin; energy prediction...time: 25.012673377990723
+Summary of Results...Min/Max/Mean/Std
+-80.391335 -78.11426 -79.30117 0.33329564
+# of configuration with minimum energy... 1
+Start for  1_10_4_1 [371/455]
+Fin;generate all combinations 240240 ...time: 0.8997910022735596
+Pure GPU Computing time... 68.77171206474304
+Fin; energy prediction...time: 68.82331705093384
+Summary of Results...Min/Max/Mean/Std
+-80.07649 -77.508545 -78.81187 0.43186712
+# of configuration with minimum energy... 1
+Start for  1_10_3_2 [372/455]
+Fin;generate all combinations 480480 ...time: 1.6453065872192383
+Pure GPU Computing time... 137.6952109336853
+Fin; energy prediction...time: 137.75234079360962
+Summary of Results...Min/Max/Mean/Std
+-79.458664 -76.68552 -78.23664 0.37980768
+# of configuration with minimum energy... 1
+Start for  1_10_2_3 [373/455]
+Fin;generate all combinations 480480 ...time: 1.7887229919433594
+Pure GPU Computing time... 137.43199634552002
+Fin; energy prediction...time: 137.4901294708252
+Summary of Results...Min/Max/Mean/Std
+-78.7342 -76.04942 -77.57393 0.3714683
+# of configuration with minimum energy... 1
+Start for  1_10_1_4 [374/455]
+Fin;generate all combinations 240240 ...time: 0.8685159683227539
+Pure GPU Computing time... 68.86551332473755
+Fin; energy prediction...time: 68.9199767112732
+Summary of Results...Min/Max/Mean/Std
+-78.03252 -74.91528 -76.7996 0.37911218
+# of configuration with minimum energy... 1
+Start for  1_9_5_1 [375/455]
+Fin;generate all combinations 480480 ...time: 1.7668733596801758
+Pure GPU Computing time... 138.1751630306244
+Fin; energy prediction...time: 138.23309302330017
+Summary of Results...Min/Max/Mean/Std
+-78.55961 -75.415215 -77.056465 0.50352335
+# of configuration with minimum energy... 1
+Start for  1_9_4_2 [376/455]
+Fin;generate all combinations 1201200 ...time: 4.2658421993255615
+Pure GPU Computing time... 344.4486634731293
+Fin; energy prediction...time: 344.5152723789215
+Summary of Results...Min/Max/Mean/Std
+-77.92387 -74.652405 -76.49442 0.44485247
+# of configuration with minimum energy... 1
+Start for  1_9_3_3 [377/455]
+Fin;generate all combinations 1601600 ...time: 5.332218170166016
+Pure GPU Computing time... 457.105934381485
+Fin; energy prediction...time: 457.17561864852905
+Summary of Results...Min/Max/Mean/Std
+-77.26744 -74.08029 -75.887695 0.41211814
+# of configuration with minimum energy... 1
+Start for  1_9_2_4 [378/455]
+Fin;generate all combinations 1201200 ...time: 4.01629114151001
+Pure GPU Computing time... 343.60710549354553
+Fin; energy prediction...time: 343.67446756362915
+Summary of Results...Min/Max/Mean/Std
+-76.54271 -73.129135 -75.21084 0.4087337
+# of configuration with minimum energy... 1
+Start for  1_9_1_5 [379/455]
+Fin;generate all combinations 480480 ...time: 1.6889476776123047
+Pure GPU Computing time... 137.75703740119934
+Fin; energy prediction...time: 137.81150698661804
+Summary of Results...Min/Max/Mean/Std
+-75.958626 -72.35441 -74.439896 0.4151134
+# of configuration with minimum energy... 1
+Start for  1_8_6_1 [380/455]
+Fin;generate all combinations 720720 ...time: 2.6476736068725586
+Pure GPU Computing time... 206.82711124420166
+Fin; energy prediction...time: 206.88730597496033
+Summary of Results...Min/Max/Mean/Std
+-77.14487 -73.373184 -75.46658 0.5314368
+# of configuration with minimum energy... 1
+Start for  1_8_5_2 [381/455]
+Fin;generate all combinations 2162160 ...time: 7.679743766784668
+Pure GPU Computing time... 613.6222386360168
+Fin; energy prediction...time: 613.7022953033447
+Summary of Results...Min/Max/Mean/Std
+-76.5528 -72.67508 -74.87894 0.50017476
+# of configuration with minimum energy... 1
+Start for  1_8_4_3 [382/455]
+Fin;generate all combinations 3603600 ...time: 12.060787677764893
+Pure GPU Computing time... 1042.627123594284
+Fin; energy prediction...time: 1042.7267417907715
+Summary of Results...Min/Max/Mean/Std
+-75.778496 -72.15637 -74.280106 0.4617367
+# of configuration with minimum energy... 1
+Start for  1_8_3_4 [383/455]
+Fin;generate all combinations 3603600 ...time: 11.008201122283936
+Pure GPU Computing time... 1031.5734181404114
+Fin; energy prediction...time: 1031.6726717948914
+Summary of Results...Min/Max/Mean/Std
+-75.20591 -71.36026 -73.65268 0.43944204
+# of configuration with minimum energy... 1
+Start for  1_8_2_5 [384/455]
+Fin;generate all combinations 2162160 ...time: 7.410069465637207
+Pure GPU Computing time... 606.9648683071136
+Fin; energy prediction...time: 607.0438282489777
+Summary of Results...Min/Max/Mean/Std
+-74.526245 -70.6591 -72.9718 0.43720326
+# of configuration with minimum energy... 1
+Start for  1_8_1_6 [385/455]
+Fin;generate all combinations 720720 ...time: 2.673643112182617
+Pure GPU Computing time... 203.85980033874512
+Fin; energy prediction...time: 203.92035675048828
+Summary of Results...Min/Max/Mean/Std
+-73.982574 -69.7637 -72.2135 0.44127145
+# of configuration with minimum energy... 1
+Start for  1_7_7_1 [386/455]
+Fin;generate all combinations 823680 ...time: 2.9806344509124756
+Pure GPU Computing time... 232.77371454238892
+Fin; energy prediction...time: 232.83578896522522
+Summary of Results...Min/Max/Mean/Std
+-75.8777 -71.94089 -74.047745 0.5045036
+# of configuration with minimum energy... 1
+Start for  1_7_6_2 [387/455]
+Fin;generate all combinations 2882880 ...time: 10.319439888000488
+Pure GPU Computing time... 817.437924861908
+Fin; energy prediction...time: 817.5276629924774
+Summary of Results...Min/Max/Mean/Std
+-75.21625 -71.42129 -73.41532 0.521852
+# of configuration with minimum energy... 1
+Start for  1_7_5_3 [388/455]
+Fin;generate all combinations 5765760 ...time: 18.908108711242676
+Pure GPU Computing time... 1627.9366118907928
+Fin; energy prediction...time: 1628.0743465423584
+Summary of Results...Min/Max/Mean/Std
+-74.3971 -70.80022 -72.78683 0.5064607
+# of configuration with minimum energy... 1
+Start for  1_7_4_4 [389/455]
+Fin;generate all combinations 7207200 ...time: 24.840697288513184
+Pure GPU Computing time... 2048.9557616710663
+Fin; energy prediction...time: 2049.1150743961334
+Summary of Results...Min/Max/Mean/Std
+-73.85 -70.06575 -72.16192 0.47876373
+# of configuration with minimum energy... 1
+Start for  1_7_3_5 [390/455]
+Fin;generate all combinations 5765760 ...time: 18.855996131896973
+Pure GPU Computing time... 1668.6747858524323
+Fin; energy prediction...time: 1668.81050491333
+Summary of Results...Min/Max/Mean/Std
+-73.18444 -69.44469 -71.52402 0.46047968
+# of configuration with minimum energy... 1
+Start for  1_7_2_6 [391/455]
+Fin;generate all combinations 2882880 ...time: 9.563039779663086
+Pure GPU Computing time... 825.9467220306396
+Fin; energy prediction...time: 826.0373940467834
+Summary of Results...Min/Max/Mean/Std
+-72.68982 -68.45335 -70.84871 0.4564724
+# of configuration with minimum energy... 1
+Start for  1_7_1_7 [392/455]
+Fin;generate all combinations 823680 ...time: 3.1502342224121094
+Pure GPU Computing time... 226.19035458564758
+Fin; energy prediction...time: 226.25198435783386
+Summary of Results...Min/Max/Mean/Std
+-72.22622 -67.72263 -70.11181 0.45683125
+# of configuration with minimum energy... 1
+Start for  1_6_8_1 [393/455]
+Fin;generate all combinations 720720 ...time: 2.3875133991241455
+Pure GPU Computing time... 199.98619675636292
+Fin; energy prediction...time: 200.20756769180298
+Summary of Results...Min/Max/Mean/Std
+-74.24668 -70.8262 -72.77896 0.44431996
+# of configuration with minimum energy... 1
+Start for  1_6_7_2 [394/455]
+Fin;generate all combinations 2882880 ...time: 9.7128164768219
+Pure GPU Computing time... 800.1639769077301
+Fin; energy prediction...time: 800.2572877407074
+Summary of Results...Min/Max/Mean/Std
+-74.11984 -69.608215 -72.108864 0.5014229
+# of configuration with minimum energy... 1
+Start for  1_6_6_3 [395/455]
+Fin;generate all combinations 6726720 ...time: 22.48079752922058
+Pure GPU Computing time... 1873.3409237861633
+Fin; energy prediction...time: 1873.5065741539001
+Summary of Results...Min/Max/Mean/Std
+-73.28696 -69.2549 -71.4324 0.5260416
+# of configuration with minimum energy... 1
+Start for  1_6_5_4 [396/455]
+Fin;generate all combinations 10090080 ...time: 33.92701005935669
+Pure GPU Computing time... 2784.3385372161865
+Fin; energy prediction...time: 2784.5806477069855
+Summary of Results...Min/Max/Mean/Std
+-72.47175 -68.29387 -70.77344 0.5166353
+# of configuration with minimum energy... 1
+Start for  1_6_4_5 [397/455]
+Fin;generate all combinations 10090080 ...time: 36.019397020339966
+Pure GPU Computing time... 2914.3240869045258
+Fin; energy prediction...time: 2914.601453781128
+Summary of Results...Min/Max/Mean/Std
+-71.93053 -67.97882 -70.132645 0.49244604
+# of configuration with minimum energy... 1
+Start for  1_6_3_6 [398/455]
+Fin;generate all combinations 6726720 ...time: 21.624589681625366
+Pure GPU Computing time... 1954.9500110149384
+Fin; energy prediction...time: 1955.1181404590607
+Summary of Results...Min/Max/Mean/Std
+-71.36458 -67.04201 -69.49393 0.47351158
+# of configuration with minimum energy... 1
+Start for  1_6_2_7 [399/455]
+Fin;generate all combinations 2882880 ...time: 10.304800033569336
+Pure GPU Computing time... 824.5781652927399
+Fin; energy prediction...time: 824.6683139801025
+Summary of Results...Min/Max/Mean/Std
+-70.93468 -66.44165 -68.83322 0.46535385
+# of configuration with minimum energy... 1
+Start for  1_6_1_8 [400/455]
+Fin;generate all combinations 720720 ...time: 2.7656562328338623
+Pure GPU Computing time... 210.7096447944641
+Fin; energy prediction...time: 210.77064633369446
+Summary of Results...Min/Max/Mean/Std
+-70.511826 -65.3999 -68.12595 0.46044767
+# of configuration with minimum energy... 1
+Start for  1_5_9_1 [401/455]
+Fin;generate all combinations 480480 ...time: 1.7406489849090576
+Pure GPU Computing time... 134.95308375358582
+Fin; energy prediction...time: 135.01071739196777
+Summary of Results...Min/Max/Mean/Std
+-73.40958 -69.089424 -71.608955 0.42249915
+# of configuration with minimum energy... 1
+Start for  1_5_8_2 [402/455]
+Fin;generate all combinations 2162160 ...time: 7.534450054168701
+Pure GPU Computing time... 627.8563318252563
+Fin; energy prediction...time: 627.9447648525238
+Summary of Results...Min/Max/Mean/Std
+-72.59452 -68.5483 -70.93852 0.46491206
+# of configuration with minimum energy... 1
+Start for  1_5_7_3 [403/455]
+Fin;generate all combinations 5765760 ...time: 20.432002305984497
+Pure GPU Computing time... 1659.3529465198517
+Fin; energy prediction...time: 1659.4960632324219
+Summary of Results...Min/Max/Mean/Std
+-72.326035 -67.769905 -70.22191 0.5149181
+# of configuration with minimum energy... 1
+Start for  1_5_6_4 [404/455]
+Fin;generate all combinations 10090080 ...time: 38.89798855781555
+Pure GPU Computing time... 2811.3617095947266
+Fin; energy prediction...time: 2811.590838432312
+Summary of Results...Min/Max/Mean/Std
+-71.41208 -67.05088 -69.5115 0.53593063
+# of configuration with minimum energy... 1
+Start for  1_5_5_5 [405/455]
+Fin;generate all combinations 12108096 ...time: 43.13092803955078
+Pure GPU Computing time... 3302.5296459198
+Fin; energy prediction...time: 3302.7851910591125
+Summary of Results...Min/Max/Mean/Std
+-70.71277 -66.36659 -68.83198 0.5253329
+# of configuration with minimum energy... 1
+Start for  1_5_4_6 [406/455]
+Fin;generate all combinations 10090080 ...time: 33.13658666610718
+Pure GPU Computing time... 2759.454721212387
+Fin; energy prediction...time: 2759.6752228736877
+Summary of Results...Min/Max/Mean/Std
+-70.206375 -65.6559 -68.18482 0.4994493
+# of configuration with minimum energy... 1
+Start for  1_5_3_7 [407/455]
+Fin;generate all combinations 5765760 ...time: 18.226040363311768
+Pure GPU Computing time... 1582.1128356456757
+Fin; energy prediction...time: 1582.245444059372
+Summary of Results...Min/Max/Mean/Std
+-69.64795 -65.11667 -67.55447 0.47641575
+# of configuration with minimum energy... 1
+Start for  1_5_2_8 [408/455]
+Fin;generate all combinations 2162160 ...time: 7.63783597946167
+Pure GPU Computing time... 592.6904985904694
+Fin; energy prediction...time: 592.7650249004364
+Summary of Results...Min/Max/Mean/Std
+-69.18959 -63.9964 -66.916885 0.46206552
+# of configuration with minimum energy... 1
+Start for  1_5_1_9 [409/455]
+Fin;generate all combinations 480480 ...time: 1.541222095489502
+Pure GPU Computing time... 131.5304729938507
+Fin; energy prediction...time: 131.58499765396118
+Summary of Results...Min/Max/Mean/Std
+-68.148224 -64.068275 -66.2471 0.4502809
+# of configuration with minimum energy... 1
+Start for  1_4_10_1 [410/455]
+Fin;generate all combinations 240240 ...time: 0.7750535011291504
+Pure GPU Computing time... 65.7152111530304
+Fin; energy prediction...time: 65.76693797111511
+Summary of Results...Min/Max/Mean/Std
+-72.21381 -68.61438 -70.45542 0.50469303
+# of configuration with minimum energy... 1
+Start for  1_4_9_2 [411/455]
+Fin;generate all combinations 1201200 ...time: 3.85060453414917
+Pure GPU Computing time... 329.05400371551514
+Fin; energy prediction...time: 329.117285490036
+Summary of Results...Min/Max/Mean/Std
+-71.76056 -66.718575 -69.85325 0.48008052
+# of configuration with minimum energy... 1
+Start for  1_4_8_3 [412/455]
+Fin;generate all combinations 3603600 ...time: 12.97284984588623
+Pure GPU Computing time... 986.2518458366394
+Fin; energy prediction...time: 986.3519096374512
+Summary of Results...Min/Max/Mean/Std
+-71.00774 -66.73015 -69.13431 0.50171137
+# of configuration with minimum energy... 1
+Start for  1_4_7_4 [413/455]
+Fin;generate all combinations 7207200 ...time: 26.116291284561157
+Pure GPU Computing time... 1968.8265855312347
+Fin; energy prediction...time: 1968.9770193099976
+Summary of Results...Min/Max/Mean/Std
+-70.63684 -65.27092 -68.380775 0.5335601
+# of configuration with minimum energy... 1
+Start for  1_4_6_5 [414/455]
+Fin;generate all combinations 10090080 ...time: 34.08481478691101
+Pure GPU Computing time... 2731.8443229198456
+Fin; energy prediction...time: 2732.0625324249268
+Summary of Results...Min/Max/Mean/Std
+-69.68315 -65.05349 -67.64602 0.5443213
+# of configuration with minimum energy... 1
+Start for  1_4_5_6 [415/455]
+Fin;generate all combinations 10090080 ...time: 35.59602928161621
+Pure GPU Computing time... 2736.6245033740997
+Fin; energy prediction...time: 2736.8499302864075
+Summary of Results...Min/Max/Mean/Std
+-68.99712 -64.19173 -66.955444 0.52779937
+# of configuration with minimum energy... 1
+Start for  1_4_4_7 [416/455]
+Fin;generate all combinations 7207200 ...time: 25.00324583053589
+Pure GPU Computing time... 1974.1764352321625
+Fin; energy prediction...time: 1974.3345005512238
+Summary of Results...Min/Max/Mean/Std
+-68.38914 -63.660572 -66.31108 0.49655437
+# of configuration with minimum energy... 1
+Start for  1_4_3_8 [417/455]
+Fin;generate all combinations 3603600 ...time: 11.8109872341156
+Pure GPU Computing time... 988.0843548774719
+Fin; energy prediction...time: 988.1843276023865
+Summary of Results...Min/Max/Mean/Std
+-67.64926 -62.7545 -65.69771 0.46677032
+# of configuration with minimum energy... 1
+Start for  1_4_2_9 [418/455]
+Fin;generate all combinations 1201200 ...time: 4.367870807647705
+Pure GPU Computing time... 328.7888135910034
+Fin; energy prediction...time: 328.8506214618683
+Summary of Results...Min/Max/Mean/Std
+-66.96994 -62.75014 -65.09124 0.44440308
+# of configuration with minimum energy... 1
+Start for  1_4_1_10 [419/455]
+Fin;generate all combinations 240240 ...time: 0.7700386047363281
+Pure GPU Computing time... 65.75728130340576
+Fin; energy prediction...time: 65.80887913703918
+Summary of Results...Min/Max/Mean/Std
+-65.98149 -62.641926 -64.466286 0.4240981
+# of configuration with minimum energy... 1
+Start for  1_3_11_1 [420/455]
+Fin;generate all combinations 87360 ...time: 0.2841064929962158
+Pure GPU Computing time... 23.876819610595703
+Fin; energy prediction...time: 23.92680859565735
+Summary of Results...Min/Max/Mean/Std
+-71.46687 -66.74081 -69.20664 0.63575846
+# of configuration with minimum energy... 1
+Start for  1_3_10_2 [421/455]
+Fin;generate all combinations 480480 ...time: 1.38264799118042
+Pure GPU Computing time... 131.39255118370056
+Fin; energy prediction...time: 131.44492936134338
+Summary of Results...Min/Max/Mean/Std
+-70.73796 -66.262024 -68.77129 0.58813757
+# of configuration with minimum energy... 1
+Start for  1_3_9_3 [422/455]
+Fin;generate all combinations 1601600 ...time: 5.589670181274414
+Pure GPU Computing time... 437.95291352272034
+Fin; energy prediction...time: 438.0191719532013
+Summary of Results...Min/Max/Mean/Std
+-70.16469 -65.04361 -68.11907 0.54745746
+# of configuration with minimum energy... 1
+Start for  1_3_8_4 [423/455]
+Fin;generate all combinations 3603600 ...time: 12.67542839050293
+Pure GPU Computing time... 984.4013242721558
+Fin; energy prediction...time: 984.5015685558319
+Summary of Results...Min/Max/Mean/Std
+-69.30022 -64.33688 -67.36079 0.5396809
+# of configuration with minimum energy... 1
+Start for  1_3_7_5 [424/455]
+Fin;generate all combinations 5765760 ...time: 21.756603956222534
+Pure GPU Computing time... 1559.2944321632385
+Fin; energy prediction...time: 1559.420205116272
+Summary of Results...Min/Max/Mean/Std
+-68.96274 -63.52577 -66.57961 0.5484518
+# of configuration with minimum energy... 1
+Start for  1_3_6_6 [425/455]
+Fin;generate all combinations 6726720 ...time: 24.562411069869995
+Pure GPU Computing time... 1820.5220539569855
+Fin; energy prediction...time: 1820.6619708538055
+Summary of Results...Min/Max/Mean/Std
+-67.971146 -62.61408 -65.82957 0.54536915
+# of configuration with minimum energy... 1
+Start for  1_3_5_7 [426/455]
+Fin;generate all combinations 5765760 ...time: 19.907432317733765
+Pure GPU Computing time... 1559.587217092514
+Fin; energy prediction...time: 1559.7202875614166
+Summary of Results...Min/Max/Mean/Std
+-67.165695 -62.199352 -65.13672 0.51994896
+# of configuration with minimum energy... 1
+Start for  1_3_4_8 [427/455]
+Fin;generate all combinations 3603600 ...time: 11.75844693183899
+Pure GPU Computing time... 975.0437171459198
+Fin; energy prediction...time: 975.1442837715149
+Summary of Results...Min/Max/Mean/Std
+-66.234406 -61.221413 -64.50364 0.48073307
+# of configuration with minimum energy... 1
+Start for  1_3_3_9 [428/455]
+Fin;generate all combinations 1601600 ...time: 5.535953998565674
+Pure GPU Computing time... 433.80114674568176
+Fin; energy prediction...time: 433.87028455734253
+Summary of Results...Min/Max/Mean/Std
+-65.50883 -61.50958 -63.915333 0.44205552
+# of configuration with minimum energy... 1
+Start for  1_3_2_10 [429/455]
+Fin;generate all combinations 480480 ...time: 1.4889779090881348
+Pure GPU Computing time... 129.8480474948883
+Fin; energy prediction...time: 129.90459275245667
+Summary of Results...Min/Max/Mean/Std
+-64.85695 -61.29734 -63.347664 0.409971
+# of configuration with minimum energy... 1
+Start for  1_3_1_11 [430/455]
+Fin;generate all combinations 87360 ...time: 0.4468967914581299
+Pure GPU Computing time... 23.222364902496338
+Fin; energy prediction...time: 23.272276401519775
+Summary of Results...Min/Max/Mean/Std
+-63.93623 -61.30975 -62.774582 0.37942985
+# of configuration with minimum energy... 1
+Start for  1_2_12_1 [431/455]
+Fin;generate all combinations 21840 ...time: 0.08455657958984375
+Pure GPU Computing time... 5.806373834609985
+Fin; energy prediction...time: 5.855754852294922
+Summary of Results...Min/Max/Mean/Std
+-69.20868 -66.179794 -67.72605 0.7038774
+# of configuration with minimum energy... 1
+Start for  1_2_11_2 [432/455]
+Fin;generate all combinations 131040 ...time: 0.4636802673339844
+Pure GPU Computing time... 34.832568407058716
+Fin; energy prediction...time: 34.88108825683594
+Summary of Results...Min/Max/Mean/Std
+-70.02093 -64.36481 -67.58154 0.7325472
+# of configuration with minimum energy... 1
+Start for  1_2_10_3 [433/455]
+Fin;generate all combinations 480480 ...time: 1.7977540493011475
+Pure GPU Computing time... 127.73644232749939
+Fin; energy prediction...time: 127.79132461547852
+Summary of Results...Min/Max/Mean/Std
+-69.0956 -64.455536 -67.09487 0.6788637
+# of configuration with minimum energy... 1
+Start for  1_2_9_4 [434/455]
+Fin;generate all combinations 1201200 ...time: 4.571619033813477
+Pure GPU Computing time... 319.2454571723938
+Fin; energy prediction...time: 319.3076844215393
+Summary of Results...Min/Max/Mean/Std
+-68.48218 -62.64262 -66.401215 0.6105145
+# of configuration with minimum energy... 1
+Start for  1_2_8_5 [435/455]
+Fin;generate all combinations 2162160 ...time: 8.143816709518433
+Pure GPU Computing time... 577.324579000473
+Fin; energy prediction...time: 577.399822473526
+Summary of Results...Min/Max/Mean/Std
+-67.5913 -62.58595 -65.61236 0.5698996
+# of configuration with minimum energy... 1
+Start for  1_2_7_6 [436/455]
+Fin;generate all combinations 2882880 ...time: 11.142852306365967
+Pure GPU Computing time... 764.9829998016357
+Fin; energy prediction...time: 765.0710911750793
+Summary of Results...Min/Max/Mean/Std
+-67.215454 -61.120705 -64.81217 0.5534537
+# of configuration with minimum energy... 1
+Start for  1_2_6_7 [437/455]
+Fin;generate all combinations 2882880 ...time: 10.650373458862305
+Pure GPU Computing time... 763.6304771900177
+Fin; energy prediction...time: 763.7156174182892
+Summary of Results...Min/Max/Mean/Std
+-65.93992 -60.644302 -64.05529 0.53463906
+# of configuration with minimum energy... 1
+Start for  1_2_5_8 [438/455]
+Fin;generate all combinations 2162160 ...time: 7.990677118301392
+Pure GPU Computing time... 572.4477965831757
+Fin; energy prediction...time: 572.5239543914795
+Summary of Results...Min/Max/Mean/Std
+-65.074524 -59.746365 -63.36851 0.49850637
+# of configuration with minimum energy... 1
+Start for  1_2_4_9 [439/455]
+Fin;generate all combinations 1201200 ...time: 4.143630743026733
+Pure GPU Computing time... 317.93316626548767
+Fin; energy prediction...time: 317.99543809890747
+Summary of Results...Min/Max/Mean/Std
+-64.216705 -59.999203 -62.754692 0.4494584
+# of configuration with minimum energy... 1
+Start for  1_2_3_10 [440/455]
+Fin;generate all combinations 480480 ...time: 1.7007615566253662
+Pure GPU Computing time... 127.18198728561401
+Fin; energy prediction...time: 127.23756766319275
+Summary of Results...Min/Max/Mean/Std
+-63.465374 -60.069653 -62.199196 0.40009812
+# of configuration with minimum energy... 1
+Start for  1_2_2_11 [441/455]
+Fin;generate all combinations 131040 ...time: 0.3807523250579834
+Pure GPU Computing time... 34.667827129364014
+Fin; energy prediction...time: 34.71912741661072
+Summary of Results...Min/Max/Mean/Std
+-62.811268 -60.094482 -61.677547 0.35666355
+# of configuration with minimum energy... 1
+Start for  1_2_1_12 [442/455]
+Fin;generate all combinations 21840 ...time: 0.07414484024047852
+Pure GPU Computing time... 5.77802848815918
+Fin; energy prediction...time: 5.826126337051392
+Summary of Results...Min/Max/Mean/Std
+-62.060093 -59.875645 -61.163105 0.31395674
+# of configuration with minimum energy... 1
+Start for  1_1_13_1 [443/455]
+Fin;generate all combinations 3360 ...time: 0.016449689865112305
+Pure GPU Computing time... 0.8889760971069336
+Fin; energy prediction...time: 0.9361419677734375
+Summary of Results...Min/Max/Mean/Std
+-66.621574 -63.84051 -65.8599 0.59925073
+# of configuration with minimum energy... 1
+Start for  1_1_12_2 [444/455]
+Fin;generate all combinations 21840 ...time: 0.0681614875793457
+Pure GPU Computing time... 5.773251533508301
+Fin; energy prediction...time: 5.820285797119141
+Summary of Results...Min/Max/Mean/Std
+-67.67034 -63.904087 -66.14826 0.8198339
+# of configuration with minimum energy... 1
+Start for  1_1_11_3 [445/455]
+Fin;generate all combinations 87360 ...time: 0.26978302001953125
+Pure GPU Computing time... 23.100651025772095
+Fin; energy prediction...time: 23.14884662628174
+Summary of Results...Min/Max/Mean/Std
+-68.40091 -62.72285 -65.95138 0.8451382
+# of configuration with minimum energy... 1
+Start for  1_1_10_4 [446/455]
+Fin;generate all combinations 240240 ...time: 0.8802351951599121
+Pure GPU Computing time... 63.51944613456726
+Fin; energy prediction...time: 63.5714910030365
+Summary of Results...Min/Max/Mean/Std
+-67.44118 -62.148716 -65.42145 0.76641786
+# of configuration with minimum energy... 1
+Start for  1_1_9_5 [447/455]
+Fin;generate all combinations 480480 ...time: 1.927245855331421
+Pure GPU Computing time... 127.1257209777832
+Fin; energy prediction...time: 127.17951726913452
+Summary of Results...Min/Max/Mean/Std
+-66.728584 -60.984627 -64.69456 0.66367245
+# of configuration with minimum energy... 1
+Start for  1_1_8_6 [448/455]
+Fin;generate all combinations 720720 ...time: 2.7550041675567627
+Pure GPU Computing time... 190.7488522529602
+Fin; energy prediction...time: 190.80647683143616
+Summary of Results...Min/Max/Mean/Std
+-65.89925 -60.19539 -63.88324 0.5880062
+# of configuration with minimum energy... 1
+Start for  1_1_7_7 [449/455]
+Fin;generate all combinations 823680 ...time: 3.2191269397735596
+Pure GPU Computing time... 218.04769492149353
+Fin; energy prediction...time: 218.1054654121399
+Summary of Results...Min/Max/Mean/Std
+-65.18271 -59.25036 -63.072075 0.5449208
+# of configuration with minimum energy... 1
+Start for  1_1_6_8 [450/455]
+Fin;generate all combinations 720720 ...time: 2.717078447341919
+Pure GPU Computing time... 190.78951358795166
+Fin; energy prediction...time: 190.84671926498413
+Summary of Results...Min/Max/Mean/Std
+-64.03972 -58.145073 -62.316357 0.50932276
+# of configuration with minimum energy... 1
+Start for  1_1_5_9 [451/455]
+Fin;generate all combinations 480480 ...time: 1.87554931640625
+Pure GPU Computing time... 127.13362741470337
+Fin; energy prediction...time: 127.18829250335693
+Summary of Results...Min/Max/Mean/Std
+-63.09099 -58.55473 -61.643402 0.46156934
+# of configuration with minimum energy... 1
+Start for  1_1_4_10 [452/455]
+Fin;generate all combinations 240240 ...time: 0.8743135929107666
+Pure GPU Computing time... 63.589300870895386
+Fin; energy prediction...time: 63.64097213745117
+Summary of Results...Min/Max/Mean/Std
+-62.19064 -58.628986 -61.05646 0.4016148
+# of configuration with minimum energy... 1
+Start for  1_1_3_11 [453/455]
+Fin;generate all combinations 87360 ...time: 0.26056504249572754
+Pure GPU Computing time... 23.117000818252563
+Fin; energy prediction...time: 23.167600870132446
+Summary of Results...Min/Max/Mean/Std
+-61.450863 -58.968178 -60.541027 0.34031257
+# of configuration with minimum energy... 1
+Start for  1_1_2_12 [454/455]
+Fin;generate all combinations 21840 ...time: 0.06478571891784668
+Pure GPU Computing time... 5.7796714305877686
+Fin; energy prediction...time: 5.858445882797241
+Summary of Results...Min/Max/Mean/Std
+-60.91006 -58.88241 -60.072315 0.28418815
+# of configuration with minimum energy... 2
+Start for  1_1_1_13 [455/455]
+Fin;generate all combinations 3360 ...time: 0.014416933059692383
+Pure GPU Computing time... 0.8928289413452148
+Fin; energy prediction...time: 0.9403688907623291
+Summary of Results...Min/Max/Mean/Std
+-60.1508 -58.938404 -59.62303 0.22705258
+# of configuration with minimum energy... 1
+Saving....
+Saved to... Cs_CdGeHgSn_Cl.pkl
