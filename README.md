@@ -10,14 +10,15 @@ In addition, this codes require:
 * [Atomic Simulation Environment](https://databases.fysik.dtu.dk/ase/index.html)
 * [tqdm](https://tqdm.github.io/)
 If you are new to Python, the easiest way of installing the prerequisites is via [conda](https://conda.io/en/latest/index.html). After installing conda, run the following command to create a new environment named cgcnn and install all prerequisites:
-### **Optional:**
-* Computer cluster nodes with workload manager program like slurm or pbs.
 ```
 conda upgrade conda
 conda create -n cgcnn python=3
 conda activate cgcnn
 pip install scikit-learn torch pymatgen pandas ase tqdm
 ```
+### **Optional:**
+* Computer cluster nodes with workload manager program like slurm or pbs.
+
 ## **Explanation**
 ### **"Data"** directory
 "Exploration results obtained by CGCNN.xlsx" file contains screening results for 41,400 ABX3 perovskite compositions. "Training data for CGCNN.xlsx" file contains DFT calculation results for 3,159 ABX3 perovskite compositions.
