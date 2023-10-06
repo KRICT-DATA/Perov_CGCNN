@@ -9,6 +9,7 @@ In addition, this codes require:
 * [Pandas](https://pandas.pydata.org/)
 * [Atomic Simulation Environment](https://databases.fysik.dtu.dk/ase/index.html)
 * [tqdm](https://tqdm.github.io/)
+
 If you are new to Python, the easiest way of installing the prerequisites is via [conda](https://conda.io/en/latest/index.html). After installing conda, run the following command to create a new environment named cgcnn and install all prerequisites:
 ```
 conda upgrade conda
