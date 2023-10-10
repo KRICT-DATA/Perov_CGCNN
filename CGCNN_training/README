@@ -1,7 +1,5 @@
 1. unzip 'cif_dir.tar.gz' by typing
-```
 tar -zxvf cif_dir.tar.gz
-```
 
 2. Type "sh make_id_prop.sh [property]". Replace [property] to one of the properties: decomp, bandgap, and bandtype. This will create "id_prop.csv" file in "cif_dir" directory. "id_prop.csv" file contains values of the designated property for each CIF file. Check whether the "id_prop.csv" file was created, by typing "vi ./cif_dif/id_prop.csv"
 
