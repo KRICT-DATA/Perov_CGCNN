@@ -32,8 +32,5 @@ This directory contains codes and necessary files for chemical exploration of AB
 "job_submit_example.sh" file shows example for using "random_searching_restart.py" code. The "random_searching_restart.py" code will create log and pickle files. The log file contains decomposition energy, the number of generated atomic configurations for each composition. The pickle file contains the lowest-energy atomic configuration for each composition, as a format of ASE (Atomic Simulation Environment) atoms. Using the generated pickle file, "bandgap_model_best.pth.tar", "bandtype_model_best.pth.tar", and "predict.py" files, you can predict bandgap and bandtype for the lowest-energy atomic configuration at each composition.
 See README file in the "CGCNN_searching" directory for details.
 
-### **"Codes_for_figures"** directory 
-This contains codes and data to reproduce figures in the manuscript. 
-
 ## **Authors**
 This codes were primarily written by [Jin-Soo Kim](https://orcid.org/0000-0002-8230-8783) and [Juhwan Noh](https://scholar.google.co.kr/citations?hl=en&user=1FWcaAIAAAAJ) who were advised by Dr. [Jino Im](https://scholar.google.co.kr/citations?hl=en&user=b5Buk0MAAAAJ).
