@@ -17,7 +17,7 @@ If you are new to Python, the easiest way of installing the prerequisites is via
 conda upgrade conda
 conda create -n cgcnn python=3
 conda activate cgcnn
-pip install scikit-learn torch pymatgen pandas ase tqdm matplotlib
+pip install scikit-learn torch pymatgen pandas ase tqdm matplotlib mpltern
 ```
 ### **Optional:**
 * Computer cluster nodes with workload manager program like slurm or pbs.
