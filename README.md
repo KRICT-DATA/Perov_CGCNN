@@ -10,6 +10,7 @@ In addition, this codes require:
 * [Atomic Simulation Environment](https://databases.fysik.dtu.dk/ase/index.html)
 * [tqdm](https://tqdm.github.io/)
 * [Matplotlib](https://matplotlib.org/stable/)
+* [mpltern](https://mpltern.readthedocs.io/en/latest/) (for ternary plot)
 
 If you are new to Python, the easiest way of installing the prerequisites is via [conda](https://conda.io/en/latest/index.html). After installing conda, run the following command to create a new environment named cgcnn and install all prerequisites:
 ```
