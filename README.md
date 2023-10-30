@@ -6,7 +6,7 @@ This codes are based on Python3.
 This codes require to install prerequistes of [CGCNN](https://github.com/txie-93/cgcnn).
 In addition, this codes require:
 * Linux operating system
-* [Pandas](https://pandas.pydata.org/)
+* [Pandas](https://pandas.pydata.org/) with [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 * [Atomic Simulation Environment](https://databases.fysik.dtu.dk/ase/index.html)
 * [tqdm](https://tqdm.github.io/)
 * [Matplotlib](https://matplotlib.org/stable/)
@@ -17,7 +17,7 @@ If you are new to Python, the easiest way of installing the prerequisites is via
 conda upgrade conda
 conda create -n cgcnn python=3
 conda activate cgcnn
-pip install scikit-learn torch pymatgen pandas ase tqdm matplotlib mpltern
+pip install scikit-learn torch pymatgen pandas openpyxl ase tqdm matplotlib mpltern
 ```
 ### **Optional:**
 * Computer cluster nodes with workload manager program like slurm or pbs.
