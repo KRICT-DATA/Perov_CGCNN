@@ -9,13 +9,14 @@ In addition, this codes require:
 * [Pandas](https://pandas.pydata.org/)
 * [Atomic Simulation Environment](https://databases.fysik.dtu.dk/ase/index.html)
 * [tqdm](https://tqdm.github.io/)
+* [Matplotlib](https://matplotlib.org/stable/)
 
 If you are new to Python, the easiest way of installing the prerequisites is via [conda](https://conda.io/en/latest/index.html). After installing conda, run the following command to create a new environment named cgcnn and install all prerequisites:
 ```
 conda upgrade conda
 conda create -n cgcnn python=3
 conda activate cgcnn
-pip install scikit-learn torch pymatgen pandas ase tqdm
+pip install scikit-learn torch pymatgen pandas ase tqdm matplotlib
 ```
 ### **Optional:**
 * Computer cluster nodes with workload manager program like slurm or pbs.
