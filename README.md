@@ -27,6 +27,9 @@ pip install scikit-learn torch pymatgen pandas openpyxl ase tqdm matplotlib mplt
 ### **"Data"** directory
 "Exploration results obtained by CGCNN.xlsx" file contains screening results for 41,400 ABX3 perovskite compositions. "Training data for CGCNN.xlsx" file contains DFT calculation results for 3,159 ABX3 perovskite compositions.
 
+### **"DFT_training_data"** directory
+This directory contains shell script for generating 3159 non-equivalent structures used for CGCNN training. 
+
 ### **"CGCNN_training"** directory 
 This directory contains codes and files necessary to train CGCNN models. See README file in the "CGCNN_training" directory for details.
 
