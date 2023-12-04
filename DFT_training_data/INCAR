@@ -1,0 +1,112 @@
+ SYSTEM = Cs2Hg6S7
+ Starting parameters for this run:
+   NWRITE =      2    write-flag
+   ISTART =      0    job   : 0-new, 1-cont, 2-samecut
+   ICHARG =      2    charge: 0-wave, 1-file, 2-atom, >10-const
+   INIWAV =      1    electr: 0-lowe 1-rand  2-diag
+   ISPIN  =      1    spin-polarized or not: 
+
+ Electronic Relaxation:
+   PREC   =  accurate | normal | medium | high
+#   NGX    =  42 ; NGY  = 56 ; NGZ  =  90
+#   NGXF   =  60 ; NGYF = 80 ; NGZF = 128
+   ADDGRID = .TRUE.
+#   LSCALAPACK = .FALSE.
+   
+   ENCUT  =    500
+   NELMDL =     -6    number of delayed ELM steps
+   NELM   =    500    number of ELM steps
+   EDIFF  =  1E-05    energy stopping-criterion for ELM
+   NELMIN =      6
+#   NBANDS=    1024
+#   SOCFT  =   1.00
+   LREAL  =  .FALSE.   real-space projection (.FALSE., .TRUE., On, Auto)
+#   NSIM   =  16
+#   ALGO   =   Fast
+#   IALGO  =     38    algorithm (38=Davison for small, 48=RMM for big systems)
+#   NSIM   =      1    NSIM bands are optimized simultaneously (IALGO=48 only)
+#   ROPT   =   3.75 2.80 2.20  Real-space Cutoff in Angstrom (Al, Sb, H)
+#   IDIPOL = 3; DIPOL = 0.5 0.5 0.5; LDIPOL = .TRUE.
+
+#   IMIX     =  1   
+#   AMIX     =  0.1
+#   BMIX     =  0.0001
+#   AMIXMAG  =  0.8
+#   BMIXMAG  =  0.0001 
+#   LMAXMIX  =  4
+  
+#   EFIELD  =  -0.005
+#   LDIPOL  =  .TRUE.
+#   IDIPOL  =  3
+
+#   LSORBIT  =  .TRUE.
+#   SAXIS    =  0.0 0.0 1.0
+#   MAGMOM   = 15*0.0 
+
+#   LDAU = .True.
+#   LDAUTYPE = 1
+#   LDAUU = 0.0 0.0 5.0
+#   LDAUJ = 0.0 0.0 1.0
+#   LDAUPRINT = 0
+
+#   METAGGA = SCAN
+#   LUSE_VDW = .TRUE.
+#   BPARAM = 15.7 
+   LASPH  = .TRUE.
+   GGA = PS
+
+#   LHFCALC = .TRUE.
+#   HFSCREEN = 0.20
+#   AEXX = 0.25
+#   NBANDS =
+#   ALGO = Damped
+#   LDIAG = .TRUE.
+#   TIME = 0.4
+#   PRECFOCK  = Fast
+#   NKRED     = 3
+#   KPAR      = 27
+
+   LCHARG  = F
+   LVTOT  =  F 
+   LWAVE   = F 
+
+ Ionic Relaxation:
+   NSW    =  1000     max number of geometry steps
+   IBRION =     2     ionic relax: 0-MD, 1-quasi-Newton, 2-CG, 3-Damped MD
+   EDIFFG =    -0.01  force (eV/A) stopping-criterion for geometry steps
+   ISIF   =     2     (1:force=y stress=trace only ions=y shape=n volume=n)
+   ISYM   =     2     (1-use symmetry, 0-no symmetry)
+   NFREE  =    10
+#   POTIM  =     0.10   initial time step for geo-opt (increase for soft sys#)
+#   TEBEG  =     800 
+#   TEEND  =     300 
+#   SMASS  =     9.6 
+
+ ELASTIC BANDS:
+#   IMAGES = 1
+#   SPRING = -5
+
+ DOS related vaLUES:
+   ISMEAR =     0        (-1-Fermi, 1-Methfessel/Paxton)
+   SIGMA  =     0.10   broadening in eV
+#   NEDOS  =     5000
+#   EMAX   =    5.0
+#   EMIN   =   -50.0
+
+# Parallelization and R-Wigs flags:
+   KPAR   = 2 
+   NPAR   = 4
+#   LPLANE = .TRUE.
+#   LORBIT = 12
+#   RWIGS  = 1.670  0.930  2.200 
+
+# Band decomposed charge density
+#    LPARD =.TRUE.
+#    IBAND = 12 13 14 15 16
+#    EINT  = -0.125 -0.075
+#    NBMOD = -3
+#    KPUSE = 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+#    LSEPB = .TRUE.
+#    LSEPK = .TRUE.
+SYMPREC = 1E-6
+ 
