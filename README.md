@@ -21,7 +21,7 @@ pip install scikit-learn torch pymatgen pandas openpyxl ase tqdm matplotlib mplt
 ```
 ### **Optional:**
 * Computer cluster nodes with workload manager program like slurm or pbs.
-* [VASPKit](https://vaspkit.com/installation.html)
+* [VASPKIT](https://vaspkit.com/installation.html)
 
 ## **Explanation**
 ### **"Data"** directory
