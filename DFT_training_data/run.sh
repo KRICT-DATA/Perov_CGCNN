@@ -19,8 +19,8 @@ function run_cellrelax {
 	sed -i "s/Au/$4/g" POSCAR
 	sed -i "s/Pt/$5/g" POSCAR
 	sed -i "s/I/$6/g" POSCAR
-	rm POTCAR
-	echo 103|vaspkit
+	#rm POTCAR
+	#echo 103|vaspkit
 	#qsub job.sh
 	#sleep 0.1
 }
