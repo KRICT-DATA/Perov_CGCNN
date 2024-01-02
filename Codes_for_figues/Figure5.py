@@ -3,8 +3,7 @@ import numpy as np
 import pickle
 from matplotlib import pyplot as plt
 fontdict = {'font': 'Times New Roman', 'size': 32, 'fontweight': 'bold'}
-df = pd.read_excel('../Data/Training data for CGCNN.xlsx')
-df = df.rename(columns={'Elements (A.B1.n1.B2.n2.B3.n3.B4.n4.X)': 'Elements'})
+df = pd.read_excel('Training data for CGCNN.xlsx')
 df1 = pd.read_csv('selected_validation.csv')
 A = 'Cs'
 X = 'Br'
@@ -32,21 +31,21 @@ for i in range(1, 16):
     deltaGs.append(deltaG)
     if i == 4:
         train_ratios.append(ratio1)
-        train_deltaH = df[df['Elements'] == f'{A}.{B1}.{B2}.{B2}.{B2}.{X}']['deltaH_decomposition (meV/atom)']
+        train_deltaH = df[df['Elements'] == f'{A}.{B1}.{B2}.{B2}.{B2}.{X}']['deltaH_decomposition(meV/atom)']
         train_deltaGs.append(train_deltaH+deltaS)
     elif i == 8:
         train_ratios.append(ratio1)
-        train_deltaH = df[df['Elements'] == f'{A}.{B1}.{B1}.{B2}.{B2}.{X}']['deltaH_decomposition (meV/atom)']
+        train_deltaH = df[df['Elements'] == f'{A}.{B1}.{B1}.{B2}.{B2}.{X}']['deltaH_decomposition(meV/atom)']
         train_deltaGs.append(train_deltaH + deltaS)
         train_ratios.append(ratio1)
-        train_deltaH = df[df['Elements'] == f'{A}.{B1}.{B2}.{B1}.{B2}.{X}']['deltaH_decomposition (meV/atom)']
+        train_deltaH = df[df['Elements'] == f'{A}.{B1}.{B2}.{B1}.{B2}.{X}']['deltaH_decomposition(meV/atom)']
         train_deltaGs.append(train_deltaH + deltaS)
         train_ratios.append(ratio1)
-        train_deltaH = df[df['Elements'] == f'{A}.{B1}.{B2}.{B2}.{B1}.{X}']['deltaH_decomposition (meV/atom)']
+        train_deltaH = df[df['Elements'] == f'{A}.{B1}.{B2}.{B2}.{B1}.{X}']['deltaH_decomposition(meV/atom)']
         train_deltaGs.append(train_deltaH + deltaS)
     elif i == 12:
         train_ratios.append(ratio1)
-        train_deltaH = df[df['Elements'] == f'{A}.{B1}.{B1}.{B1}.{B2}.{X}']['deltaH_decomposition (meV/atom)']
+        train_deltaH = df[df['Elements'] == f'{A}.{B1}.{B1}.{B1}.{B2}.{X}']['deltaH_decomposition(meV/atom)']
         train_deltaGs.append(train_deltaH + deltaS)
 test_ratios.append(0.75)
 test_deltaGs.append(df1[df1['Compounds'] == f'{A}{B1}{0.75}{B2}{0.25}{X}3']['deltaG_DFT(meV/atom)'])
@@ -54,11 +53,11 @@ test_deltaGs.append(df1[df1['Compounds'] == f'{A}{B1}{0.75}{B2}{0.25}{X}3']['del
 with open(f"./pickle_files_unary/{A}_{B2}_{X}.pkl", 'rb') as f:
     Results = pickle.load(f)
 ratios.append(0), deltaGs.append(Results['16']['Prediction'][0]), yerrs.append(0)
-train_ratios.append(0), train_deltaGs.append(df[df['Elements'] == f'{A}.{B2}.{B2}.{B2}.{B2}.{X}']['deltaH_decomposition (meV/atom)'])
+train_ratios.append(0), train_deltaGs.append(df[df['Elements'] == f'{A}.{B2}.{B2}.{B2}.{B2}.{X}']['deltaH_decomposition(meV/atom)'])
 with open(f"./pickle_files_unary/{A}_{B1}_{X}.pkl", 'rb') as f:
     Results = pickle.load(f)
 ratios.append(1), deltaGs.append(Results['16']['Prediction'][0]), yerrs.append(0)
-train_ratios.append(1), train_deltaGs.append(df[df['Elements'] == f'{A}.{B1}.{B1}.{B1}.{B1}.{X}']['deltaH_decomposition (meV/atom)'])
+train_ratios.append(1), train_deltaGs.append(df[df['Elements'] == f'{A}.{B1}.{B1}.{B1}.{B1}.{X}']['deltaH_decomposition(meV/atom)'])
 
 fig = plt.figure(figsize=(22, 11))
 ax1 = plt.subplot(1, 2, 1)
@@ -70,14 +69,14 @@ ax1.tick_params(length=5, width=thickness)
 yerr = np.hstack((np.zeros(len(yerrs)).reshape(1, -1), np.array(yerrs).reshape(1, -1))).reshape(2, len(yerrs))
 d1 = plt.errorbar(ratios, deltaGs, yerr=yerr, fmt='o', markersize=10, color='black', alpha=0.25, label='CGCNN')
 d2= plt.scatter(train_ratios, train_deltaGs, marker='s', s=75, color='red', alpha=0.75, label='Training data')
-d3 = plt.scatter(test_ratios, test_deltaGs, marker='^',s=100,color='green', alpha=0.75, label='DFT data (80 atoms)')
+d3 = plt.scatter(test_ratios, test_deltaGs, marker='*', s=300,color='green', alpha=0.75, label='DFT data (80 atoms)')
 plt.xlabel(f"x in {A}{B1}"r"$\mathregular{_x}$"f"{B2}"r"$\mathregular{_{1-x}}$"f"{X}"r"$\mathregular{_3}$",**fontdict)
 plt.ylabel(r"$\mathregular{\Delta H_{decomp} -T\Delta S_{mix}}$ (meV/atom)", **fontdict)
 plt.xticks(ticks=np.arange(0, 1.1, 0.1), font='Times New Roman', size=26, fontweight='bold')
 plt.yticks(font='Times New Roman', size=28, fontweight='bold')
 handles = [d1, d2, d3]
 labels = [handle.get_label() for handle in handles]
-legend = plt.legend(handles, labels, frameon=False, loc='upper right', framealpha=1.0, columnspacing=0.25, markerscale=2, handlelength=0.3, prop={'family': 'Times New Roman', 'size': 32, 'weight': 'bold'})
+legend = plt.legend(handles, labels, frameon=False, loc='upper right', framealpha=1.0, columnspacing=0.25, markerscale=1, handlelength=0.3, prop={'family': 'Times New Roman', 'size': 32, 'weight': 'bold'})
 legend.get_frame().set_linewidth(2)
 legend.get_frame().set_edgecolor('black')
 
@@ -127,23 +126,23 @@ for i in range(17):
             G.append(deltaG)
             if i ==4 and j ==4 and k==8:
                 x_tr1.append(ratio1), x_tr2.append(ratio2), x_tr3.append(ratio3)
-                deltaH_train1 = df[df['Elements'] == f"{A}.{B3}.{B3}.{B1}.{B2}.{X}"]['deltaH_decomposition (meV/atom)']
-                deltaH_train2 = df[df['Elements'] == f"{A}.{B3}.{B1}.{B3}.{B2}.{X}"]['deltaH_decomposition (meV/atom)']
-                deltaH_train3 = df[df['Elements'] == f"{A}.{B3}.{B1}.{B2}.{B3}.{X}"]['deltaH_decomposition (meV/atom)']
+                deltaH_train1 = df[df['Elements'] == f"{A}.{B3}.{B3}.{B1}.{B2}.{X}"]['deltaH_decomposition(meV/atom)']
+                deltaH_train2 = df[df['Elements'] == f"{A}.{B3}.{B1}.{B3}.{B2}.{X}"]['deltaH_decomposition(meV/atom)']
+                deltaH_train3 = df[df['Elements'] == f"{A}.{B3}.{B1}.{B2}.{B3}.{X}"]['deltaH_decomposition(meV/atom)']
                 deltaH_train = np.min([deltaH_train1, deltaH_train2, deltaH_train3])
                 G_tr.append(deltaH_train+deltaS)
             elif i==4 and j==8 and k==4:
                 x_tr1.append(ratio1), x_tr2.append(ratio2), x_tr3.append(ratio3)
-                deltaH_train1 = df[df['Elements'] == f"{A}.{B2}.{B2}.{B1}.{B3}.{X}"]['deltaH_decomposition (meV/atom)']
-                deltaH_train2 = df[df['Elements'] == f"{A}.{B2}.{B1}.{B2}.{B3}.{X}"]['deltaH_decomposition (meV/atom)']
-                deltaH_train3 = df[df['Elements'] == f"{A}.{B2}.{B1}.{B3}.{B2}.{X}"]['deltaH_decomposition (meV/atom)']
+                deltaH_train1 = df[df['Elements'] == f"{A}.{B2}.{B2}.{B1}.{B3}.{X}"]['deltaH_decomposition(meV/atom)']
+                deltaH_train2 = df[df['Elements'] == f"{A}.{B2}.{B1}.{B2}.{B3}.{X}"]['deltaH_decomposition(meV/atom)']
+                deltaH_train3 = df[df['Elements'] == f"{A}.{B2}.{B1}.{B3}.{B2}.{X}"]['deltaH_decomposition(meV/atom)']
                 deltaH_train = np.min([deltaH_train1, deltaH_train2, deltaH_train3])
                 G_tr.append(deltaH_train + deltaS)
             elif i==8 and j==4 and k==4:
                 x_tr1.append(ratio1), x_tr2.append(ratio2), x_tr3.append(ratio3)
-                deltaH_train1 = df[df['Elements'] == f"{A}.{B1}.{B1}.{B2}.{B3}.{X}"]['deltaH_decomposition (meV/atom)']
-                deltaH_train2 = df[df['Elements'] == f"{A}.{B1}.{B2}.{B1}.{B3}.{X}"]['deltaH_decomposition (meV/atom)']
-                deltaH_train3 = df[df['Elements'] == f"{A}.{B1}.{B2}.{B3}.{B1}.{X}"]['deltaH_decomposition (meV/atom)']
+                deltaH_train1 = df[df['Elements'] == f"{A}.{B1}.{B1}.{B2}.{B3}.{X}"]['deltaH_decomposition(meV/atom)']
+                deltaH_train2 = df[df['Elements'] == f"{A}.{B1}.{B2}.{B1}.{B3}.{X}"]['deltaH_decomposition(meV/atom)']
+                deltaH_train3 = df[df['Elements'] == f"{A}.{B1}.{B2}.{B3}.{B1}.{X}"]['deltaH_decomposition(meV/atom)']
                 deltaH_train = np.min([deltaH_train1, deltaH_train2, deltaH_train3])
                 G_tr.append(deltaH_train + deltaS)
         else:
@@ -153,14 +152,18 @@ for i in range(17):
 G_val = float(df1[df1['Compounds'] == f"{A}{B1}0.5625{B2}0.25{B3}0.1875{X}3"]['deltaG_DFT(meV/atom)'].iloc[0])
 vmin = np.min([np.min(G), np.min(G_tr)])
 vmax = np.max([np.max(G), np.max(G_tr)])
+#vmax = -80
 #fig = plt.figure(figsize=(22, 11))
 import mpltern
-scatter_color='green'
+scatter_color = 'cyan'
 linewidth = 2.0
 ax2 = fig.add_subplot(1, 2, 2, projection='ternary')
-cs = ax2.tripcolor(x1, x2, x3, G, cmap='gnuplot', vmin=vmin, vmax=vmax, shading='gouraud', label='CGCNN')
-ax2.scatter(x_tr1, x_tr2, x_tr3, c=G_tr, cmap='gnuplot', marker='s', s=100, edgecolor=scatter_color, linewidths=linewidth, vmin=vmin, vmax=vmax, label='Training data')
-ax2.scatter(0.5625, 0.25, 0.1875, c=G_val, cmap='gnuplot',  marker='^', s=100, edgecolor=scatter_color, facecolor='none', linewidths=linewidth, alpha=1, label='Lowest')
+cs = ax2.tripcolor(x1, x2, x3, G, cmap='gist_stern', vmin=vmin, vmax=vmax, shading='gouraud', label='CGCNN')
+ax2.plot([0.5625, 0.5625], [0.0, 0.25], [0.4325, 0.1875], ls=':', color='cyan', linewidth=4)
+ax2.plot([0.75, 0.5625], [0.25, 0.25], [0.0, 0.1875], ls=':', color='cyan', linewidth=4)
+ax2.plot([0.0, 0.5625], [0.9, 0.25], [0.1875, 0.1875], ls=':', color='cyan', linewidth=4)
+ax2.scatter(x_tr1, x_tr2, x_tr3, c=None, cmap=None, marker='s', s=100, edgecolor=scatter_color, linewidths=4, facecolor='none', vmin=vmin, vmax=vmax,alpha=1, label='Training data')
+ax2.scatter(0.5625, 0.25, 0.1875, c=None, cmap=None,  marker='*', s=500, edgecolor=scatter_color, facecolor='none', linewidths=linewidth, alpha=1, label='Lowest')
 print(G_val)
 for i in range(len(x1)):
     if x1[i] == 0.5625 and x2[i] == 0.25 and x3[i] == 0.1875:
@@ -184,9 +187,9 @@ colorbar1.ax.yaxis.set_label_coords(-0.6, 0.5)
 colorbar1.ax.tick_params(length=4, width=2)
 colorbar1.ax.set_yticklabels(colorbar1.ax.get_yticklabels(), font='Times New Roman', size=26, weight='bold')
 from matplotlib.lines import Line2D
-legend_marker = [Line2D([], [], marker='s', color='white', markeredgecolor=scatter_color, linewidth=linewidth),
-Line2D([],[], marker='^', color='white', markeredgecolor=scatter_color, linewidth=linewidth, linestyle='')]
-ax2.legend(handles=legend_marker, labels=['Training data', 'DFT data (80 atoms)'], frameon=False, framealpha=1.0, loc=(0.65, 0.9), handlelength=0.3, markerscale=2, prop={'family': 'Times New Roman', 'size': 24, 'weight': 'bold'})
+legend_marker = [Line2D([], [], marker='s', color=scatter_color, markeredgecolor=scatter_color, linewidth=linewidth),
+Line2D([],[], marker='*', color=scatter_color, markeredgecolor=scatter_color, linewidth=linewidth, linestyle='')]
+ax2.legend(handles=legend_marker, labels=['Training data', 'DFT data (80 atoms)'], frameon=False, framealpha=1.0, loc=(0.65, 0.9), handlelength=0.3, markerscale=3, prop={'family': 'Times New Roman', 'size': 24, 'weight': 'bold'})
 plt.gcf().subplots_adjust(wspace=0.15)
 fig.tight_layout()
 plt.show()
