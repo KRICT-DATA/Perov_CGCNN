@@ -1,5 +1,5 @@
 # Perov_CGCNN
-This is the repository of code and data for paper "Machine learning-enabled chemical space exploration of all-inorganic perovskites for photovoltaics" (https://doi.org/10.21203/rs.3.rs-3315454/v1)
+This is the repository of code and data for paper "Machine learning-enabled chemical space exploration of all-inorganic perovskites for photovoltaics" ([https://doi.org/10.1038/s41524-024-01270-1](https://doi.org/10.1038/s41524-024-01270-1))
 
 ## **Prerequisites:**
 This codes are based on Python3.
